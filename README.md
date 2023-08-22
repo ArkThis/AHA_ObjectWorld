@@ -1,21 +1,25 @@
 # A Holodeck by August.
 
+**Simply by making use of "name=value" tags, and moving them to the same level as a file or foldername.**
+
+
 > "Great Scott, Thomas! 😱️😎️
 >
-> I found these notes while I was travelling to the future and back to ...
-> Our current "situation" with, eh... "files". :/
-> And metadata.
-> They solved it!
+> I wrote these notes when I was travelling to the future and back to ...
+> Our current "situation" with, eh... "digital files". :/
+> And metadata. DAM!
+> They solved it! In the future!
 > They actually dissolve or resolve data - but they solved it!
 >
 > Listen here:
-> I wrote down as much as I could remember when I saw their designs.
+> I wrote down as much as I could, but it's not all.
 > It was so simple.
 >
 > There was a slogan, that everyone knew. It was:
 > "Put my meta where my data is".
 >
-> I don't have much time. I may commit or edit later, when my memory comes back - and when I continously understand the implementation.
+> I don't have much time.
+> I may commit or edit later, when my memory comes back - and when I continously understand the implementation more and more.
 >
 > It's so simple. Read on..."
 
@@ -25,7 +29,7 @@ Filesystems beyond "just storing files", by moving metadata and database needs
 to the filesystem's "tagging" feature.
 
 
-In a nutshell:
+## In a nutshell:
 
   * What if you could put any metadata with your file?
   * What if filename/foldername was "a tag option" and nothing more?
@@ -36,7 +40,8 @@ In a nutshell:
 
 Sounds pretty crazy, but I'd like to challenge building a working prototype.
 
-The prototype shall at least be able to:
+
+## The prototype shall at least be able to:
 
   * Provide an S3 compatible, *local-only* (but network-able) Object storage (MinIO?).
   * Copy cultural heritage object files - and *attach* their metadata as-is.
@@ -46,6 +51,9 @@ The prototype shall at least be able to:
     * regular file manager functionality.
     * display relationships (as graph? node network?)
     * plain viewer for basic formats (think IIIF)
+
+
+## Continue;
 
 The documents are currently merely a notepad for ideas, as well as may contain
 concrete technical implementation considerations or remarks that may be
