@@ -1,6 +1,29 @@
 # A Holodeck by August.
 
-These are notes regarding a technical draft for using Object Storage Filesystems beyond "just storing files", by moving metadata and database needs to the filesystem's "tagging" feature.
+> "Great Scott, Thomas! 😱️😎️
+>
+> I found these notes while I was travelling to the future and back to ...
+> Our current "situation" with, eh... "files". :/
+> And metadata.
+> They solved it!
+> They actually dissolve or resolve data - but they solved it!
+>
+> Listen here:
+> I wrote down as much as I could remember when I saw their designs.
+> It was so simple.
+>
+> There was a slogan, that everyone knew. It was:
+> "Put my meta where my data is".
+>
+> I don't have much time. I may commit or edit later, when my memory comes back - and when I continously understand the implementation.
+>
+> It's so simple. Read on..."
+
+
+These notes are regarding a technical draft for using Object Storage
+Filesystems beyond "just storing files", by moving metadata and database needs
+to the filesystem's "tagging" feature.
+
 
 In a nutshell:
 
@@ -28,4 +51,9 @@ The documents are currently merely a notepad for ideas, as well as may contain
 concrete technical implementation considerations or remarks that may be
 considered when implementing certain options.
 
-If you like you are welcome to engage in this idea: You may see the whole digital world around you in a very different way. That may be the real, awesome-digital 21st century! 🌟️
+If you like you are welcome to engage in this adventure:
+
+> You may see the whole digital world around you in a very different way. That may be the real, awesome-digital 21st century! 🌟️
+
+It's a low-hanging-fruit, yet endless rabbit-holes and possibly a never-ending story.
+But a good one definitely.
