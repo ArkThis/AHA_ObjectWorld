@@ -19,7 +19,7 @@ I'll try to keep them short for starters, then gradually reveal complexity and d
 
 # Glossary
 
-  * MoDO: "Meta and/or Data Object"
+  * Object: "Meta and/or Data Object"
   * Object: A data object, as implemented in current state of the art "object cloud storage" storage systems.
   * AHA world: An environment, where the AHFX is supported and implemented beyond any transition stage: This is a well-running object oriented digital environment. The AHA world.
   * AHFX: Name of the "AHA-world Filesystem. X." like ext4 or fat or ahfx.
@@ -168,7 +168,7 @@ It really *is* that simple.
 
 ## May replace all (media) container file formats.
 
-By "dissolving" (or translating) them into MoDOs.
+By "dissolving" (or translating) them into Objects.
 
 
 ## May provide links to editing/playback/view requirements
@@ -212,7 +212,7 @@ You just put the metadata in a right-click-whatever interface, and off you go!
 
 
 
-## DAM features may be replaced by plugins/views for a MoDO browser.
+## DAM features may be replaced by plugins/views for a Object browser.
 
 Modern DAMs are already web-browser based. Front- as well as back-end.
 Now if the database "is already there" - because it's your filesystem - any DAM functionality should be made as "website plugin" for your data browser.
@@ -251,11 +251,11 @@ Instead of having to think of a clever way for integrating previous IDs and exis
 Simply copy the data over onto your storage.
 And do that copy in the "old image" of creating "a target folder" (<- folders are MDOs too), called "Ingest-202308, then drag-n-drop whatever on it.
 
-Each folder/file will become a MoDO, with the additional tag "Ingest-202308", is now part of your collection.
+Each folder/file will become a Object, with the additional tag "Ingest-202308", is now part of your collection.
 They all come with metadata either directly stored as text on their object, or retrievable by relationships with other objects.
 
 Local or remote.
-The ID syntax and design of AHFX allows by design to refer to any MoDO-ID (the one with the 🌟️), and these references will still work, even if your object travels over networks, operating systems, anywhere: "it's just a copy of ...".
+The ID syntax and design of AHFX allows by design to refer to any Object-ID (the one with the 🌟️), and these references will still work, even if your object travels over networks, operating systems, anywhere: "it's just a copy of ...".
 
 There will generally be less metadata field mapping and transformation required, because of the design of AHFX:
 
@@ -300,7 +300,7 @@ The actual reading/writing of these embedded metadata fields/tags actually requi
 
 This requires to know the specification of each format that one wants to support (they pile up over time), and this has to be done again and again for each new format or version or variant of a new (media) file format being released.
 
-Now imagine all metadata (descriptive or technical) would actually be on the Object file system layer. The MoDO can be queried for all its metadata field as easily, and naturally as reading its filename or folder position before.
+Now imagine all metadata (descriptive or technical) would actually be on the Object file system layer. The Object can be queried for all its metadata field as easily, and naturally as reading its filename or folder position before.
 
 Then the actual difference between 2 audio formats would be most likely:
 
@@ -308,15 +308,15 @@ Then the actual difference between 2 audio formats would be most likely:
   * Handling audio channels
   * Handling audio tracks
 
-If you already think in AHA-MoDOs, then you can pretty much guess and already easily grasp how that would be easily be covered by "AHFX" (Working title for such a kind of filesystem standard):
+If you already think in AHA-Objects, then you can pretty much guess and already easily grasp how that would be easily be covered by "AHFX" (Working title for such a kind of filesystem standard):
 
-  * Main Audio Object (MoDO):
+  * Main Audio Object (Object):
     This is the one you'd "click on" or select if you'd like to handle "the whole recording" or session.
     It's probably a good idea to come up with some id- or naming-guideline or standards listing to make it clear if an object is an "entry" object.
 
-    It contains at least "the usual/common" metadata fields. Which metadata fields/layout that is, may be provided by any MoDO-aware "data browser". Imagine to right-click it, and you'll get the familiar name=value mask for audio productions/recordings. Like that.
+    It contains at least "the usual/common" metadata fields. Which metadata fields/layout that is, may be provided by any Object-aware "data browser". Imagine to right-click it, and you'll get the familiar name=value mask for audio productions/recordings. Like that.
 
-    It may contain references (relationships) to other MoDOs for:
+    It may contain references (relationships) to other Objects for:
 
     * each audio track
     * each audio channel
@@ -325,7 +325,7 @@ If you already think in AHA-MoDOs, then you can pretty much guess and already ea
 
 Depending on your "data browser" aka "AHA browser", you can select whether you see just "the audio file" (like you're used to) - or "the whole set, all channels, tracks, etc" - or "objects that are related in some (other) way". And you'd not only be able to see this like files in a folder in your choice of "file manager".
 
-Yet, you're actually now able to manipulate and interact with the internals of what was previously (before AHA-MoDOs) some (mostly) binary file format which required you to know the specification, read hex and understand way too much about computing to even begin with.
+Yet, you're actually now able to manipulate and interact with the internals of what was previously (before AHA-Objects) some (mostly) binary file format which required you to know the specification, read hex and understand way too much about computing to even begin with.
 
 So, before if you were lucky you saw this:
 
@@ -352,7 +352,7 @@ And if you'd like to add or swap or re-order channels:
 Just do so, by either drag-n-drop or changing relationships or references.
 
 Regardless of which file or media format.
-So the same for photos, videos, documents, anything. Even construction plans or automation G-codes. Anything can be depicted as MoDOs.
+So the same for photos, videos, documents, anything. Even construction plans or automation G-codes. Anything can be depicted as Objects.
 
 
 
@@ -362,11 +362,11 @@ So the same for photos, videos, documents, anything. Even construction plans or 
 
 ## May store written text as single objects.
 
-This may be crazy, but one could actually tag each word of a written text, generate an object for each word or phrase - and then re-create that text by generating a new MoDO that refers to these "word objects" in the right order.
+This may be crazy, but one could actually tag each word of a written text, generate an object for each word or phrase - and then re-create that text by generating a new Object that refers to these "word objects" in the right order.
 
-Each word-MoDO would now be capable of not only receiving a referrable GPID, but also "machine readable" gets a complete new meaning. Because if a machine is able to use/understand this "hyper-AHA-structured text", these word-MoDOs could then be connected to any other digital data object (image, video, audio, document, etc).
+Each word-Object would now be capable of not only receiving a referrable GPID, but also "machine readable" gets a complete new meaning. Because if a machine is able to use/understand this "hyper-AHA-structured text", these word-Objects could then be connected to any other digital data object (image, video, audio, document, etc).
 
-In that way, any information depicted as MoDO can be referenced to a word-MoDO. The graphs which are dereby being created can then be used to "decode" any digital data like written text.
+In that way, any information depicted as Object can be referenced to a word-Object. The graphs which are dereby being created can then be used to "decode" any digital data like written text.
 
 Example:
 
@@ -388,7 +388,7 @@ This syntax may provide a surprisingly small number of id-collissions, even if a
   * Syntax TIMESTAMP:
     `YYYY-MM-DDT133700-`
   * Precision of TIMESTAMP is arbitrary. Default is Year-to-seconds.
-    More fuzzy, like "year-month-only" may be used to encourage collissions with other MoDOs created by other users. Because however chosen, the more users create "fuzzy" objects, the more you'll see a "single value"-cluster forming. Maybe there'll be thousands (or more) MoDOs out there in the future, titled "Hooverphonic [Artist]" - most likely meaning the same "Agent" - yet, all with fuzzy IDs chosen: They'll over time auto-sort themselves out.
+    More fuzzy, like "year-month-only" may be used to encourage collissions with other Objects created by other users. Because however chosen, the more users create "fuzzy" objects, the more you'll see a "single value"-cluster forming. Maybe there'll be thousands (or more) Objects out there in the future, titled "Hooverphonic [Artist]" - most likely meaning the same "Agent" - yet, all with fuzzy IDs chosen: They'll over time auto-sort themselves out.
 
     Because if someone references to "20??-Hooverphonic-Artist" Object-ID, they'll receive the list of other Objects already describing "The Artist Hooverphonic".
 
@@ -426,18 +426,18 @@ CF-IDs in the AHA world are like this:
 Meaning: Why not merge all metadata to a single, new object?
 The new Object would It'd keep the "parent" ID, and continue with all "properties" (=metadata) from parent1 and parent2. Question is: How to merge the data payload (if there is one)?
 
-Assuming that most collission-intended MoDOs will be metadata-only (aka "light" MoDOs)
+Assuming that most collission-intended Objects will be metadata-only (aka "light" Objects)
 
 
 ## Security: Different "object spaces" - from private to public to anywhere.
 
 There can be any number of "object spaces".
 Think of it like chat-rooms or "contexts" or whatever.
-Not all MoDO browsers can have all features implemented - but as with current computing, there are often "common basics" that one can assume to have as common or fallback option to interface with IT.
+Not all Object browsers can have all features implemented - but as with current computing, there are often "common basics" that one can assume to have as common or fallback option to interface with IT.
 
-Oh, btw: Each object space is merely "yet another MoDO".
+Oh, btw: Each object space is merely "yet another Object".
 
-Because most configuration options for anything can now actually be stored with a MoDO. No more registry, no more config files.
+Because most configuration options for anything can now actually be stored with a Object. No more registry, no more config files.
 
 And config files will dissolve into annotated and related objects anyways.
 
@@ -510,7 +510,7 @@ Some tools or ideas may be woven together with the SNMP world.
 ## May replace media container formats.
 
 As already described for audio:
-The AHA world may depict the information provided by current media file formats like Matroska (mkv), AVI, MOV, MXF, etc) - in a MoDO object graph.
+The AHA world may depict the information provided by current media file formats like Matroska (mkv), AVI, MOV, MXF, etc) - in a Object object graph.
 
 Basic example:
 
@@ -523,7 +523,7 @@ Basic example:
 
 It's right there. This is not the output of MediaInfo anymore, this is the basic way you handle your daily computer needs. Working with "data objects".
 
-It is very likely that by translating container formats to MoDO graphs, the following additional benefits may occur:
+It is very likely that by translating container formats to Object graphs, the following additional benefits may occur:
 
   * Each stream/content object will accumulate its own metadata over its creation and lifecycle.
   * The actual "differences" between features of different container formats will become common code, because most of it is now handled by the default AHFX layer.
@@ -949,9 +949,9 @@ Right click-new. "type=space; title=Home". Done.
 There will probably be some sane defaults, well-supported conventions and of course proper standards. All living alongside each other.
 
 Object spaces may be sub-spaces of other object spaces.
-And of course, since they're AHA objects, they may be related to other MoDOs.
+And of course, since they're AHA objects, they may be related to other Objects.
 
-Now when you switch your "Linux-MoDO-Desktop" (Ctrl+Alt+Left/Right), you switch your object storage space working context:
+Now when you switch your "Linux-Object-Desktop" (Ctrl+Alt+Left/Right), you switch your object storage space working context:
 
 In that "context" (=object space & its (transition) rules), can you access the "data objects" you'd like to work/interact with - or merely enjoy or share?
 
