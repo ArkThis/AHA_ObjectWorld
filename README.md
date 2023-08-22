@@ -1,5 +1,7 @@
 # A Holodeck by August.
 
+**Simply by making use of "name=value" tags, and moving them to the same level as a file or foldername.**
+
 These are notes regarding a technical draft for using Object Storage Filesystems beyond "just storing files", by moving metadata and database needs to the filesystem's "tagging" feature.
 
 In a nutshell:
