@@ -1,25 +1,24 @@
 # A Holodeck by August.
 
-**Simply by making use of "name=value" tags, and moving them to the same level as a file or foldername.**
+**Simply by making use of "name=value" tags; moving them to the same level as a file or foldername; and using the filesystem directly as database.**
 
 
 > "Great Scott, Thomas! 😱️😎️
 >
 > I wrote these notes when I was travelling to the future and back to ...
-> Our current "situation" with, eh... "digital files". :/
+> Our current "situation" with, eh... "digital files". 😕️
 > And metadata. DAM!
+> 
 > They solved it! In the future!
-> They actually dissolve or resolve data - but they solved it!
 >
 > Listen here:
 > I wrote down as much as I could, but it's not all.
 > It was so simple.
 >
 > There was a slogan, that everyone knew. It was:
-> "Put my meta where my data is".
+> **"Put your meta where your data is"**
 >
-> I don't have much time.
-> I may commit or edit later, when my memory comes back - and when I continously understand the implementation more and more.
+> I may commit or edit later, whenever I have time.
 >
 > It's so simple. Read on..."
 
@@ -41,7 +40,7 @@ to the filesystem's "tagging" feature.
 Sounds pretty crazy, but I'd like to challenge building a working prototype.
 
 
-## The prototype shall at least be able to:
+## A prototype shall at least be able to:
 
   * Provide an S3 compatible, *local-only* (but network-able) Object storage (MinIO?).
   * Copy cultural heritage object files - and *attach* their metadata as-is.
@@ -61,7 +60,8 @@ considered when implementing certain options.
 
 If you like you are welcome to engage in this adventure:
 
-> You may see the whole digital world around you in a very different way. That may be the real, awesome-digital 21st century! 🌟️
+> You may see the whole digital world around you in a very different way.
+> That may be the real, awesome-digital 21st century! 🌟️
 
 It's a low-hanging-fruit, yet endless rabbit-holes and possibly a never-ending story.
 But a good one definitely.
