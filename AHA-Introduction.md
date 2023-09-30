@@ -2,7 +2,6 @@
 title: A Holodeck by August (AHA) - Introduction
 author: |-
         Peter Bubestinger-Steindl \
-        `(peter @ ArkThis.com)`
 geometry: a4paper, margin=2cm
 toc: false
 toc-depth: 2
