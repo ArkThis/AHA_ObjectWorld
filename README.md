@@ -3,6 +3,10 @@
 **Simply by making use of "name=value" tags; moving them to the same level as a file or foldername; and using the filesystem directly as database.**
 
 
+TL;DR:
+Skip to [the exciting "Introduction"](AHA-Introduction.md).
+
+
 > "Great Scott, Thomas! 😱️😎️
 >
 > I wrote these notes when I was travelling to the future and back to ...
