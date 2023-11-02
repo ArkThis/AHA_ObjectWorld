@@ -96,15 +96,29 @@ Probably we'll see a mix of "packed" and "unpacked" - even "mixpacked" ;)
 In the end, all that matters is that the right "data" can be accessed and used at the right point.
 
 
-## 
-
 
 # Overview of Features
 
 ## May replace all embedded metadata needs.
 
-Why bother to write support for yet-another-fileformat, if anyone can simply use the AHFX features?
-Any program/developer not doing so would spend way more time, while becoming less-interoperable and user-friendly over time in comparison to simply using AHFX.
+Probably, because Object Metadata feels like embedded.
+
+But even better, because noone needs to care about "which file format".
+Metadata access is the same for any format.
+
+For developers: No more need to go through any file-format parsing or
+implementation-support overhead. Handling Object Metadata is probably in one of
+the first introduction lessions of an Object-Storage support tutorial.
+
+So, why bother to write support for yet-another-fileformat, if anyone can simply
+use the Object Storage default features?  Any program/developer not doing so
+would spend way more time, while becoming less-interoperable and user-friendly
+over time in comparison to simply using default libraries/functionality.
+
+So yes, Object Metadata is "in some way" embedded. But now on a different level:
+The filesystem. Not the file format anymore. And that's a big difference in
+daily usage of any kind.
+
 
 
 ## Seamlessly (downwards-)compatible to file/folder naming workflows and applications.
@@ -152,17 +166,22 @@ Object spaces are one thing.
 It can make sense to define some object IDs to mark as "seriously private".
 Like `🌟️M20230816...`
 
-Any code by any developer should respect that "M-prefix" and make sure to discard M-prefix Objects if encountered "out of private". As a courtesy of the housekeeper ;)
+Any code by any developer should respect that "M-prefix" and make sure to
+discard M-prefix Objects if encountered "out of private". As a courtesy of the
+housekeeper ;)
 
-Should one consider making a private-ID object, you can simply copy/paste it over and assign it a new, regular ID.
-It may give you the hint that you're "de-privatizing" that object, which you confirm. Done.
-It really *is* that simple.
+Should one consider making a private-ID object, you can simply copy/paste it
+over and assign it a new, regular ID.  It may give you the hint that you're
+"de-privatizing" that object, which you confirm. Done.  It really *is* that
+simple.
 
 
 ## May make backup plans and archiving more convenient
 
-  * apply crontab-like timed-execution information to the object you'd like to "start".
-  * There are no more folders! You don't have to worry about "where" to store (or find) your backup/copies. Your tags stay and travel well.
+  * apply crontab-like timed-execution information to the object you'd like to
+    "start".
+  * There are no more folders! You don't have to worry about "where" to store
+    (or find) your backup/copies. Your tags stay and travel well.
 
 
 ## May replace all (media) container file formats.
@@ -174,7 +193,9 @@ By "dissolving" (or translating) them into Objects.
 
 Imagine you receive a "copy of whatever.xyz" from a friend or anyone else:
 How do you open it?
-It's common courtesy for anyone to at least (if they can) provide a link where I can download the right stuff to access this file. To watch it, to listen, to read - to create, anything.
+It's common courtesy for anyone to at least (if they can) provide a link where I
+can download the right stuff to access this file. To watch it, to listen, to
+read - to create, anything.
 
 Like:
   * "application=vlc"
@@ -184,12 +205,25 @@ Or:
 
 ## May cover file/data versioning needs.
 
-If any versioning metadata would be stored in proper AHFX MDO layout, the object layer could be used to store interoperable versioning information.
+If any versioning metadata would be stored in proper  layout, the object
+layer could be used to store interoperable versioning information.
+
+Check out how Git does it, and maybe patch Git to support the Object Storage
+default features.
 
 
 ## May replace Package Management functionality.
 
 Where do you get your executables from?
+
+Package repositories, similar to existing functionality of existing Linux
+distributions (Debian, Arch, etc), could be accessed by metadata stored with
+Objects.
+
+Also the packages themselves could be converted to Object Graphs. Making
+currently different package managers be able to "cherry-pick" and handle any
+kind of package for installation and setup. Would also support AppImage,
+Flatpak, etc.
 
 
 ## May provide torrent/magnet links and functionality in userspace.
