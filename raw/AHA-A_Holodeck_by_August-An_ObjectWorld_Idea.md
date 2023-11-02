@@ -554,3 +554,11 @@ kinda what ArchLinux shows does stable and tested for years: recipes for auto-bu
 TODO: Check if the user stories on NFDI4Culture can be depicted/handled with AHFX:
 https://nfdi4culture.de/resources/user-stories.html
 
+
+# 20231031
+
+[NixOS "Flakes"](https://nixos.wiki/wiki/Flakes):
+As reference(-idea) for a concept of declaring "Active Objects" which can
+rebuild a defined computing environment. Flakes is currently pointing to URLs,
+but could as well support resolving ObjectIDs and fetching related Objects.
+Just "downloading" them from somewhere. Locally or remote.
