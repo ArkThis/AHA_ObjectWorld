@@ -99,6 +99,22 @@ In the end, all that matters is that the right "data" can be accessed and used a
 
 # Overview of Features
 
+
+## Store eMails as related Objects
+
+Imagine: Each email is stored as Object. All metadata simply attached to it.
+Folder structures: As metadata tags and as meta-objects, grouping all contained Objects (eMails) within.
+
+Configuration of the eMail accounts:
+Also stored as related Objects on your storage.
+Just like any other data laying around.
+Imagine, you could simply backup these eMail Objects "by Query" - and restore them, usable immediately - after re-indexing - by your eMail client program.
+
+There is no difference between "exported" data from your eMail client program, and the actual data Objects stored on your drive. The eMail application merely needs to cache/index this "eMail Pool" of Objects.
+
+There is no big difference anymore (technically) between a textfile and an email. Merely additional metadata and related Object (graph) structure is provided. Yet, this could also be applied to any other file format - so also you textfile.
+
+
 ## May replace all embedded metadata needs.
 
 Probably, because Object Metadata feels like embedded.
