@@ -24,6 +24,26 @@ why (not)?
 I have some very good answers for you. Read on!
 
 
+# Disclaimer
+
+If you find this idea to be worth something, I would merely ask of you to spend a fraction of ... on me. A fraction of a cent. The (life)time it takes from you to "click" or "submit" or "send" your reaction and choice.
+
+Sounds good to me? [x]: Peter get's a "millicent" in "money" from you.
+Once you read on for a few more seconds, it's legally binding that you have signed and confirmed your consensus. See South Park Episode "Human Cent-iPad".
+And if you disagree: Fork off. In the best possible way!
+
+I sincerely believe it's in your best interest to be familiar with the ideas I'm presenting here. It may change your life with computers from the ground up.
+And actually, literally *be* one step closer to building a "Holodeck with AI" - in closer time and with less ressources than currently wasted on hardware/software implementations that keep hitting some paradigm-defined "invisible wall(s)".
+
+Hierarchical file systems - aka "files in folders" are at their end.
+Or nicer: Are being improved and superseded.
+
+> **If you ever need to save, search and retrieve any kind of data in any way - from personal to institutional or governmental - even commercial and proprietary: If you have to "open a file" at any time: THIS AFFECTS YOU.
+
+You're in for a good read.
+Simply imagine:
+Any current "file" and any of its characteristics can be stored as a default standard plain vanilla anything "data object". Including any metadata.
+
 
 # summary
 whoever implements this, if it ain't seamlessly interoperable, persistent and stable, it's not what I meant. :)
@@ -42,6 +62,76 @@ There shall be no difference between files, just metadata and relationship entri
 No more folders. Just metadata. All objects are in a pool.
 
 Current MAM GUIs and use cases will simply use the Object data (like a basic filesystem), instead of their own database.
+
+
+# Intro 2023-11-14
+
+It is actually great fun to walk through the current "IT" world (and ITs "users"): Even the terminology is actually a bit awkward. Zombie processes. Execution time. Running commands, or executing them.
+
+Maybe it's time to introduce a nicer way of computing?
+
+WhatIf(tm)?:
+
+  * Any data can be a Data Object - on the filesystem level.
+  * So any data can be annotated with Metadata. On the same, basic level.
+  * By operations, omni-present on all modern OSs and environments (even embedded) - and fully interoperable, using existing, standard (web-and-clowd) technologies and solutions.
+
+What if that would already exist, and is already being used to "just store" people's data: This article is going into the possibilities of "resolving" or translating, transforming existing file/folder structured data into so called "Data Lakes" of "Digital Storage" - very abstract, many abstraction layers, strict interfaces.
+
+A new kind of "filesystem" is not only born, but already productive in use. For at least 10 years (wild guess), and successfully juggling more people's data world-wide than everyone you personally know would actually be able to sum up.
+
+Yes, *that large*.
+
+So the tech stack is there.
+Let's use it.
+
+I may introduce the story of: 
+"A starting point for building a Holodeck by August (Object World)"
+
+This is a work of "Science Fact-ion".
+Meaning: The author is convinced, and professionally credited that his 2c were "worth" something "in the community".
+
+SciFa: #Sciencefaction.
+
+They're mainly utopian, so positively upwards-directed.
+Any belief is welcome. The fun is "how to deal with that shit?" - assuming, people are actually "nice" to each other?
+
+And tech "actually works" - and is built with "being awesome" (not just expensive or cheap) as motivation.
+
+Another fun part about SciFa stories is, that they can be used as blue-prints for actual implementation of anything mentioned therein. They're always released under a CC-like license, in order to be re-used.
+
+Therefore, this text is the first proof-of-concept, by being picked apart in passages - then indexed and stored as relational graph on my "default new Object filesystem" - and Apps patched to support it: You can then "query" what I'm writing here on the FS level. Cleartext. Mostly.
+
+With my idea, you can simply "talk" and shape and model - simply "query" or "describe" whatever "Object" you'd like to do something with now.
+
+Since AHA Objects are fully functional Python (or other language) code Objects, they have properties, methods - and interfaces - and actually the whole sha-bang from the programming world. All right there in FOSS.
+
+If you copy me *any* kind of data (can be a whole graph) on my AHFX-compatible USB-Stick (or SD-card) - and you copy that off your i-something or cloud-whatever using xyz-app: I have a copy of *all* your data - as well related and described as you had it.
+
+Only difference is that some references are not (yet) manifested (copied) onto my most local working "cache/index". "Middleware" comes to mind.
+
+Didn't that already exist?
+
+Middleware is simple in the Object world:
+
+If any Object Type can be "translated" to another, different Object Type, it is possible to declare this in a machine-readable (and run-able) code. Methods stored as metadata. Or more complex methods as "links" to other graphs that can handle that request.
+
+Anything can be an Object.
+And Objects can relate to each other.
+Or refer to outside things: By URI-like addresses
+Or simply P3ter's "Collission-friendly UID: CUIDs" system.
+
+It may be possible to auto-convert (compile/translate) Unit-testing (will pile up for any data (format) sooner or later) is simply torrent-magnet-p3id or short "AHFX-ID" or "DIA" (reverse).
+
+Since the underlying filesystem(s) are almost always already network-interoperable and scalable by design (and production stable), there is no more real need for "storage boundaries" that we are currently so familiar with.
+
+There is "network share" to mount.
+It's all "just there somewhere".
+Since there is no "(folder) location - or even a filename" necessary anymore to "store and retrieve" your digital stuff - you can just "forget about it".
+
+And the network-filesystem/libs that provide the Object support do the magic under the hood to translate between different Objects.
+
+This will improve over time.
 
 
 # Intro
