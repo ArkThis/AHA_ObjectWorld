@@ -1,5 +1,7 @@
 # Transformations in the AHA Object World
 
+> Also see "AHA-Features.md: transformers"
+
 Assume we have several Objects - related and with such properties, that you have all the data for the following OAIS information package types:
 
   SIP
@@ -19,7 +21,7 @@ Merely as related Objects to this Meta-Object (or adding this tag as Metadata):
 Done.
 
 Now the AIP:
-Do whatever archival-Fu is necessary and convert, improve, annotate, convert or fix - 
+Do whatever archival-fu is necessary and convert, improve, annotate, convert or fix - 
 to the SIP Object data. Maybe relate it to other (existing, local or remote/online) Object references.
 
 And tag all new Objects created in this step, with the following tag:
