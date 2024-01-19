@@ -15,3 +15,6 @@ https://min.io/docs/minio/linux/
     When adding a new tag with a "colliding" key, the existing tag value will be updated (=overwritten).
 
 
+https://blog.min.io/managing-objects-tagging-policies/
+
+
