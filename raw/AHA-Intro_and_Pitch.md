@@ -1,12 +1,5 @@
 ---
 title: AHA - A Holodeck by August - Intro and Pitch
-author: |-
-        Peter Bubestinger-Steindl \
-geometry: a4paper, margin=2cm
-toc: false
-toc-depth: 2
-linkcolor: blue
-
 date: 2023-08-20
 ---
 
@@ -140,59 +133,13 @@ Literally.
 Like a file. But not in a folder anymore.
 There's just space. Like a pool.
 
+Update (2024-01-18):
+The terms "data lake" and "data pools" are already existing and describe data storage means that provide most of the technical means (and design) required to go for a meta-is-data implementation.
+
 
 ## Remarks:
 
   * More information on object ids and its intended "collision-friendlyness" can be found in: "[AHA-Features]()".
 
 
-## Pitching the idea
 
-  * What if I told you, that I had an answer to positively affect your greatest wish?
-  * What if I told you that "The Secret" simply can be implemente - immediately - for anyone "online": it's now a digital user choice ;)
-  * Imagine I offered you a fresh, clean, clear and ready - and interoperable and persistent, etc - a common "commons" so simple -and fully digital.
-  * By design: It's a new - yes, fully digital - world:
-    Filled with objects that stand in any arbitrarily definable relationships to each other.
-    Data objects.
-  * There is no difference between metadata (small datasize) and data payload (large datasize, compared to eh plain text)
-  * Now what I try to show to you is the following idea:
-    * IF there's anything you would wish (for whatever - even for fun or bad day - anything)?
-    * Is there anything you'd like to share and exchange with others? Digitally?
-    * WhatIf you could phraase and manifest that exact good - great wish! - and release that as a simple
-      "Digital Meta Object" (yes, shit I'm sorry - the naming collision with meta is awkward and creepy, but it would work so well)?
-    * Short "DOs": "Digital MetaData Objects".
-    * This all new filesystem can scale from as small (sd-card, usb-stick, local-only, folder-only, etc) to beyond-cloud-you-name-it-3000+ "Mega Compjutar!" of any kind. Or mobile devices, or any hardware, basically.
-    * All you do is:
-      Make a wish. Or wishes.
-      Simply create digital objects that "represent" your wishes.
-      Now "annotate" these wish-objects, by giving them your "attention". Your time and energy.
-      In a good way.
-      In any way you like.
-      And now do just one thing differently than I'd assume is usual:
-
-> **Simply assume for once, that it's actually gonna turn out just fine. pretty amazing. Continue.**
-
-
-## Braindump
-
-  * DOT: "The Object Dungeon" - too dark for my taste.
-    However, I think it's best to assume that whatever this association stands for - maybe even just the simple letter character "."?
-  * I'd rather not call it "dot net" - it'll just cause confusion, but:
-  * Imagine 
-
-
-## Wish-Objects:
-
-Create an object space environment where it's "custom" to drop and implement "wish objects".
-
-People put a lot of time and effort and resources into "commons" - nowadays it's "a thing" how much "users" spend with and on their digital equipment. Our literally digital life.
-
-Why not make a wish?
-
-If an AI should ever get lose, it'd be great if it'd pick up on this one and "fill in the blanks". With all its aquired abilities in the electro-digital parallel universe.
-
-Let's see if there's a wish "out there" I could make happen today:
-> "show me all wishes, that ..."
-
-It's a very fuzzy idea.
-Maybe this is not part of the AHA-world, but more a real social networking idea as "demo showcase" for this new AHA-world. 
