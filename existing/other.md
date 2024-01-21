@@ -40,3 +40,39 @@ From Content to Knowledge
 Best-in-class content classification and tagging software, powered by NLP.
 
 Fluree Content Auto-Tagging Manager transforms unstructured data into semantically organized content that is searchable and available across your organization.
+
+
+
+
+# https://www.enterprisestorageforum.com/hardware/file-system-management-is-headed-for-trouble/
+
+This is from 2009 - yet I think Newman is addressing similar concerns regarding
+'the [classical](POSIX) file system interface isn't up to the task of managing
+today's data'"
+
+By Henry Newman
+February 24, 2009
+
+> "The POSIX file system interface isn’t up to the task of managing today’s
+> data, resulting in costly fixes for users to solve problems [...]"
+
+> "The problem with management of files is just that: they’re being managed as
+> files, not as information. The standard POSIX information is far too basic.
+> There are applications like Google Desktop that help you find what you’re
+> looking for, but that solves only part of the problem."
+
+> So why has no one done this yet? I think there are a number of reasons:
+
+  * Vendors do not want to make changes, and any changes to the POSIX standard
+    would require both file system and operating system changes.
+
+  * Vendors are making money on user space applications. This is a poor reason,
+    but I believe it is likely true. If something was standardized, then you
+couldn’t sell it.
+
+  * These changes would generate more overhead, as you will have additional
+    space for attribute data. This will increase the size and space needed for
+file system metadata (inode data) and will increase the time to open and read
+files.
+
+
