@@ -132,6 +132,14 @@ TIMESTAMP-LABEL-RANDOM
 Again: with nanosec precision, and random-random characters.
 That address space should be quite sufficient for a while, I guess?
 
+Keep in mind that `2006-XBloome` was also sufficient to get what you wanted - because it's linked to other Objects (if copies exist) that may have "more or different" information about the "XBloome" from 2006.
+
+The data your querying or working with may of course be "as fuzzy as short-and-uniform their ID is".
+Intentionally.
+
+Yet never losing the option to keep certain Objects alive and sharp as new.
+By each having their full-ID.
+
 
 ## What if Object IDs collide?
 
