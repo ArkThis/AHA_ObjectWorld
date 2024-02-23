@@ -209,23 +209,61 @@ So, `2006-XBloome` - and you'll get a list of all entries matching fuzzy-match O
 
 Objects with short IDs like that are intended to accumulate meta and relate (or carry) the data, too.
 
+Examples:
+
+  20061225-123456789-XBloome-aj1öf3wle3fa7owief
+  2006-XBloome
+  200612-XBloome
+  20061200-XBloome-lskajdfowihf2a
 
 
+## "more prominent" Objects usually get (to keep) a long - or even more awesome ID.
 
-## Aging Object become "fuzzy".
+Yes, as long as the values stay within the default syntax, anything custom goes:
+
+  * `🌟️TIMESTAMP-LABEL-RANDOM`
+  * `🌟️00001225-Superstar`
+
+Also cool:
+
+  * `🌟️01-xbloome-blue_room`
+
+May all your collisions go well and be fruitful!
+Remember: On collisions, your meta/data meets more meta/data - and your collection might be better annotated/related afterwards?
+
+Everyone is in control over their own collection. If one decides for a certain object precision/style it's fine - as long as the syntax is engine-compatible.
+
+
+## Feature: Aging Object become "fuzzy".
 
 Transformations could be applied to Objects (defined again by policies) to "lose their precision" (=timestamp sub-seconds index) when being copied and being above a certain age "or condition".
 
-Therefore the chances of older Objects to "collide" increase over time (and configured aging parameters).
+Example:
 
-Actually, using Object Storage queries to decide which Objects shall be processed "over time" - and how.
+  * **Original:** `20061225-123456789-XBloome-aj1öf3wle3fa7owief`
+  * **Random removed:** `20061225-123456789-XBloome `
+  * **Less sub-second precision:** `20061225-123456-XBloome`
+  * **Just-minutes precision:** `20061225-12-XBloome`
+  * **Just the year-and-month:** `200612-XBloome`
 
-Implementing and support digital data aging functionality by default is an interesting way to avoid data-congestion - and overwhelming storage consumption - even running long-term.
+You get the idea.
+
+Any implementation is fine, as long as the data owner/user is fine with it (on their systems).
+
+So by reducing the randomness, and length of the ID string in total, the chances of older Objects to "collide" increase over time (and configured aging parameters). Since the IDs will become less precise = shorter again.
+The IDs shrink and flatten down.
+
+Actually, using Object Storage queries to decide which Objects shall be processed "over time" - and how - may be interesting to do.
+
+Implementing and supporting `digital data aging` functionality by default is an interesting way to avoid data-congestion - and overwhelming storage consumption - even running long-term.
+
+If collisions become so popular for certain objects, that they payload version collides as well
 
 There are means to refresh Objects to "keep them alive" longer.
 Any Objects not used for over a certain period, are simply merged or prefer mine/theirs and be good with it.
+They may even be removed at all if garbage collection policies feel free to do so.
 
-Introductin quasi-natural aging to digital data.
+Introducting quasi-natural aging to digital data.
 It feels like a good new option.
 
 
