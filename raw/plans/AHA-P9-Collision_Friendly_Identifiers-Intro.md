@@ -104,9 +104,11 @@ Now if I `labelled` the catalog entry Object of the band XBloome with:
 And selected the date/year I believe the band was formed.
 As fuzzy (00-00 and all) as I like.
 
-> TIMESTAMP = 20061200
-> LABEL = XBloome
-> RANDOM = 
+```
+TIMESTAMP = 20061200
+LABEL = XBloome
+RANDOM = 
+```
 
 Yes, random is empty.
 So it's quite likely that someone else did just the same.
