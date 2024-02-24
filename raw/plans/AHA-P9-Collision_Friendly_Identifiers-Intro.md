@@ -11,7 +11,8 @@ The address-range, so to say.
 Including the fact that actual collision sometimes shall happen on purpose, triggering a policy-rule based merge situation. Yet, when and how often for which "kind of Data Object" this shall happen can also be configured easily, and individually.
 With policy rules.
 
-The collision events are desired triggers for (transformation-)actions on Meta/Data in Objects.
+> **The collision events are desired triggers for (transformation-)actions on Meta/Data in Objects.**
+
 Such as:
 
   * auto-merge / auto-relate matching Data Objects.
