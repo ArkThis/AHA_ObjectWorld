@@ -357,7 +357,7 @@ Sounds interesting?
 # Remark
 
 I just realized this very much feels like "yet another" suggestion how to name your files and folders.
-Maybe it's because this kind of "rather cross-whatever stable" syntax seems to intuitive and familiar to me and everyone grown up with files-in-folders for data.
+Maybe it's because this kind of "rather cross-whatever stable" syntax seems so intuitive and familiar to me and everyone grown up with files-in-folders for data.
 
 Indeed:
 This ID can absolutely be used as-is described here for filenames.
