@@ -109,6 +109,10 @@ Giving them auto-generated IDs with the above syntax, would introduce a design-l
 
 ## Collide on purpose?
 
+  * Yes!
+  * Absolutely.
+  * On purpose, but *not by accident or error*.
+
 Imagine you're cataloging/annotating/linking a public author/creator of any (digital) work.
 
 You know the birth-date.
@@ -122,16 +126,26 @@ Now if I `labelled` the catalog entry Object of the band XBloome with:
 And selected the date/year I believe the band was formed.
 As fuzzy (00-00 and all) as I like.
 
+**Examples:**
+
+>  =🌟️200610-0-XBloome
+>  =🌟️2006-0-XBloome
+>  =🌟️20XX12?-0-XBloome
+>  =🌟️20061200-0-XBloome
+
+
 ```
 TIMESTAMP = 20061200
+NANOSECONDS = 0
 LABEL = XBloome
-RANDOM = 
+RANDOM = <none>
 ```
 
 Yes, random is empty.
 So it's quite likely that someone else did just the same.
+On purpose.
 
-Now if we connect different meta/data collections ID'd like that, they would collide - theferore providing the option to `update` our existing Objects - without requiring that more (address) space.
+Now if we connect different meta/data collections ID'd like that, or query an online shared-source - matching entries would collide - theferore providing the option to `update` our existing Objects - without requiring that more (address) space.
 
 So our "database" entries become auto-annotated, auto-referenced by default over time.
 
@@ -178,9 +192,10 @@ I suggest this:
 
   * To select: merge?
   * Or prefer yours/theirs/other?
-  * Policy rule (=preference) config option to store that selection
+  * And: this includes relationships/links to other meta/data.
+  * Policy rule (=preference) setup option to store and configure that selection.
 
-In case the meta/data content(s) differ "too much" (beyond a configurable, sane-default threshold) - the user may optionally be altered and asked for their opinion.
+In case the meta/data content(s) differ "too much" (beyond a configurable, sane-default threshold) - the user may optionally be altered and asked for their opinion. So if some things that really refer to something completely different (eg 2 different bands - not even sharing the same metadata "title", etc.).
 
 **Exactly the same we already do with version control conflict handling.**
 
