@@ -96,10 +96,11 @@ This is the most recent version I'm considering at the moment.
 
 However, I do invite you to challenge the collision-chances, given the fact that Data Objects are create for a reason - and at a certain date/time.
 
-So what are the chances of 2 individuals choosing the same, identical `label` at the very nanosecond `timestamp`, being given a matching random character sequence of random-length (up to max. chars).
+So what are the chances of 2 individuals choosing the same, identical `label` at the very nanosecond `timestamp`, being given a matching random character sequence of random-length (up to max. chars)?
 
 
-I am considering this ID syntax for an Object Storage based `Object reference/linking engine`.
+I am considering this ID syntax for an Object Storage based `Object storage/reference/linking engine`.
+Considering both: small and local, yet also distributed, super large scale data collections by design.
 
 A Data Object can literally be anything you'd now be able to conceive - and use - as a `file in a folder`.
 Giving them auto-generated IDs with the above syntax, would introduce a design-limitation for "noise" (over-creation of Objects) - due to limiting the address space on purpose.
@@ -302,5 +303,4 @@ I think I know how to build a working prototype for this right now.
 A FOSS stack of production stable implementations and documentation.
 With slight alterations to orchestrate the full potential of a graph-DB data storage system.
 
-
-AHAlodeck ;)
+Sounds interesting?
