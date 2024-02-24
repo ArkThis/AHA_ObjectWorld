@@ -351,3 +351,28 @@ A FOSS stack of production stable implementations and documentation.
 With slight alterations to orchestrate the full potential of a graph-DB data storage system.
 
 Sounds interesting?
+
+
+
+# Remark
+
+I just realized this very much feels like "yet another" suggestion how to name your files and folders.
+Maybe it's because this kind of "rather cross-whatever stable" syntax seems to intuitive and familiar to me and everyone grown up with files-in-folders for data.
+
+Indeed:
+This ID can absolutely be used as-is described here for filenames.
+
+But, please don't forget:
+This is *just* the technical identifier.
+
+> **Yes, people can and shall use it too, but:**
+> The "title" or other metadata describing this Object go in separate, regular filesystem fields.
+
+So if you feel like abusing the `LABEL` component like we used to long-label filenames, please do not.
+The fact there's a timestamp+label in your ID makes it already pretty fine.
+
+And anything else you'd like to add:
+Put the meta with the data: In the filesystem.
+
+Not in the ID.
+Thank you. 😘️
