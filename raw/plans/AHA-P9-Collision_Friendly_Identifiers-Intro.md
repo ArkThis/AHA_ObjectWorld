@@ -47,6 +47,23 @@ To get a bunch of them. Including on timestamp and random as input.
 I personally find them very hard to read, memorize and work with in general.
 They're like hurting my pattern-loving brain-nerves. QR codes alike.
 
+Looks like this:
+
+```
+4fab499b-b42f-4fdf-a069-7dc4304510ea
+2d3769c3-c31f-4729-8b3c-8b7ec4e8d4f2
+0e9e8372-0679-44a7-8db7-6c5fe80451cf
+1541e700-4720-4291-9a05-6a624fa8fccd
+c764fe69-2bd5-4dde-a623-c14f85c7afba
+0b671a7c-c102-4afd-86a6-a9e5afc7cc14
+3fd9b307-6422-4b18-ab0a-5082670114d5
+90d78a7c-87ac-4611-a274-fad8451b7baf
+a622e22b-3183-43f7-af09-8e3a0d0b70e8
+f39ac3f6-c02e-457b-a091-165ac862c12d
+```
+
+😕️
+
 
 # I suggest a different, more inviting syntax for `unique-enough` IDs
 
@@ -270,14 +287,16 @@ It feels like a good new option.
 
 # Refreshing
 
-Although it requires a write operation to the Object filesystem (problematic for tape, or other offline media), if one wants to "pull a certain Object copy out" of the collission ID pool - they can simply do so by "refreshing" the fuzzy parts of the original full-ID of that very copy.
+Although it requires a write-operation to the Object filesystem (problematic for tape, or other offline media), if one wants to "pull a certain Object copy out" of the collission ID pool - they can simply do so by "refreshing" the fuzzy parts of the original full-ID of that very copy.
 
 This would still keep the visible ancestry/relationship by ID: this is like `family` of data.
+And "remembering" your valued data is keeping it in shape.
+Remembering and toggling "a bit".
 
-Yet, anyone may refresh a copy.
+And anyone at any time may refresh any copy.
 It would quasi "bump" it out of its previous collision spaces - and "throw the dice anew".
 
-If that would be the "required action to preserve digital data", wow.
+That would be the "required action to start preserving that digital object".
 
 I think I know how to build a working prototype for this right now.
 A FOSS stack of production stable implementations and documentation.
