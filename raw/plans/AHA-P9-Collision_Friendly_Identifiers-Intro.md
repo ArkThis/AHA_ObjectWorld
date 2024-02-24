@@ -142,7 +142,7 @@ RANDOM = <none>
 ```
 
 Yes, random is empty.
-So it's quite likely that someone else did just the same.
+So it's quite likely that someone else created an Object for the band XBloome using the same ID.
 On purpose.
 
 Now if we connect different meta/data collections ID'd like that, or query an online shared-source - matching entries would collide - theferore providing the option to `update` our existing Objects - without requiring that more (address) space.
@@ -157,9 +157,9 @@ It would also be very easy to memorize for anyone:
 > 2006-XBloome
 
 And so yes: This would be a different, separate non-colliding Object.
-btw: Given the fact that each Object *does have* a full as-unique as well ID string stored:
+btw: Given the fact that each Object *does have* a full as-unique-enough ID string stored:
 
-TIMESTAMP-LABEL-RANDOM
+`TIMESTAMP-NSEC-LABEL-RANDOM`
 
 Again: with nanosec precision, and random-random characters.
 That address space should be quite sufficient for a while, I guess?
@@ -242,12 +242,34 @@ So, `2006-XBloome` - and you'll get a list of all entries matching fuzzy-match O
 
 Objects with short IDs like that are intended to accumulate meta and relate (or carry) the data, too.
 
-Examples:
+**Examples:**
 
-  20061225-123456789-XBloome-aj1öf3wle3fa7owief
-  2006-XBloome
-  200612-XBloome
-  20061200-XBloome-lskajdfowihf2a
+```
+20061225-123456789-XBloome-aj1öf3wle3fa7owief  
+2006-0-XBloome  
+200612-0-XBloome  
+20061200-0-XBloome-lskajdfowihf2a  
+```
+
+
+## What if me or someone else got the date wrong?
+
+So be it.
+
+``` 
+20050501-0-XBloome
+200800-0-XBloome
+2006-0-XBloome
+...
+``` 
+
+So there'll be clusters of (un)similar `TIMESTAMPS` - but all having the more or less identical `LABEL`.
+And no relevant random-factor.
+
+One can still work with fuzzy-search unfiltered, but grouped list of IDs here.
+And if one of those Objects is under your control: You may see that others "disagree" - and you may take the time to figure out "why".
+
+This would solve one "value/record source" issue.
 
 
 ## "more prominent" Objects usually get (to keep) a long - or even more awesome ID.
