@@ -369,7 +369,9 @@ This is *just* the technical identifier.
 > The "title" or other metadata describing this Object go in separate, regular filesystem fields.
 
 So if you feel like abusing the `LABEL` component like we used to long-label filenames, please do not.
-The fact there's a timestamp+label in your ID makes it already pretty fine.
+The fact there's a timestamp+label in your ID makes it already pretty fine as it is. No need to overload it to "find your stuff" - or "make sure it's unique".
+
+It's okay.
 
 And anything else you'd like to add:
 Put the meta with the data: In the filesystem.
