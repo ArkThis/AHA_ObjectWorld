@@ -128,10 +128,10 @@ As fuzzy (00-00 and all) as I like.
 
 **Examples:**
 
->  =🌟️200610-0-XBloome
->  =🌟️2006-0-XBloome
->  =🌟️20XX12?-0-XBloome
->  =🌟️20061200-0-XBloome
+>  =🌟️200610-0-XBloome  
+>  =🌟️2006-0-XBloome  
+>  =🌟️20XX12?-0-XBloome  
+>  =🌟️20061200-0-XBloome  
 
 
 ```
