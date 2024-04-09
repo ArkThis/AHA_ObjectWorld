@@ -1,6 +1,6 @@
 # Remember 8.3 Filenames?
 
-
+(2024-01-07 21:18:53)
 
 TODO: Write a short revisiting of 8.3 filenames as "the only thing" - and then swiftly opening to 250+ chars including spaces (!) - and dots anywhere. Even non-ascii characters.
 
