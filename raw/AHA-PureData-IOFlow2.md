@@ -1,3 +1,5 @@
+2023-12-15 21:22:29
+
 # AHA - Working with Data Object Flows as in `Pure Data` (pd).
 
 After having applied the following transformations from conventional "classic" 80s Files-in-Folders Data Layouts - and resolved, translated the Data, APIs and Applications into a working Object Data digital paradigm.
@@ -211,3 +213,236 @@ All co-existing on the same Object Types they interact with and create.
 ## Self-build-and-installing Blender
 ## 
 
+
+
+# Pure Data binding to filesystem API: Example
+
+It should be possible to create pd-nodes for interfacing with the Object Storage API.
+If not possible to implement it natively in pd yet, a fallback option may be to use filesystem fifo-pipes.
+Maybe not the fastest way, but would work as expected.
+
+Then adding means of accessing the "preferred data query option".
+
+So you could for example:
+
+  * Create a node "object".
+    This would have been "a file reference" in classic times.
+
+  * Select, using a data-query widget - any data in your storage pools.
+
+  * Interconnect and annotate their structure as preferred.
+
+  * If pd has a way of loading and running Python code as node, fs-stored metadata code would be shown as GUI option.
+Full control over input/output transformations.
+
+These are actually very basic things, very possible to make.
+Because the libraries exist, so we'd merely need to make thin wrappers to connect to the filesystem.
+
+Of course Data Objects can be marked executable -and simply run directly.
+
+This allows any code already existing - any programming logic - to be saved as standalone Object.
+You run it, providing the "parameters" (CLI arguments, or API calls and bindings).
+
+If you adhere to AHAlodeck conventions, you should easily be able to run standalone Objects also in "compound": Meaning, you can run "a program" - and it sub-executes its Object "lego" blocks.
+
+So your filesystem now offers you to what-you-see-is-what-actually-runs-in-code as yet-another data object group/graph. Nothing other than your other "data things".
+
+They may have different list-icons ;P
+
+Let me think this through...
+Any feedback greatly welcome!
+I'm proposing means of having codecs natively on the filesystem-level.
+If you want to copy your video (and player), you simply select to auto-copy related codec-Object with it. If there are multiple OSs or flavors available, you get to choose which ones.
+
+Yes.
+You've now attached a copy or link or reference to VLC, ffmpeg or many other FOSS-allstars.
+And if your filesystem is AHAlodeck, it may suggest to deduplify these references to a common copy - to save space.
+And save time.
+
+Awesome.
+Easily possible to substitute the codec Object with a download-link.
+This could even support Arch-Linux like recipes for building any application on the fly. Adding nix-os flakes, you have the perfect self-replicating options. Never worrying about "will my data be there and still work when I need it?".
+
+Any long-term sysadmin knows how to crunch those requirements.
+
+When thinking about possible abuse of these new features, injecting malicious code or data:
+Considering simply using the same means of "which data source you trust for software and updates now?"
+
+Just because your data pools can interconnect with literally any other pool on the planet - seamlessly.
+Simply accessible by a query-prefix like `pool0`. As tag.
+
+That's it.
+Yes, this is how you map a network drive - of *any* kind - from now on.
+
+Query:
+(should be sparql? I don't know it yet, so I pseudo-code-sql here)
+
+> select * from "my-tag-for-peters-data" where date>2020 and \*=lena
+
+Or:
+
+> select * from . where data<2011 and \*=xbloome
+
+Or:
+
+> select video,audio,subtitles from . where title="My Movie!" and date<1977 | ffplay -
+
+Something like that.
+
+
+# I'm not sure I've made myself clear.
+
+Have you fully realized that accessing your own data and *any* other data anywhere on the planet - in any system would now merely get a "longer prefix string" tag.
+
+Which is commonly aliased as needed, exactly as done in programming languages with fully-qualified domain-name for libraries.
+
+And you never have to worry about if you put it in the right folder.
+Or if the filename may cause problems or persist.
+
+Your data is now safe.
+And way more flexible than it was before.
+The filesystem now may be given operating system capabilites - or at least code Objects that can be used by the Operating System to natively interface.
+
+Anyone can now see, use and reconnect data handling programs - as they can now be copied and re-used as pure-data patches. These engines are stable and solid and designed to run on now considered "ancient" hardware.
+Therefore they have very little hardware requirements and run faster -or merely consume lower energy.
+
+If pd could handle video in realtime - only limited by the hardware, considering full-HD and even 4k is done on RaspberryPi hardware these days.
+
+You can literally hook up any number of audio Objects with video Objects or subtitle Objects:
+Save that relationship reference as a new Object (or -graph).
+You now have your videofile.
+
+
+I'm serious.
+By moving the decoding to executable Objects in our data pools.
+Any data transformation can be done by plain filesystem Objects.
+
+By having meta+data, those Object's interfaces are self-describing, allowing Objects to auto-map interface connect in advanced future versions of AHAlodeck.
+
+
+
+# This goes even further.
+
+We have now broken down any container format into the data "blobs" previously contained "wrapped up". Embedded things.
+
+We can now de-embed not only the meta, but also the data.
+
+This is not limited to any file-format layout.
+Any data layout that can be depicted in an object-oriented way in programming code, can be stored - and used - like that on the filesystem of AHAlodeck.
+
+By merely providing means of directly "running" any Data Object - and by piping ins-and-outs of these Objects in a new Object (or -graph).
+
+Funny thing: Kids love these kinds of puzzle games!
+And imagine you can do anything you can do already - but nicer - in all environments supporthing AHAlodeck-like features.
+
+In order to be able to simply continuing "business as usual" with your tools - and transitioning over to Object Data handling, simply putting the operating-system on AHAlodeck (MinIO?) - and piece-by-piece write filesystem libraries to support running code from Data Graphs.
+
+Why not?
+An Object Graph "call" could somewhat easily boot and quick-boost itself like this:
+
+  1. Init-Object is being "called".
+  2. This means the Init-Object may run code.
+  3. The Init-Object may now manifest any data itself - or pull in any relationships/links.
+  4. And hand over the run-pointer to them.
+  5. Iterate as desired and preferred.
+  6. Retrieve "results".
+
+If that works, imagine magnet-torrent links - supported by public library/museum/archive data spaces. Full Object Storage and feature set. Publicly available to anyone.
+And it is the same system the GLAM-community uses themselves, if you like.
+There's plenty of other UI options.
+
+It's actually quite fun and easy.
+And has a stable interface - of your choice.
+Long-term and premis-able by design.
+Linked-open-Data of course, too.
+Wikidata-plugin by default.
+
+
+So audiovisual data would become not only self-structure-describing and annotated Object-graphs, but also self-decoding executable, by having links to required "processing Objects" (AHAFX Transformers).
+Allowing to run (=trust) these Transformer Object(-graphs) is based on your profile-preferences which code(-source) you trust.
+
+Whenver you download-and-run any file these days:
+The same common sense would be applied to "when to trust" your digital source.
+
+Then, these Objects would be tagged (signed?) by your filesystem/OS on incoming event:
+Anything copied from one pool to another get's a signature by the transactioneers (optional).
+Therefore it's possible to verify digital signatures on Data blobs (same as repository managers already perfectly handle since 1980s) - same engine here.
+
+So by being a bit more cautious about your "program sources and service providers", you have the same level of control over who runs code on your machines as you do now.
+
+It may be way easier to implement that in a comfortable way on Object Storage, by resolving signature/key/etc sidecar-files or database-entries to the metadata part of the file/payload Object.
+
+Same goes for hashcodes, btw.
+
+So only when an Object has a "you-approved" signature, it's allowed to run.
+All these systems exist. They were built for very powerful restriction/access declarations.
+Yet, I guess you could easily make a new PAM module to handle "you-approved" rules?
+
+
+# Similar to the animated european "Es war einmal das Leben"
+
+Did you realize that by being able to depict so many new "new basic" functionality with simple wrappers to the filesystem API and libraries, a pure-data "project file" would be no textfile no longer.
+
+Best HowTos provided by GLAM communities all over the globe!
+Great fun!
+
+Where's your app from?
+The library, of course!
+Thanks everyone.
+
+
+Think of it as this:
+
+Each pd-Node being saved - by the ones you see/you're working with, being instances of the underlying data class.
+So the filesystem can simply cache/hold/suspend a certain level of edits-before-save - and on top of that has git-standards on all by default.
+
+Now each instance of an active (=executable), running its binary/main code, or semi-active (=Python as meta), or even arch-ether by manifesting whole software environments out of what feels like: thin air.
+
+By having signature-and-relationship-and-filter-policy engines at work all the time, any data processing literally breaks down into a mixed-level "pure-data" processing of all kinds imaginable.
+
+Yet, by having each pd-Node as mere plain Data Object - fully portable, and self-relationship-aware to pull its requirements.
+
+> **This reminds me of the animated series where I learned about the human immune system and blood compounds**
+
+Implementing these methods on the common filesystem/OS orchestration, would allow an immune-system kind-of digital environment.
+
+In both directions.
+New "attack vectors" will become possible.
+However, they already do exist already - since any technical requirement is already present.
+
+Since the Data Objects can be almost arbitrarily inter-referred and annoted about and to each other in any ways, a stable-low-level common implementation for letting the `operator` decide and edit whatever necessary or desired.
+Anyone given access of any kind to such a machinery or mechanism, shall be considered a good operator.
+
+So that's actually some kind of data immune system for you.
+That's the starting point.
+Basically, it's completely able to depict the same level of "security" as we have now.
+The tools and workflow slightly change - yet in almost all cases, things get "more native" with the new tech.
+
+
+## A simple filesystem 
+
+I could write books about things related to `file systems`.
+Filing systems.
+Files-in-Folders.
+
+That's what most of all of us know.
+And then your cloud has stuff somewhere, and you just `search` or `filter`?
+
+I want to move on to meta+data by design and default.
+Anywhere.
+
+It is time to say goodbye to the good old "files-in-folders" data-storage paradigm idea.
+It's over.
+It's hurting and requiring "special code-care" in so many corners.
+Please, let it go.
+There is no need to separate meta from data anymore.
+It's like breaking down the Berlin wall once again: Now for meta+data finally re-united!
+
+I have spent time to realize this change, and I know it's not an easy one.
+
+Just "save".
+Just put it in your own cloud.
+
+And I have all sorts of plans of how to turn all our world's computing into the most amazing proof-of-concept that could very well already be used productively (soon after), since all the components required exist in production stable implementations.
+
+2023-03-20
