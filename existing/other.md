@@ -1,6 +1,11 @@
 Possibly related, existing projects/things:
 
 
+# https://www.databricks.com/
+
+[Introduction to Data Lakes/Lakehouse (by DataBricks.com)](https://www.databricks.com/discover/data-lakes)
+
+
 # https://solidproject.org/
 
 [W3 Solid Community Group](https://www.w3.org/community/solid/)
