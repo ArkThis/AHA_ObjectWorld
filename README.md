@@ -4,7 +4,27 @@
 
 
 TL;DR:
-Skip to [the exciting "Introduction"](AHA-Introduction.md).
+
+> Fact is, there's only 2 possibilities:
+>
+>   1. I've overlooked/underestimated something.
+>   2. Or someone else has overlooked/underestimated something that I can figure.
+
+What I am suggesting is to use the existing FOSS-licensed technologies designed for storing and managing big data - and really letting go of files-in-folders with excel sheets and incompatible databases and embedded metadata to a data design making use of the Object Storage environment's capabilities.
+
+Putting meta with the data. Where it belongs.
+And draw relationships right with the technically same Objects: Support (de)referencing any kind of "link".
+
+> **If I'm correct, then I may introduce a change for anyone dealing with digital data, comparable to going beyond 8.3 uppercase-only ASCII characters in a filename (1995), to Object Oriented programming and responsive design: Using a common filesystem. 😄️**
+
+Such filesystems and applications already exist for over 10 years, so a first prototype can be created in less than 12 months.
+
+"AHAlodeck by August" - so to say.
+
+Take a deep-dive, reading also [the additionally exciting Introduction](AHA-Introduction.md).
+
+
+----------
 
 
 > "Great Scott, Thomas! 😱️😎️
