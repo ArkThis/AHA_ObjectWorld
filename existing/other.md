@@ -4,6 +4,21 @@ Possibly related, existing projects/things:
 # Possibly interesting filesystems
 
 
+## BFS (BeOS)
+
+  * [The 'Be File System'](https://en.wikipedia.org/wiki/Be_File_System)
+  * [Linux BFS driver](https://www.kernel.org/doc/html/latest/filesystems/befs.html)
+  * https://sourceforge.net/directory/file-systems/linux/
+  * [Haiku OS](https://www.haiku-os.org/get-haiku/r1beta4/)
+
+1997
+
+https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/
+
+> One of BFS's most important and widely touted features is its support for extended attributes. An example of the importance of attributes is illustrated with an example of MP3 files. Information fields important to an MP3 file would be: song title, band, album, release date, encoding rate, length, number of times played. If you want to associate this information with each MP3 file using a conventional file system, you might have to create your own database to support searching, creating, updating, or deleting these attributes as your music collection grows and changes. With BFS, in contrast, these attributes, or any other attributes, can be added to the file system itself. This means that a program for editing or playing MP3s does not need to create or maintain a database, because the file system will handle these functions for you. BFS supports associating attributes with a file, either under program control or from the command line. Attributes can be searched and sorted by the file system, as an extension of any application. How this is done will be discussed in detail later.
+
+
+
 ## UFS (Unix File System)
 
 [Unix File System (UFS)](https://en.wikipedia.org/wiki/Unix_File_System#UFS1)
