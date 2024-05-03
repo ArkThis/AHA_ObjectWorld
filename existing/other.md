@@ -1,6 +1,33 @@
 Possibly related, existing projects/things:
 
 
+# Possibly interesting filesystems
+
+
+## UFS (Unix File System)
+
+[Unix File System (UFS)](https://en.wikipedia.org/wiki/Unix_File_System#UFS1)
+
+In 4.4BSD UFS2 was split in 2 layers:
+
+  * UFS: upper layer (meta)
+  * FFS: lower layer (data)
+
+I know I said: Keep the meta with the data, but thinking about this:
+It may make sense to not divide by semantics/meaning of the "meta/data" at all - yet simply move smaller data from UFS to FFS - once it grows beyond certain thresholds - or according to other copy/keep-dynamics profiles. Those profiles may be adjusted according to usage logs (Warning: This may encode personal user behavior in data).
+
+So to have means of handling smaller/lighter data differently - regarding performance - yet being completely transparent to the accessing user/function.
+
+For many bulk-operations, regarding search, annotation or reseach. Find-and-retrieval is trivial, since the payload is yet another (identical) "key=value" meta/data Object. The underlying storage technology may therefore offer slower/cheaper/larger digital storage options/devices for "data" - and have faster/expensive/smaller memory for "meta".
+
+All done in the filesystem.
+I assume optimizations like this will currently not work out of the box on existing network-scalable (object) storage filesystems. However, it doesn't strike me as particularly hard (in comparison to the existing, stable complex functionality) to implement/add being able to have a proper meta+data handling capabilities.
+
+
+
+
+
+
 # https://www.databricks.com/
 
 [Introduction to Data Lakes/Lakehouse (by DataBricks.com)](https://www.databricks.com/discover/data-lakes)
