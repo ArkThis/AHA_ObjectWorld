@@ -18,6 +18,43 @@ https://min.io/docs/minio/linux/
 https://blog.min.io/managing-objects-tagging-policies/
 
 
+## Big Challenges in Small Objects
+
+> This is a 1:1 copy/paste from: "[An Article on Min.io](https://blog.min.io/minio-optimizes-small-objects/)"
+
+Working with large numbers of small objects instead of small numbers of large objects places different demands on an object storage system. Typically, storage administrators have had to design and tune storage systems based on anticipated usage and object size, for example adjusting properties for block, chunk or cache size to match typical read/write patterns.
+
+In addition, small object workloads are more heavily affected by metadata I/O than are large object workloads. **MinIO alleviated much of this burden by removing the dependency on an external metadata database.** MinIO stores metadata and data directly on disk to provide greater performance and scalability.
+
+--------
+
+I want to use exactly *that* part of an Object Storage implementation.
+I don't get it why they separate tags as "another kind" of metadata - instead of just another `x-amz-meta` data?
+
+Anyways:
+This sounds *pretty much exactly* what I'm looking for.
+Where is the proper documentation?
+
+Where is the explanation of "the in-your-face-public-but-coded sauce" like this?
+
+```
+mc mb play/mybucket
+mc cp <path-to-archive>.tar play/mybucket --disable-multipart --attr "X-Amz-Meta-Snowball-Auto-Extract=true"
+mc ls play/mybucket
+```
+
+Thanks for offering the copy/paste, but where's the docs about "disable-multipart" or "x-amz-meta-snowball"?
+Could be an alien-defence mission on Kartoona 5 for all I know.
+All that Object "big data" storage research is like being distracted by a bunch of hoax websites that try to lure you into a maze of "admin-nirvana". And in order to get there, you have to become "an employee" of the big ones - to gain access to "the real hardware and stuff" to actually run awesome computing - as it would fit the 21st century, imagined as utopian awesome society fiction!
+
+But seriously: "amz-meta-snowball"?
+Code-read anyone?
+So this reads "Amazon-Facebook-Something" to me.
+And it starts with "x-" and ends in a snowball.
+Could be nerd-code "ascii-art in the mind" for all I know.
+
+Anyways: I don't know where to find more information about this.
+But I'd like to.
 
 
 # Taken from documentation:
