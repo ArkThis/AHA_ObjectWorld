@@ -1,6 +1,55 @@
 Possibly related, existing projects/things:
 
 
+# "Real" Object Storages
+
+Preferrably conforming to OSD (2, 3?), as according to [Object Storage on Wikipedia](https://en.wikipedia.org/wiki/Object_storage), this sounds more what I'm loooking for that what S3 (and therefore Minio) seems to provide.
+
+
+## Ceph
+
+I don't have a good feeling about this.
+
+
+## SwiftStack
+
+https://platform.swiftstack.com/docs/introduction/openstack_swift.html
+
+Feels better.
+
+Quote:
+
+The most commonly used storage systems in the enterprise data center today are filesystem storage and block level storage. Filesystem storage is typically deployed as Network Attached Storage (NAS) systems and used for storing and sharing files over a network. Block storage is typically deployed as Storage Area Network (SAN) systems and appears to an operating system like locally attached drives, which is required for running things like databases. Generally organizations have to build a dedicated pool of these storage systems for each application (e.g., CRM system, email system) which isolates both the storage resource and the data from other applications. This approach means your organization has to scale these storage systems independently from other storage resources - and as the number of applications increases, so does the number of storage systems in your datacenter.
+
+For the applications your developers are writing today, this storage model has several drawbacks which, according to the industry analyst firm Gartner, includes:
+
+    It doesn’t efficiently scale to support new workloads
+    It's bogged down by operational overhead
+    It's difficult to match storage to application requirements
+    It's time-consuming to adjust to workload changes and migrations
+    It's manually managed, or at best semi-automated
+
+These drawbacks become increasingly important as the rapid growth of unstructured data that many, if not most, enterprises are experiencing today continues. Nearly every industry is storing and serving more data at higher fidelity to an increasing number applications and users.
+
+End Quote.
+
+
+
+## OpenStack Swift
+
+https://docs.openstack.org/swift/latest/
+
+> Swift is a highly available, distributed, eventually consistent object/blob store. Organizations can use Swift to store lots of data efficiently, safely, and cheaply.
+
+
+
+# Related to handling metadata
+
+## Open-Metadata
+
+[https://open-metadata.org/]()
+
+
 # Possibly interesting filesystems
 
 
@@ -126,3 +175,4 @@ files.
 # Atempo Miria
 
 https://www.atempo.com/products/miria-backup-and-migration-for-large-file-storages-3/
+
