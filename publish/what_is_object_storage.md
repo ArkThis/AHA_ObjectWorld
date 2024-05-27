@@ -25,17 +25,6 @@ On 2024-05-26, I wrote:
 
 So I'm professionally assuming that the use-cases in GLAM (and I mean almost *any*) should easily be cover-able by any company providing the above mentioned storage-and-data-management "environment" for that, should serve us well into a new age of digital preservation - and all DAM/MAM/CMS in all small-medium-large-and-beyond collection environments.
 
-Especially small-medium-large-and-beyond businesses.
-
-Yet, by dissolving the actual interoperability "borders" between data - and all its processing components, there will be great impact on "the economy" of all things data: because it'll transform from playmobil to lego, making things not only waaaaaay easier, but also cheaper - and longer-lasting, because more "fixable" - because Data environments are lego now.
-
-Therefore, it may be a real option to reconsider taken-for-granted business and society - especially job models.
-If we have a digital bubble bursting, why not in the favor of everyone - instead of "the usual few".
+As long as the underlying tech-stack is FOSS.
 
 This will benefit *anyone*.
-Unless the only thing you're looking for is puppet-master power and control.
-
-
-This will benefit *anyone*.
-Resolving file-format headers and structure into "regular filesystem data objects" that can be viewed, based on search queries and profile/presets.
-
