@@ -1,9 +1,135 @@
 Possibly related, existing projects/things:
 
+# Articles
+
+## 6 best practices for metadata storage and management
+
+> Metadata is crucial to getting the most out of data, so organizations should store it properly. Best practices include protection and understanding the IT architecture.
+
+By Robert Sheldon
+Published: 02 Feb 2023
+
+[https://www.techtarget.com/searchstorage/feature/6-best-practices-for-metadata-storage-and-management]()
+
+
+## How to generate guaranteed unique id for files stored on server? (AWS S3)
+
+https://stackoverflow.com/questions/42732780/how-to-generate-guaranteed-unique-id-for-files-stored-on-server
+
+
+
+
+# Los Alamos, CMU / DeltaFS
+
+  * [CMU/PDL File Systems](https://github.com/pdlfs)
+    Scalable file system services for high-end computing and big data applications
+  * [Qing Zheng - Breaking the Metadata Bottleneck](https://zhengqmark.github.io/papers/deltafs-sdc19-slides.pdf)
+  * [Toward Standardized, Open Object-Based Computational Storage For Large-Scale Scientific Data Analytics](https://zhengqmark.github.io/papers/ocs-pdsw23-vision.pdf)
+
+  * [DeltaFS Overview](http://www.cs.cmu.edu/~qingzhen/files/deltafs_pdsw15.pdf)
+  * http://www.cs.cmu.edu/~qingzhen/files/deltafs_pdsw17.pdf
+  * http://www.cs.cmu.edu/~qingzhen/files/deltafs_sc18.pdf
+
+
+> "DeltaFS assumes an underlying object storage service to store file system
+> metadata and file data. This underlying object store may just be a shared
+> parallel file system such as Lustre, GPFS, PanFS, and HDFS. However, a
+> scalable object storage service is suggested to ensure high performance and
+> currently DeltaFS supports Ceph RADOS."
+
+
+
+# Lustre - Fast, Scalable Storage for HPC
+
+[https://www.lustre.org/]()
+[https://wiki.lustre.org/Main_Page]()
+[https://www.lustre.org/getting-started-with-lustre/]()
+[https://www.opensfs.org/]()
+
+```
+Lustre Enables High Performance, Massively Scalable Storage
+
+Lustre is an open-source, distributed parallel file system software platform designed for scalability, high-performance, and high-availability.
+
+Lustre is purpose-built to provide a coherent, global POSIX-compliant namespace for very large scale computer infrastructure, including the world's largest supercomputer platforms. It can support hundred's of petabytes of data storage and hundreds of gigabytes per second in simultaneous, aggregate throughput. Some of the largest current installations have individual file systems in excess of fifty petabytes of usable capacity, and have reported throughput speeds exceeding one terabyte/sec. 
+```
+
+
 
 # "Real" Object Storages
 
 Preferrably conforming to OSD (2, 3?), as according to [Object Storage on Wikipedia](https://en.wikipedia.org/wiki/Object_storage), this sounds more what I'm loooking for that what S3 (and therefore Minio) seems to provide.
+
+
+
+## OrangeFS
+
+https://de.wikipedia.org/wiki/OrangeFS
+
+> OrangeFS arbeitet objektbasiert: Dateien und Verzeichnisse bestehen dabei aus mindestens zwei Objekten; eines für die Metadaten und die Nutzdaten. Das Dateisystem benötigt keine Konfiguration und wird vor allem in Forschung und Wissenschaft verwendet.
+
+https://docs.orangefs.com/nix-clients/fuse-client/
+
+http://www.orangefs.org/faq/#item5.12
+
+
+```
+prompt# setfattr -n key1 -v val1 /path/to/mounted/orangefs/foo
+
+To retrieve an extended attribute for a given key ("key1") on a orangefs file foo,
+
+prompt# getfattr -n key1 /path/to/mounted/orangefs/foo
+
+To retrieve all attributes of a given orangefs file foo,
+
+prompt# getfattr -m "" /path/to/mounted/orangefs/foo
+```
+
+
+## Oasa
+
+https://www.atlantis-press.com/article/25868044.pdf
+
+Active storage can largely reduce the network traffic and application execution time. In this paper, we
+present the design and implementation of an active storage architecture called Oasa for object-based
+storage system. Compared with previous work, Oasa has the following features.(1) It provides a flexible
+and efficient way for user to process data. User functions can process data of one user object or multiple
+objects at a time. (2) Oasa supports multiple patterns of user functions: both the input and output of the
+functions can a) come from network or disk or b) go to network or disk. (3) It keeps compatible with
+the current T10 OSD standard and requires little extra modification to execute user functions. Using the
+extended OSD commands, user can conveniently create, delete, associate and execute user functions with
+user objects. We also evaluate the performance of Oasa by running a typical application-data selection.
+It is a representative data analysis application widely used in solving real problems. Experimental results
+show that when the proposed active storage functions are enabled for object-based storage system, the
+client can obtain upto 61.9% reduction of application execution time.
+
+
+## Apache Ozone
+
+https://ozone.apache.org/
+
+
+### Quote:
+
+     Apache Ozone is a highly scalable, distributed storage for Analytics, Big data and Cloud Native applications. Ozone supports S3 compatible object APIs as well as a Hadoop Compatible File System implementation. It is optimized for both efficient object store and file system operations.
+
+    It is built on a highly available, replicated block storage layer called Hadoop Distributed Data Store (HDDS).
+
+    Applications using frameworks like Apache Spark, YARN and Hive work natively without any modifications.
+
+
+
+
+### Quote:
+
+https://blog.cloudera.com/introducing-apache-hadoop-ozone-object-store-apache-hadoop/
+
+    The Apache Hadoop Distributed File System (HDFS) has been the de facto file system for big data. It is easy to forget just how scalable and robust HDFS is in the real world. Our customers run clusters with thousands of nodes; these clusters store over 100 petabytes of data serving thousands of concurrent clients.
+
+    True to its big data roots, HDFS works best when most of the files are large – tens to hundreds of MBs. HDFS suffers from the famous small files limitation and struggles with over 400 Million files. There is an increased demand for an HDFS-like storage system that can scale to billions of small files.
+
+    Ozone is a distributed key-value store that can manage both small and large files alike. While HDFS provides POSIX-like semantics, Ozone looks and behaves like an Object Store.
+
 
 
 ## Ceph
