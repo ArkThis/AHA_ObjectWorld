@@ -134,3 +134,24 @@ Quote Docs:
     Required: Yes
 ```
 
+
+
+# Transforms with Object Lambda
+
+https://min.io/docs/minio/linux/developers/transforms-with-object-lambda.html
+
+Skimming over it, it reminds me of what I called "transformers". Active-code Objects that transform-on-the-fly, or may spawn new Objects: Copies in different encodings.
+
+Metadata is already expected to be accumulated/merge-handled by default during the lifecycle of any Data Object.
+Therefore, over time only the actual raw-data "encodings" will matter in comparison to what we now know as "different file formats" - and all related issues, efforts and solutions.
+
+
+Quote:
+
+    An Object Lambda handler is a small code module that transforms the contents of an object and returns the results. Like Amazon S3 Object Lambda functions, you trigger a MinIO Object Lambda handler function with a GET request from an application. The handler retrieves the requested object from MinIO, transforms it, and returns the modified data back to MinIO to send to the original application. The original object remains unchanged.
+
+    Each handler is an independent process, and multiple handlers can transform the same data. This allows you to use the same object for different purposes without maintaining different versions of the original.
+
+
+
+
