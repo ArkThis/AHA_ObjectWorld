@@ -62,30 +62,6 @@ Preferrably conforming to OSD (2, 3?), as according to [Object Storage on Wikipe
 
 
 
-## OrangeFS
-
-https://de.wikipedia.org/wiki/OrangeFS
-
-> OrangeFS arbeitet objektbasiert: Dateien und Verzeichnisse bestehen dabei aus mindestens zwei Objekten; eines für die Metadaten und die Nutzdaten. Das Dateisystem benötigt keine Konfiguration und wird vor allem in Forschung und Wissenschaft verwendet.
-
-https://docs.orangefs.com/nix-clients/fuse-client/
-
-http://www.orangefs.org/faq/#item5.12
-
-
-```
-prompt# setfattr -n key1 -v val1 /path/to/mounted/orangefs/foo
-
-To retrieve an extended attribute for a given key ("key1") on a orangefs file foo,
-
-prompt# getfattr -n key1 /path/to/mounted/orangefs/foo
-
-To retrieve all attributes of a given orangefs file foo,
-
-prompt# getfattr -m "" /path/to/mounted/orangefs/foo
-```
-
-
 ## Oasa
 
 https://www.atlantis-press.com/article/25868044.pdf
@@ -301,4 +277,36 @@ files.
 # Atempo Miria
 
 https://www.atempo.com/products/miria-backup-and-migration-for-large-file-storages-3/
+
+
+
+
+# OrangeFS
+
+OrangeFS is *NOT* an Object Storage. It is designed to store meta+data and scale large and performant, but it does not provide ObjectIDs (yet):
+
+https://github.com/waltligon/orangefs/discussions/107#discussioncomment-9598607
+
+
+https://de.wikipedia.org/wiki/OrangeFS
+
+> OrangeFS arbeitet objektbasiert: Dateien und Verzeichnisse bestehen dabei aus mindestens zwei Objekten; eines für die Metadaten und die Nutzdaten. Das Dateisystem benötigt keine Konfiguration und wird vor allem in Forschung und Wissenschaft verwendet.
+
+https://docs.orangefs.com/nix-clients/fuse-client/
+
+http://www.orangefs.org/faq/#item5.12
+
+
+```
+prompt# setfattr -n key1 -v val1 /path/to/mounted/orangefs/foo
+
+To retrieve an extended attribute for a given key ("key1") on a orangefs file foo,
+
+prompt# getfattr -n key1 /path/to/mounted/orangefs/foo
+
+To retrieve all attributes of a given orangefs file foo,
+
+prompt# getfattr -m "" /path/to/mounted/orangefs/foo
+```
+
 
