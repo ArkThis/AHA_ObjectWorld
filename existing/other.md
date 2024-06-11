@@ -54,8 +54,11 @@ Lustre is an open-source, distributed parallel file system software platform des
 Lustre is purpose-built to provide a coherent, global POSIX-compliant namespace for very large scale computer infrastructure, including the world's largest supercomputer platforms. It can support hundred's of petabytes of data storage and hundreds of gigabytes per second in simultaneous, aggregate throughput. Some of the largest current installations have individual file systems in excess of fifty petabytes of usable capacity, and have reported throughput speeds exceeding one terabyte/sec. 
 ```
 
+-----------------------------
 
-# Redis
+# Interesting Database Engines
+
+## Redis
 
 [https://redis.io/]()
 
@@ -72,7 +75,7 @@ Redis is not an Object storage, but a very simple key-value-blob storage (databa
 
 
 
-# KeyDB
+## KeyDB
 
 [https://docs.keydb.dev/]()
 
@@ -80,7 +83,7 @@ Redis is not an Object storage, but a very simple key-value-blob storage (databa
 
 > "KeyDB is a high performance open source database used at Snap, and a powerful drop-in alternative to Redis. While many databases keep the best features locked in their paid offerings, KeyDB remains fully open source. This best enables Snap & the community to collaborate and benefit together in the projects development."
 
-## Install on Ubuntu:
+### Install on Ubuntu:
 
 ```
 $ echo "deb https://download.keydb.dev/open-source-dist $(lsb_release -sc) main" | sudo tee /etc/apt/sources.list.d/keydb.list
@@ -91,6 +94,28 @@ $ sudo apt update
 
 $ sudo apt install keydb
 ```
+
+
+## LevelDB
+
+[https://en.wikipedia.org/wiki/LevelDB]()
+
+> "LevelDB stores keys and values in arbitrary byte arrays, and data is sorted by key. It supports batching writes, forward and backward iteration, and compression of the data via Google's Snappy compression library.
+>
+> LevelDB is not an SQL database. Like other NoSQL and dbm stores, it does not have a relational data model and it does not support SQL queries. Also, it has no support for indexes. Applications use LevelDB as a library, as it does not provide a server or command-line interface.
+>
+> MariaDB 10.0 comes with a storage engine which allows users to query LevelDB tables from MariaDB."
+
+
+
+## RocksDB
+
+[https://en.wikipedia.org/wiki/RocksDB]()
+
+> "RocksDB is a high performance embedded database for key-value data. It is a fork of Google's LevelDB optimized to exploit multi-core processors (CPUs), and make efficient use of fast storage, such as solid-state drives (SSD), for input/output (I/O) bound workloads. It is based on a log-structured merge-tree (LSM tree) data structure."
+
+[https://github.com/facebook/rocksdb]()
+
 
 
 # European Open Filesystem (EOFS)
