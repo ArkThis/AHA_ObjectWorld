@@ -17,6 +17,13 @@ November 2003
 https://www.t10.org/ftp/t10/document.03/03-394r0.pdf
 
 
+# ETL: Extract, Transform, Load
+
+[https://www.ibm.com/topics/etl]()
+
+> "ETL—meaning extract, transform, load—is a data integration process that combines, cleans and organizes data from multiple sources into a single, consistent data set for storage in a data warehouse, data lake or other target system."
+
+
 # The Oasis
 
 (referring to Ready player One?)
