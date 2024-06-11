@@ -1,5 +1,15 @@
 Possibly related, existing projects/things:
 
+
+# Wikidata Code
+
+[https://github.com/Wikidata]()
+
+In a nutshell: Considering Wikidata a large-scale key-value store of semi-structured, yet overall not structured metadata - it could be an interesting frame of reference for how to organize and structure GLAM metadata storage like that.
+
+Also how to interact with Sparql, etc.
+
+
 # Articles
 
 ## 6 best practices for metadata storage and management
