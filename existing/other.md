@@ -55,6 +55,58 @@ Lustre is purpose-built to provide a coherent, global POSIX-compliant namespace 
 ```
 
 
+# Redis
+
+[https://redis.io/]()
+
+Redis is not an Object storage, but a very simple key-value-blob storage (database) engine - in RAM.
+
+> "Redis is an in-memory data store used by millions of developers as a cache,
+> vector database, document database, streaming engine, and message broker.
+>
+> Redis has built-in replication and different levels of on-disk persistence.
+> It supports complex data types (for example, strings, hashes, lists, sets,
+> sorted sets, and JSON), with atomic operations defined on those data types."
+
+[https://redis.io/docs/latest/develop/get-started/]()
+
+
+
+# KeyDB
+
+[https://docs.keydb.dev/]()
+
+> "KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis"
+
+> "KeyDB is a high performance open source database used at Snap, and a powerful drop-in alternative to Redis. While many databases keep the best features locked in their paid offerings, KeyDB remains fully open source. This best enables Snap & the community to collaborate and benefit together in the projects development."
+
+## Install on Ubuntu:
+
+```
+$ echo "deb https://download.keydb.dev/open-source-dist $(lsb_release -sc) main" | sudo tee /etc/apt/sources.list.d/keydb.list
+
+$ sudo wget -O /etc/apt/trusted.gpg.d/keydb.gpg https://download.keydb.dev/open-source-dist/keyring.gpg
+
+$ sudo apt update
+
+$ sudo apt install keydb
+```
+
+
+# European Open Filesystem (EOFS)
+
+[https://www.eofs.eu/]()
+
+## EOFS goals
+
+  * To promote the establishment and adoption of open source parallel file systems, sustain and enhance its quality, capabilities and functionality and ensure that specific requirements of European organizations, institutions and companies are upheld.
+  * To facilitate the extension of business operations to non-members.
+  * To initiate projects or to collaborate with existing projects at regional, national, European and international level in order to support Research & Development activities concerning Open File Systems.
+  * To ensure that engagement and activities with other organizations will not directly or indirectly interfere with the intellectual property or other contractual and legal obligations of its members.
+  * To operate as a non-profit organization.
+
+
+
 
 # "Real" Object Storages
 
