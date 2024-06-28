@@ -52,6 +52,60 @@ well-supported and stay with your data objects throughout their lifetime and
 workflows: What would that change?
 
 
+# Here's a video
+
+https://www.youtube.com/watch?v=sDqDomKvKpg&t=419s
+
+
+# Current "cloud" and Object Storage stacks for meta+data are too complex. IMO.
+
+I've set up and worked with quite a few large scale storages over the years,
+but when reading the (publicly) existing documentation, and watching other
+online materials about "big data" Object Storage architectures, I kind of doubt
+it has to be that complicated.
+
+Maybe I am completely wrong on this one, since I am an Object Storage newbie.
+However, the features I would need, are already being promised and said to be
+regular business cases for "big data" - and all othem said to be implemented in
+minio.
+
+Including using Minio/Swift directly to store noSQL JSON files as database.
+
+So for the basic AHAlodeck functionality, a plain Minio/Swift-based tool/design
+should suffice.
+No Iceberg, no Ozone, no Parquet, not even a cluster. For most use-cases.
+
+
+# I'm proposing a *real* simple and scalable key=value Object Storage.
+
+The way I've understood the articles and documentation online, OpenStack Swift,
+Minio, etc - or Object Storage Devices (OSDs) in general are supposed to store
+Objects (not "files in folders"), und use an ObjectID to access meta+data.
+
+Current S3-compatible implementations are (for some reasons?) very limiting on
+metadata storage, charset, length, etc - and handling - due to the "limits" AWS
+introduced to their customers. Like "10 tags".
+
+Except for treating certain metadata fields differently for indexing,
+system-use or must-exist, or common-presets, I do not see the need to
+distinguish *any key=value* from each other (\*) anymore, but merely optimize
+access and storage, according primarily to its byte-size (and then other
+access/usage config-profiles).
+
+As long as there's "diskspace", you can read/write/query "key=value" caches.
+A database filesystem.
+And some of the data is smaller (meta) and some of it bigger (payload).
+All of which is "data" - even the "key" information.
+
+> Right-click-edit-metadata.
+> Any.
+> Anywhere.
+> Double-click-use.
+> Anything.
+> Anywhere.
+
+
+
 # What would that change?
 
 Simply having your meta-with-your-data on any regular filesystem. Taken for
