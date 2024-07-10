@@ -11,6 +11,8 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QTableWidgetItem
 from PyQt5 import uic
 
+from pprint import pprint
+
 
 class Ui(QtWidgets.QMainWindow):
     def __init__(self):
@@ -20,13 +22,12 @@ class Ui(QtWidgets.QMainWindow):
         self.show()                         # Show the GUI
         aha = AHAlodeck(main_window=self)
 
-        self.metadata = aha.init_parameters()
-        self.metadata_utf = aha.BinToUnicode(self.metadata)
+        aha.initParameters()
         self.aha = aha                      # finally
         self.getContentLength()
 
         table = self.initTable(self.tableWidget)
-        self.initTableData(table, self.metadata_utf)
+        self.initTableData(table, aha.getMetadataText())
         self.initButtons()
         self.table = table
 
@@ -34,11 +35,12 @@ class Ui(QtWidgets.QMainWindow):
     def initButtons(self):
         self.btnAddEntry.clicked.connect(self.btnAddEntryClicked)
         self.btnDelEntry.clicked.connect(self.btnDelEntryClicked)
+        self.btnSave.clicked.connect(self.btnSaveClicked)
 
     def getContentLength(self):
         aha = self.aha
 
-        kv_list = aha.get_values(self.metadata_utf)
+        kv_list = aha.get_kv_list(aha.getMetadataText())
         #pprint(kv_list) # DEBUG DELME
 
         maxWord = {}
@@ -49,7 +51,7 @@ class Ui(QtWidgets.QMainWindow):
 
     def initTable(self, table):
         table.setColumnCount(3)
-        table.setRowCount(len(self.metadata))
+        table.setRowCount(len(self.aha.getMetadata()))
 
         table.setHorizontalHeaderLabels(['Key', 'Value', 'Description'])
         table.setColumnWidth(0, len(self.maxWord['key']) * 7)       # "8" used as random char-width (in px)
@@ -79,21 +81,38 @@ class Ui(QtWidgets.QMainWindow):
     #
     def btnDelEntryClicked(self):
         table = self.table
-        print("clicked (del)!")
 
+        # First we create a list of which rows to delete...
         delList : list = []
         selectedRanges = table.selectedRanges()
         for r in selectedRanges:
             for i in range(r.topRow(), r.bottomRow() +1):
-                print("marking {}".format(i))
                 delList.append(i)
 
         # We need to remove rows from highest index, counting down.
         # otherwise we'll get offset/index issues.
         delList.sort(reverse=True)
         for i in delList:
-            print("deleting row {}".format(i))
+            #print("deleting row {}".format(i))
             table.removeRow(i)
+
+
+    def btnSaveClicked(self):
+        print("save.")
+        aha = self.aha
+        metadata = self.getMetadataFromTable()
+        aha.writeMetadata(metadata)
+
+
+    def getMetadataFromTable(self):
+        table = self.table
+        metadata : list = []
+        for row in range(0, table.rowCount()):
+            key = table.item(row, 0).text()
+            value = table.item(row, 1).text()
+            metadata.append((key, value))
+
+        return metadata
 
 
 
