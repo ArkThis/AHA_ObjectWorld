@@ -20,11 +20,10 @@ class Ui(QtWidgets.QMainWindow):
         ui_mainwindow = path.abspath(path.join(path.dirname(__file__), 'mainwindow.ui'))
         uic.loadUi(ui_mainwindow, self)   # Load the .ui file
         self.show()                         # Show the GUI
-        aha = AHAlodeck(main_window=self)
 
+        aha = AHAlodeck(main_window=self)
         aha.initParameters()
         self.aha = aha                      # finally
-        self.getContentLength()
 
         table = self.initTable(self.tableWidget)
         self.initTableData(table, aha.getMetadataText())
@@ -36,6 +35,7 @@ class Ui(QtWidgets.QMainWindow):
         self.btnAddEntry.clicked.connect(self.btnAddEntryClicked)
         self.btnDelEntry.clicked.connect(self.btnDelEntryClicked)
         self.btnSave.clicked.connect(self.btnSaveClicked)
+
 
     def getContentLength(self):
         aha = self.aha
@@ -49,7 +49,10 @@ class Ui(QtWidgets.QMainWindow):
         #print("MAX key: {}, value: {}".format(len(maxWord['key']), len(maxWord['value'])))
         self.maxWord = maxWord
 
+
     def initTable(self, table):
+        self.getContentLength()
+
         table.setColumnCount(3)
         table.setRowCount(len(self.aha.getMetadata()))
 
@@ -57,6 +60,7 @@ class Ui(QtWidgets.QMainWindow):
         table.setColumnWidth(0, len(self.maxWord['key']) * 7)       # "8" used as random char-width (in px)
         table.setColumnWidth(1, len(self.maxWord['value']) * 7)
         return table
+
 
     def initTableData(self, table, metadata):
         row = 0
@@ -101,7 +105,8 @@ class Ui(QtWidgets.QMainWindow):
         print("save.")
         aha = self.aha
         metadata = self.getMetadataFromTable()
-        aha.writeMetadata(metadata)
+        aha.setMetadata(metadata)
+        aha.writeMetadata(aha.getMetadata())
 
 
     def getMetadataFromTable(self):

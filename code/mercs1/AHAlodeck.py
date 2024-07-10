@@ -78,6 +78,9 @@ class AHAlodeck():
         metadata = xattr.get_all(filename)
         return metadata
 
+    def setMetadata(self, metadata):
+        self.metadata = metadata
+
     def writeMetadata(self, metadata):
         filename = self.objects[0]  # TODO: currently it can only do 1.
         print("Storing metadata with '{}':".format(filename))
@@ -86,6 +89,15 @@ class AHAlodeck():
             #TODO: actually write the xattrs.
             #TODO: Write all changes atomically? meaning: delete everything
             #first, then write again from 'metadata' variable?
+        print("done.")
+
+
+    ##
+    # Revert the metadata to its original state.
+    #
+    def restoreMetadata(self):
+        self.metadata = self._metadata.copy()
+
 
     def initParameters(self):
         # Read CLI arguments/parameters:
