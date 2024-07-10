@@ -4,6 +4,7 @@
 # MERCS = Metadata? Right-Click-Edit: Save.
 
 import sys
+from os import path
 from AHAlodeck import AHAlodeck
 
 from PyQt5 import QtWidgets
@@ -14,7 +15,8 @@ from PyQt5 import uic
 class Ui(QtWidgets.QMainWindow):
     def __init__(self):
         super(Ui, self).__init__()          # Call the inherited classes __init__ method
-        uic.loadUi('mainwindow.ui', self)   # Load the .ui file
+        ui_mainwindow = path.abspath(path.join(path.dirname(__file__), 'mainwindow.ui'))
+        uic.loadUi(ui_mainwindow, self)   # Load the .ui file
         self.show()                         # Show the GUI
         aha = AHAlodeck(main_window=self)
 
