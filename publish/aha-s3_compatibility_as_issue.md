@@ -60,8 +60,8 @@ Storage" from SD to cluster.
 Why not?  That would pretty much already *be* the first AHAlodeck engine.
 
 **Please challenge existing or future S3 implementations/support for their
-`technical` or practical necessity - and patch you code accordingly to make it
-more awesome.**
+`technical` or practical necessity - and patch your code accordingly to make it
+more awesome, if possible.**
 
 
 
@@ -80,10 +80,14 @@ Thank you.
 
 There's even HowTo videos and web-documentation by major companies, such as
 IBM, Microsoft, Google, etc - that confirm my following perception of "What is
-an Object Storage" - and what is it designed and used for?
+an Object Storage" - and what is it designed and used for:
+
+  * Store a very large number of objects.
+  * Go beyond `filenames in folders` as access paradigm.
+  * Store metadata *with* (payload) data as "an Object".
 
 Especially in comparison and difference to /conventional/ files-in-folders
-storage concepts and other /classic/ paradigms?
-
-
+storage concepts and other /classic/ paradigms. Because would the "large(r)
+number of files per folder" as only reason suffice to go through all the
+efforts of implementing, advertising and maintaining "a new storage paradigm"?
 
