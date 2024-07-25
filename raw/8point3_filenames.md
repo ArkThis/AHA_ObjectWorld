@@ -30,3 +30,21 @@ Nice.
 
 --
 TODO: #Kabarett "8.3? das waren noch Zeiten! Schon vergessen?"
+
+
+
+
+btw, update 2024-07-18:
+The default basic 101 tutorial for redis and web-ui code templates to edit and handle that "data".
+In a quite generic, but very useful way.
+
+I know Redis ain't an object storage, but it's a really beautiful and straightforward (and obviously professionally stable and useful) key/value/blob store.
+
+
+```
+Add Real-Time Full-Text Search to Your Web Site with RediSearch
+Published on Jul 21, 2021 • 2,583 views
+
+https://youtu.be/Loa9sUuvCnA?list=PLratyGi2ixLsqd3SRcsJticE9yt5LDX3R
+```
+
