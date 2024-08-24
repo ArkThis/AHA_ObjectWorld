@@ -1,0 +1,3 @@
+[submodule "external/fs-viewer"]
+	path = external/fs-viewer
+	url = https://github.com/unreadablewxy/fs-viewer.git
