@@ -42,7 +42,9 @@ date: 2024-08-27
 
 # Store "Meta" where the "Data" is: In the filesystem.
 
-![Screenshot: Typical image collection tool (gthumb): **Where and how is metadata currently stored?** How well does it travel?](../res/gthumb_metadata_questions.png)
+| ![Screenshot: gthumb](../res/gthumb_metadata_questions.png) |
+|:--:|
+| Screenshot: A typical image collection tool: **Where and how is metadata currently stored?** How well does it travel? |
 
 # A Holodeck by August: Resolving annoying daily GLAM issues for good, by switching to a Big Data tech-stack and using filesystems for annotation needs.
 
@@ -57,7 +59,9 @@ Until 1995, a filename (in DOS) may only consist of:
 
 Imagine how much all users and developers have been empowered simply by "allowing" long filenames on popular filesystems?
 
-![Screenshot of a real world "8.3" filename example](../res/8point3-hwork.png)
+| ![Screenshot: Old filenames](../res/8point3-hwork.png) |
+|:--:|
+| Screenshot of a real world "8.3" filename example |
 
 > **The usage of different data-handling paradigms, proposed in this document, may be comparable to allowing 250+ characters in 1995. No more need for a spreadsheet or database for most daily needs: Simply right-click-edit-metadata.**
 
@@ -97,7 +101,9 @@ And interconnect those storages (if intended) to a storage-network of this kind.
 Because it is based on Cloud-Stack components, and therefore scales identically.
 It also allows to access metadata or data in the same way (programatically as well as common stable user-interfaces) - and at comparable performance, even on lower-end or simply older hardware.
 
-![Screenshot: Proof-of-Concept meta+data tests with OpenStack Swift. A large scale cloud computing Object Store Cloud component](../res/swift_unicode.png)
+| ![Screenshot: meta+data tests with OpenStack Swift](../res/swift_unicode.png) |
+|:--:|
+| Screenshot: Proof-of-Concept meta+data tests with OpenStack Swift. A large scale cloud computing Object Store Cloud component, running on local hardware (Docker) |
 
 
 ## The outcome of this project
@@ -180,7 +186,7 @@ Now it gets a bit trickier:
 
 Dealing with related meta+data can be handled differently already:
 
-On a Linux setup from 2020, storing metadata (key/value) information with files-and-folders works out of the box.
+**On a Linux setup from 2020, storing metadata (key/value) information with files-and-folders works out of the box.**
 
 Using common tools, common libraries and common filesystems (ext4, zfs), having persistent meta+data even when copying over a network and back.
 
