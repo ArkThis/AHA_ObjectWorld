@@ -40,7 +40,7 @@ date: 2024-08-27
 -------------------------------------
 
 
-# A Holodeck by August: Resolving annoying daily GLAM issues by switching to a Big Data tech-stack.
+# A Holodeck by August: Resolving annoying daily GLAM issues for good, by switching to a Big Data tech-stack and using filesystems for annotation needs.
 
 (**GLAM**: Galleries, Libraries, Archives and Museums)
 
@@ -53,7 +53,7 @@ Until 1995, a filename (in DOS) may only consist of:
 
 Imagine how much all users and developers have been empowered simply by "allowing" long filenames on popular filesystems?
 
-![Real world "8.3" example](/home/pb/ArkThis/Development/src-repositories/ArkThis.github/AHA_ObjectWorld/res/8point3-hwork.png)
+![Screenshot of a real world "8.3" filename example](../res/8point3-hwork.png)
 
 > **The usage of different data-handling paradigms, proposed in this document, may be comparable to allowing 250+ characters in 1995. No more need for a spreadsheet or database for most daily needs: Simply right-click-edit-metadata.**
 
