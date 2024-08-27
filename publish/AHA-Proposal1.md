@@ -40,6 +40,10 @@ date: 2024-08-27
 -------------------------------------
 
 
+# Store "Meta" where the "Data" is: In the filesystem.
+
+![Screenshot: Typical image collection tool (gthumb): **Where and how is metadata currently stored?** How well does it travel?](../res/gthumb_metadata_questions.png)
+
 # A Holodeck by August: Resolving annoying daily GLAM issues for good, by switching to a Big Data tech-stack and using filesystems for annotation needs.
 
 (**GLAM**: Galleries, Libraries, Archives and Museums)
@@ -72,7 +76,7 @@ Each Object has a technical identifier - and an arbitrary number of key/value da
 
 Access (search and retrieval) for usage is done by querying indexers that have cached the filesystem data. Merely for fast(er) access. This allows real-time typing-suggestions, etc.
 
-> Being able to store and access (for use) any "file content" as kind of "Data Object" is like introducing long filenames back then:
+> **Being able to store and access (for use) any "file content" as kind of "Data Object" is like introducing long filenames back then:**  
 Giving the average user (and any developer) the option to "simply" provide right-click-edit-metadata capabilities.
 
 And simply ask for "keywords/tags" or provide "filename/foldername" as 2 metadata fields when "saving your work".
@@ -91,19 +95,28 @@ This will allow to have common hardware/software/config setups for storing data 
 And interconnect those storages (if intended) to a storage-network of this kind.
 
 Because it is based on Cloud-Stack components, and therefore scales identically.
-It also allows to access metadata or data in the same way (programatically) - and at comparable performance, even on lower-end or simply older hardware.
+It also allows to access metadata or data in the same way (programatically as well as common stable user-interfaces) - and at comparable performance, even on lower-end or simply older hardware.
 
-The outcome of this proposed project will be to orchestrate existing technologies, mainly borrowed from Big Data and Open Standards environments: **resulting in a basic software environment that allows curating digital collections in a new computing paradigm: reducing interoperability issues and migration efforts (costs)**
+![Screenshot: Proof-of-Concept meta+data tests with OpenStack Swift. A large scale cloud computing Object Store Cloud component](../res/swift_unicode.png)
 
-This new computing paradigm is basically comparable to what online-service providers are using large-scale productively since around 2005. It goes beyond what Cloud Providers currently offer:
+
+## The outcome of this project
+
+Will be to orchestrate existing technologies, mainly borrowed from Big Data and Open Standards environments applied to resolve daily GLAM tasks in more of a flow.
+
+> Resulting in a basic software environment that allows curating digital collections in a new computing paradigm: reducing interoperability issues and migration efforts (costs).
+
+This new computing paradigm is basically comparable to what online-service providers are using large-scale productively since around 2005. The design of this project covers what cloud providers currently offer as basic functionality - and adds professional GLAM/Science annotation and semantic data and standards.
 
 By adding our GLAM experience in handling all kinds of data under all kinds of "epochs" to the current change of digital data-handling usage, we can introduce proper asset-management means based on "filesystem LEGO blocks".
 
-As basic as "put it in the filename".
+Annotating becoming as basic as "put it in the filename".
 Now without the need to choose a folder,
-and with the basic option to "add keyword".
+And with the basic option to "add keyword".
+And fulltext search and filter options by default.
 
-That's it.
+That'd be it.
+For now.
 
 
 # Cloud features everwhere: even local.
@@ -151,25 +164,34 @@ This is IMO proof that the common filesystem is still the one "safe" option that
 
 > "There is a file with that name in that folder ..."
 
-Now it gets a bit trickier:
-
-> "And the information about it is somewhere else."
-
-> "...or burried inside. Usually binary. Can you read hex?"
+This is where all users and programmers meet.
 
 
 ## Using the Filesystem as Database - and the OS as interface
 
-This can be handled differently already:
+Now it gets a bit trickier:
 
-On a Linux setup from 2020, storing metadata (key/value) information with files-and-folders, using common tools, common libraries: works out of the box (ext4), persistent even when being copied over the network (smb/cifs) onto ZFS - and back.
+> "And the information about my file/song/image/... is somewhere else."
 
-MacOS supports and uses these features themselves for more than 20 years - so it can be considered stable.
+> "...or burried inside. Usually binary. Can you read hex?"
 
-Then moving gradually from conventional "files-in-folders" storages onto Object Storage systems.
+![Screenshot: **Right Click Edit Metadata** -  Proof-of-Concept Python FS-Metadata GUI (xattr). The metadata shown in the grid is read from the filesystem. NOT the mp3 (Plus: Note the mix of tag-keys)](../res/pyQtThunar-rightclickedit-metadata.png)
+
+
+Dealing with related meta+data can be handled differently already:
+
+On a Linux setup from 2020, storing metadata (key/value) information with files-and-folders works out of the box.
+
+Using common tools, common libraries and common filesystems (ext4, zfs), having persistent meta+data even when copying over a network and back.
+
+Linux and MacOS supports and uses these extended file attribute (xattr) features themselves for more than 20 years - so we can consider this technology stable.
+
+Using xattrs allows moving gradually from conventional "files-in-folders" storages onto Object Storage systems.
 
 
 ## Online cloud already does it.
+
+![Amazon's Definition of Data Objects on their storage](../res/aws-objects_and_descriptive_metadata.png)
 
 When asking younger users, how they deal with search/using/sorting their files - their answer is often:
 
@@ -177,9 +199,12 @@ When asking younger users, how they deal with search/using/sorting their files -
 
 And there they simply use a search-box and tags or links - fulltext search and filtering by default.
 
-Due to the lack of comparable "basic" features "offline", many turn to rather having most of their data (private and professional) on some (cheap/free) online cloud provider networks.
+Due to the lack of comparable "basic" features "offline", many turn to rather having most of their data (private and professional) on some (cheap/free/professional) online cloud provider networks.
 
 This project plan includes means for bridging this gap, and having seamless filesystem-level interoperability of related-data-objects. Any format, any size, any number.
+
+Cloud features online and offline.
+In any application that can access a proper filesystem.
 
 
 ## Having Meta-with-Data as basic option
@@ -200,6 +225,9 @@ Having Meta-with-Data anywhere. Right-Click-Edit-Metadata. Just like that.
 
 And maybe in 10 years noone will remember it has ever been different? :P
 
+This `meta+data` feature alone - and UIs and presets to work with it, may be implemented in a fraction of the time currently required to fund *a single* metadata-catalog-online-web-standard meta+data migration project. The provided outcome is comparable to using basic GNU/FOSS commandline and GUI tools and standards consistently - for decades and counting.
+
+
 
 ## Known issues / FAQs
 
@@ -213,3 +241,8 @@ Common questions are:
   * Compatible with...?
 
 
+
+# Once in the Data Object World and tools, there is way more to explore...
+
+Seriously, this goes into resolving file-formats into related Data Object Graphs, etc...  
+But that is another story :)
