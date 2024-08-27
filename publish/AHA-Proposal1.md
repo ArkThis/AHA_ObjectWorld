@@ -42,6 +42,17 @@ date: 2024-08-27
 
 # Store "Meta" where the "Data" is: In the filesystem.
 
+> Which has already been tried and done in the mid-90s, and was basically forgotten, overlooked.
+> Because it wasn't really well-enough-supported, and tags got lost - and therefore trust.
+>
+> So why drag in a dead cat?
+
+Why didn't these extended-attributes become more popular?
+Possibly due to sufficient use of existing metadata "workarounds" and hardware performance/memory limitations back then (~1995-2005).
+Hardware limitations and prices have greatly changed since then, making new meta+data storage and handling implementations now easily possible.
+
+Therefore I propose revisiting the possibilities provided by having `meta+data` in the filesystem as the new default.
+
 | ![Screenshot: gthumb](../res/gthumb_metadata_questions.png) |
 |:--:|
 | Screenshot: A typical image collection tool: **Where and how is metadata currently stored?** How well does it travel? |
