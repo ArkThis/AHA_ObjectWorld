@@ -139,27 +139,6 @@ Since professional "Big Data" Cloud tech-stacks are now available as paid-suppor
 And you get all the tag/search/find Data Object features for your local, offline works too.
 
 
-# Software components
-
-The key components this project will focus/base on, are:
-
-  * Metadata capabilities of filesystem/OS (key-value store)
-  * Object storage (as successor of files-in-folders)
-  * Data Lake(house) handling
-  * Search/Filter caching & indexing
-  * External, common (standard) lists for controlled vocabulary/facets.
-
-Leading to:
-
-  * A generic set of building blocks and tools to work with arbitrary digital collections.
-  * A resolution of most interoperability issues (file-formats, metadata-layouts, interfaces, databases, etc) natively by the differnt new paradigm-properties.
-  * The ability to (re)use these new basic data-handling options anywhere (Standards: POSIX (xattr), Object Store (ANSI T10), etc).
-
-
-All software components required for a working prototype which already covers many daily use-cases within GLAM (and even personal to professional tasks where one would use a DAM/DB or Spreadsheet application).
-
-
-
 # What is different about this approach?
 
 There are still many (valid) reasons why everyone of us still puts "more information than they should" into a filename. And coming up with good-and-lasting folder (naming) structures is another quest on its own.
@@ -175,13 +154,20 @@ This is where all users and programmers meet.
 
 ## Using the Filesystem as Database - and the OS as interface
 
+| ![Screenshot: metadata in extended file attributes (commandline)](../res/fattr_ext4.png) |
+|:--:|
+| Screenshot: metadata in extended file attributes (commandline, Linux). |
+
 Now it gets a bit trickier:
 
 > "And the information about my file/song/image/... is somewhere else."
 
 > "...or burried inside. Usually binary. Can you read hex?"
 
-![Screenshot: **Right Click Edit Metadata** -  Proof-of-Concept Python FS-Metadata GUI (xattr). The metadata shown in the grid is read from the filesystem. NOT the mp3 (Plus: Note the mix of tag-keys)](../res/pyQtThunar-rightclickedit-metadata.png)
+
+| ![Screenshot: DB file and MP3 metadata as xattrs](../res/xattr_showoff.png) |
+|:--:|
+| Screenshot: LEFT= 0-byte file acting as a working database entry. RIGHT= MP3 metadata stored as filesystem attributes (plaintext, auto-extracted using `exiftool`) |
 
 
 Dealing with related meta+data can be handled differently already:
@@ -197,7 +183,10 @@ Using xattrs allows moving gradually from conventional "files-in-folders" storag
 
 ## Online cloud already does it.
 
-![Amazon's Definition of Data Objects on their storage](../res/aws-objects_and_descriptive_metadata.png)
+| ![Amazon's Definition of Data Objects on their storage](../res/aws-objects_and_descriptive_metadata.png) |
+|:--:|
+| Amazon's public definition of Data Objects on their storage |
+ 
 
 When asking younger users, how they deal with search/using/sorting their files - their answer is often:
 
@@ -233,6 +222,43 @@ And maybe in 10 years noone will remember it has ever been different? :P
 
 This `meta+data` feature alone - and UIs and presets to work with it, may be implemented in a fraction of the time currently required to fund *a single* metadata-catalog-online-web-standard meta+data migration project. The provided outcome is comparable to using basic GNU/FOSS commandline and GUI tools and standards consistently - for decades and counting.
 
+| ![Screenshot: **Right Click Edit Metadata** -  Proof-of-Concept Python FS-Metadata GUI (xattr). The metadata shown in the grid is read from the filesystem. NOT the mp3 (Plus: Note the mix of tag-keys)](../res/pyQtThunar-rightclickedit-metadata.png) |
+|:--:|
+| Screenshot: **Right Click Edit Metadata** -  Proof-of-Concept Python FS-Metadata GUI (xattr). \newline The metadata shown in the grid is read from the filesystem. NOT the mp3 (Plus: Note the mix of tag-keys) |
+
+
+
+
+# Software components
+
+The key components this project will focus/base on, are:
+
+  * Metadata capabilities of filesystem/OS (key-value store)
+  * Object storage (as successor of files-in-folders)
+  * Data Lake(house) handling
+  * Search/Filter caching & indexing
+  * External, common (standard) lists for controlled vocabulary/facets.
+
+Leading to:
+
+  * A generic set of building blocks and tools to work with arbitrary digital collections.
+  * A resolution of most interoperability issues (file-formats, metadata-layouts, interfaces, databases, etc) natively by the differnt new paradigm-properties.
+  * The ability to (re)use these new basic data-handling options anywhere (Standards: POSIX (xattr), Object Store (ANSI T10), etc).
+
+
+**Most software components required for a production-useful prototype already exists.**
+
+So it will be possible to cover many daily use-cases within GLAM (and even personal to professional tasks where one would now normally use/require a DAM/DB or Spreadsheet application for the same functionality).
+
+Currently missing components are:
+
+  * (graphical) user interfaces for general key/value filesystem metadata handling.
+  * presets and templates for daily tasks.
+  * a proper storage layout and configuration to support professional meta+data handling.
+  * proper ongoing paid support.
+
+This is great work for remote+local mixed-size IT suppliers:
+As it is doable to support a common, stable stack.
 
 
 ## Known issues / FAQs
