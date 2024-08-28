@@ -11,6 +11,8 @@ linkcolor: blue
 date: 2024-08-27
 ---
 
+(this is a ~7min. read)
+
 
 # Project Plans
 
