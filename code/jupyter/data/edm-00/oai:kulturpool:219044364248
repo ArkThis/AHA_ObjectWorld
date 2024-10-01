@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="11353/10.1245736">
+<dc:creator xml:lang="de">Braun, Dominik</dc:creator>
+<dc:creator xml:lang="de">Schernhammer, Eva</dc:creator>
+<dc:creator xml:lang="de">Marko, Doris</dc:creator>
+<dc:creator xml:lang="de">Warth, Benedikt</dc:creator>
+<dc:description xml:lang="de">The abstract is available here: https://uscholar.univie.ac.at/o:1245736</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>11353/10.1245736</dc:identifier>
+<dc:language>English</dc:language>
+<dc:rights xml:lang="de">http://creativecommons.org/licenses/by/4.0/</dc:rights>
+<dc:rights xml:lang="de">open access</dc:rights>
+<dc:subject xml:lang="en">Human biomonitoring (HBM)</dc:subject>
+<dc:subject xml:lang="en">Exposure assessment</dc:subject>
+<dc:subject xml:lang="en">Food safety</dc:subject>
+<dc:subject xml:lang="en">Exposome</dc:subject>
+<dc:subject xml:lang="en">Infant, environmental and public health</dc:subject>
+<dc:subject xml:lang="en">Natural contaminants</dc:subject>
+<dc:title xml:lang="en">Longitudinal assessment of mycotoxin co-exposures in exclusively breastfed infants</dc:title>
+<dcterms:isPartOf xml:lang="de">u:scholar, Vienna University's Institutional Repository</dcterms:isPartOf>
+<edm:type>TEXT</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=219044364248">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=219044364248"/>
+<dc:description xml:lang="de">The abstract is available here: https://uscholar.univie.ac.at/o:1245736</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:rights xml:lang="de">http://creativecommons.org/licenses/by/4.0/</dc:rights>
+<dc:rights xml:lang="de">open access</dc:rights>
+<dcterms:isPartOf xml:lang="de">u:scholar, Vienna University's Institutional Repository</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://phaidra.univie.ac.at/o:1245736">
+<edm:aggregatedCHO rdf:resource="11353/10.1245736"/>
+<edm:dataProvider>Universitätsbibliothek Wien - Phaidra</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://phaidra.univie.ac.at/o:1245736"/>
+<edm:isShownBy rdf:resource="https://fedora.phaidra.univie.ac.at/fedora/get/o:1245736/bdef:Content/download"/>
+<edm:object rdf:resource="https://phaidra.univie.ac.at/preview/o:1245736"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-StiALi/LilienfeldOCist/1381_V_27">
+<dc:date>1381-05-27</dc:date>
+<dc:description xml:lang="de">Peter der Grewl verkauft 4 lb auf behaustem Gut um 88 lb an Abt Stephan und den Konvent von Lyenueld: von 1 Gut 1 ganzer Hof am Ort im Durichlozz dienen Mert am Ort, Stephan der Eysner und Wolfel am Ort je 55 ½ d am Pöltentag; von 1 Hofstatt in dem Lueg dient die Witwe Elzpet 78 d am Pöltentag; von 1 Ganzlehen am Weinperchk dienen Andre und Hainreich je 3 ß am Pöltentag; von 1 Gut in dem Staenech dient Wolfhart in dem Staenech 2 lb am Pöltentag und 1 lb zu Michaeli. $$Siegler: der A., Ott der Waser, Cristoff von Liechnewerd Reichers Sohn, Erchenger von Ekkendorf und seine Brüder Niclas, Jans und Ulreich, Ulreich der Grewl.</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-StiALi/LilienfeldOCist/1381_V_27</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: LilienfeldOCist 1381 V 27</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1381-05-27</dcterms:created>
+<dcterms:extent>34,8 × 23,7 Plica</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">
+                    Stiftsarchiv Lilienfeld
+                </dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=317828684951">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=317828684951"/>
+<dc:description xml:lang="de">Peter der Grewl verkauft 4 lb auf behaustem Gut um 88 lb an Abt Stephan und den Konvent von Lyenueld: von 1 Gut 1 ganzer Hof am Ort im Durichlozz dienen Mert am Ort, Stephan der Eysner und Wolfel am Ort je 55 ½ d am Pöltentag; von 1 Hofstatt in dem Lueg dient die Witwe Elzpet 78 d am Pöltentag; von 1 Ganzlehen am Weinperchk dienen Andre und Hainreich je 3 ß am Pöltentag; von 1 Gut in dem Staenech dient Wolfhart in dem Staenech 2 lb am Pöltentag und 1 lb zu Michaeli. $$Siegler: der A., Ott der Waser, Cristoff von Liechnewerd Reichers Sohn, Erchenger von Ekkendorf und seine Brüder Niclas, Jans und Ulreich, Ulreich der Grewl.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:extent>34,8 × 23,7 Plica</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">
+                    Stiftsarchiv Lilienfeld
+                </dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-StiALi/LilienfeldOCist/1381_V_27/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-StiALi/LilienfeldOCist/1381_V_27"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-StiALi/LilienfeldOCist/1381_V_27/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/pics%2F124%2FK.._MOM-Bilddateien._~Lilienfeldjpgweb._~StAL__13810527.jpg/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/pics%2F124%2FK.._MOM-Bilddateien._~Lilienfeldjpgweb._~StAL__13810527.jpg/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

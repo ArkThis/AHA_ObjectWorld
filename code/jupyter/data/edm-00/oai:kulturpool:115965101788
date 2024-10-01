@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 13382-2">
+<dc:contributor rdf:resource="#Staindorffer_Johann_Georg_Entwurf"/>
+<dc:contributor rdf:resource="#Staindorffer_Johann_Georg_Druck"/>
+<dc:identifier>KI 13382-2</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">15 Blatt eines deutschen Tarock-Kartenspiels mit mythologischen Figuren von Johann Georg Staindorffer aus dem Jahr 1688</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300211294"/>
+<dcterms:extent>Höhe: 9.3 cm</dcterms:extent>
+<dcterms:extent>Breite: 5.5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Karton</dcterms:medium>
+<dcterms:medium xml:lang="en">cardboard</dcterms:medium>
+<dcterms:medium xml:lang="de">Deckfarbe</dcterms:medium>
+<dcterms:medium xml:lang="en">gouache</dcterms:medium>
+<dcterms:medium xml:lang="de">Gouache</dcterms:medium>
+<dcterms:medium xml:lang="en">gouache</dcterms:medium>
+<dcterms:provenance xml:lang="de">Alter Bestand</dcterms:provenance>
+<dcterms:provenance xml:lang="en">old holding</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4043271-3"/>
+<dcterms:temporal rdf:resource="temporal#115965101788"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965101788">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965101788"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Staindorffer_Johann_Georg_Entwurf">
+<skos:prefLabel xml:lang="de">Staindorffer, Johann Georg (Entwurf) (Österreich, 1688)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Staindorffer, Johann Georg</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<edm:begin>1688</edm:begin>
+<edm:end>1688</edm:end>
+<foaf:name xml:lang="de">Staindorffer, Johann Georg</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Österreich, 1688</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Austria, 1688</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Staindorffer_Johann_Georg_Druck">
+<skos:prefLabel xml:lang="de">Staindorffer, Johann Georg (Druck) (Österreich, 1688)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Staindorffer, Johann Georg</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<edm:begin>1688</edm:begin>
+<edm:end>1688</edm:end>
+<foaf:name xml:lang="de">Staindorffer, Johann Georg</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Österreich, 1688</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Austria, 1688</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Druck</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#115965101788">
+<skos:prefLabel>1688-1688</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<edm:begin>1688</edm:begin>
+<edm:end>1688</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-168451">
+<edm:aggregatedCHO rdf:resource="KI 13382-2"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_10.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_11.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_12.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_13.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_14.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_15.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_2.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_3.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_4.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_5.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_6.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_7.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_8.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_9.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-168451"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-13382-2_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-13382-2_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="OR 685">
+<dc:contributor rdf:resource="#Miyagawa_K&#x14D;zan_&#x5BAE;&#x5DDD;&#x9999;&#x5C71;_Entwurf"/>
+<dc:identifier>OR 685</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Vase, am Boden signiert "Kōzan" (Makuzu Kōzan, 1842–1916)</dc:title>
+<dc:title xml:lang="en">Vase, signed ,kozan’ on the base</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300132254"/>
+<dcterms:extent>Höhe: 20 cm</dcterms:extent>
+<dcterms:extent>Durchmesser: 12 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Porzellan</dcterms:medium>
+<dcterms:medium xml:lang="en">porcelain</dcterms:medium>
+<dcterms:medium xml:lang="de">Überlaufglasur</dcterms:medium>
+<dcterms:medium xml:lang="en">slipped glaze</dcterms:medium>
+<dcterms:provenance xml:lang="de">Übernahme (1907)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">assumption (1907)</dcterms:provenance>
+<dcterms:provenance xml:lang="ja">引継 (1907)</dcterms:provenance>
+<dcterms:temporal rdf:resource="temporal#107375064163"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375064163">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375064163"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Miyagawa_K&#x14D;zan_&#x5BAE;&#x5DDD;&#x9999;&#x5C71;_Entwurf">
+<skos:prefLabel xml:lang="de">Miyagawa Kōzan 宮川香山 (Entwurf) (vor 1895)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Miyagawa Kōzan 宮川香山</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:begin>1885</edm:begin>
+<edm:end>1894</edm:end>
+<foaf:name xml:lang="de">Miyagawa Kōzan 宮川香山</foaf:name>
+<foaf:name xml:lang="en">Miyagawa Kōzan 宮川香山</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">vor 1895</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">before 1895</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375064163">
+<skos:prefLabel>1885-1894</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:begin>1885</edm:begin>
+<edm:end>1894</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-48744">
+<edm:aggregatedCHO rdf:resource="OR 685"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/or-685_2.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/or-685_3.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-48744"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/or-685_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/or-685_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

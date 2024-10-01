@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="25537">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Josef_Neugebauer_K&#xFC;nstler_in"/>
+<dc:description xml:lang="de">Beschriftung: l.u. "J / Neugebauer" ?; r.u. "IN 25.537."</dc:description>
+<dc:identifier>25537</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:title xml:lang="de">Deckenentwurf mit Putti</dc:title>
+<dc:type xml:lang="de">Zeichnung</dc:type>
+<dcterms:extent xml:lang="de">lt. Cahier: 10,9 x 28,8 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Bleistift, braun laviert, weiß gehöht</dcterms:medium>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296241265">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296241265"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Josef_Neugebauer_K&#xFC;nstler_in">
+<skos:prefLabel>Josef Neugebauer (Künstler_in)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Josef Neugebauer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien 1810 - 1895 Melk</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[25537]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="25537"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[25537]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/25537.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/25537.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

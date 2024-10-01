@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="29091m">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Ernst_St&#xF6;hr_K&#xFC;nstler_in"/>
+<dc:date>um 1899</dc:date>
+<dc:identifier>29091m</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:title xml:lang="de">Mann und Frau in nächtlicher Landschaft</dc:title>
+<dc:type xml:lang="de">Zeichnung</dc:type>
+<dcterms:created>um 1899</dcterms:created>
+<dcterms:extent xml:lang="de">23 x 22 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Tusche, Deckweißkorrekturen</dcterms:medium>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295002844">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295002844"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Ernst_St&#xF6;hr_K&#xFC;nstler_in">
+<skos:prefLabel>Ernst Stöhr (Künstler_in)</skos:prefLabel>
+<dc:date>um 1899</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Ernst Stöhr</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">St. Pölten 1860 - 1917 St. Pölten</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[29091m]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="29091m"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[29091m]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/29091_m.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/29091_m.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

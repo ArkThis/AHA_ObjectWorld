@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="DG2020/2/47">
+<dc:coverage>Italien, Rom</dc:coverage>
+<dc:creator rdf:resource="#Anonym_Radierer_in"/>
+<dc:creator rdf:resource="#Calcografia_della_R.C.A._Verleger_in"/>
+<dc:date>1740</dc:date>
+<dc:description xml:lang="de">Beschriftung: [l.o.] "In Roma nella Calcografia della R.C.A. | al Fiè di Marmo" (in der Darstellung); [l.u.] "Il Sommo Pontefice esposto nella Cappella | dell' S.mo Sacramento il popolo gli bacia il piede."; [u.] "Cerimonia fatta nel trasportare del sudetto Sommo Pontefice, accompagnato dal Capitolo, e Clero della medesima Basilica Vaticana, et Emm.mi Signori | Cardinali dalla Cappella di Sisto IV. alla Capella della SS.ma Trinita in S Pietro."</dc:description>
+<dc:identifier>DG2020/2/47</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Gravur</dc:subject>
+<dc:subject xml:lang="en">engraving</dc:subject>
+<dc:title xml:lang="de">Trauerzug mit dem Leichnam von Papst Clemens XII. vom Quirinalspalast zum Vatikan am 6. Februar 1740</dc:title>
+<dc:type xml:lang="de">Druckgraphik</dc:type>
+<dcterms:created>1740</dcterms:created>
+<dcterms:extent xml:lang="de">Blatt: 32,9 × 36,4 cm Platte: 23 × 34,3 cm Platte: 8,1 × 34,7 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Radierung von zwei Platten auf Papier</dcterms:medium>
+<dcterms:spatial xml:lang="de">Italien, Rom</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295442723">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295442723"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_Radierer_in">
+<skos:prefLabel>Anonym (Radierer_in)</skos:prefLabel>
+<dc:date>1740</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<rdaGr2:professionOrOccupation>Radierer_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Calcografia_della_R.C.A._Verleger_in">
+<skos:prefLabel>Calcografia della R.C.A. (Verleger_in)</skos:prefLabel>
+<dc:date>1740</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Calcografia della R.C.A.</foaf:name>
+<rdaGr2:professionOrOccupation>Verleger_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG2020/2/47]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="DG2020/2/47"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG2020/2/47]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG2020_2_47.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG2020_2_47.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

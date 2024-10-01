@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="DS 442">
+<dc:contributor rdf:resource="#Process_Designstudio"/>
+<dc:contributor rdf:resource="#Process_Hersteller"/>
+<dc:identifier>DS 442</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>iv</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Secrets of AI (Projekttitel)</dc:title>
+<dc:title xml:lang="iv"> (Projekttitel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4131808-0"/>
+<dcterms:extent>Durchmesser: 60 cm</dcterms:extent>
+<dcterms:extent>Höhe: 5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Design (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Design Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Design (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kunststoff</dcterms:medium>
+<dcterms:medium xml:lang="en">plastic</dcterms:medium>
+<dcterms:medium xml:lang="de">MDF - Mitteldicke Holzfaserplatte</dcterms:medium>
+<dcterms:medium xml:lang="en">MDF - medium-density fibreboard</dcterms:medium>
+<dcterms:medium xml:lang="de">LED</dcterms:medium>
+<dcterms:medium xml:lang="de">Gewebe</dcterms:medium>
+<dcterms:medium xml:lang="en">woven fabric</dcterms:medium>
+<dcterms:medium xml:lang="de">Metall</dcterms:medium>
+<dcterms:medium xml:lang="en">metal</dcterms:medium>
+<dcterms:medium xml:lang="de">Elektronische Bauteile</dcterms:medium>
+<dcterms:medium xml:lang="en">electronic components</dcterms:medium>
+<dcterms:provenance xml:lang="de">Schenkung / Donation (2020-12-11)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">donation (2020-12-11)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#107375073514"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375073514">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375073514"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Design (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Design Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Design (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Process_Designstudio">
+<skos:prefLabel xml:lang="de">Process (Designstudio) (Wien, 2019-)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Process</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Design (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Design Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Design (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design collection (Collection)</dcterms:isPartOf>
+<edm:begin>2019</edm:begin>
+<foaf:name xml:lang="de">Process</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 2019-</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 2019-</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Designstudio</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Process_Hersteller">
+<skos:prefLabel xml:lang="de">Process (Hersteller) (Wien, 2019-)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Process</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Design (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Design Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Design (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design collection (Collection)</dcterms:isPartOf>
+<edm:begin>2019</edm:begin>
+<edm:end>2019</edm:end>
+<foaf:name xml:lang="de">Process</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 2019-</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 2019-</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Hersteller</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375073514">
+<skos:prefLabel>2019-2019</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Design (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Design Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Design (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design collection (Collection)</dcterms:isPartOf>
+<edm:begin>2019</edm:begin>
+<edm:end>2019</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-372130">
+<edm:aggregatedCHO rdf:resource="DS 442"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ds-442_2.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ds-442_3.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-372130"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ds-442_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ds-442_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

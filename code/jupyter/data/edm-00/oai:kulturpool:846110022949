@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="7045">
+<dc:creator rdf:resource="#Sigismund_Bathory_Pr&#xE4;geautorit&#xE4;t"/>
+<dc:date xml:lang="de">1595</dc:date>
+<dc:identifier>7045</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Namensnennung 4.0
+                                International (CC BY 4.0)</dc:rights>
+<dc:rights xml:lang="de">Holder of image: Foto: Wien Museum</dc:rights>
+<dc:subject xml:lang="de">Finanzen und Geldwesen</dc:subject>
+<dc:type xml:lang="de">Münzen</dc:type>
+<dc:title xml:lang="de">Taler</dc:title>
+<dc:type rdf:resource="https://iconclass.org/46B311"/>
+<dc:type rdf:resource="https://iconclass.org/44B19"/>
+<dc:type rdf:resource="https://iconclass.org/44B191"/>
+<dc:type xml:lang="de">Porträt</dc:type>
+<dc:type xml:lang="de">Mann</dc:type>
+<dc:type rdf:resource="https://iconclass.org/44B1"/>
+<dc:type rdf:resource="https://iconclass.org/44A1"/>
+<dc:type rdf:resource="https://iconclass.org/46B31"/>
+<dcterms:created xml:lang="de">1595</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=846110022949">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=846110022949"/>
+<dc:rights xml:lang="de">Namensnennung 4.0
+                                International (CC BY 4.0)</dc:rights>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Sigismund_Bathory_Pr&#xE4;geautorit&#xE4;t">
+<skos:prefLabel>Sigismund Bathory (Prägeautorität)</skos:prefLabel>
+<dc:date>1595</dc:date>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Sigismund Bathory</foaf:name>
+<rdaGr2:professionOrOccupation>Prägeautorität</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.wienmuseum.at/objekt/87715">
+<edm:aggregatedCHO rdf:resource="7045"/>
+<edm:dataProvider>Wien Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.wienmuseum.at/objekt/87715"/>
+<edm:isShownBy rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=87715/1409938_default.jpg"/>
+<edm:object rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=87715/1409938_preview.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

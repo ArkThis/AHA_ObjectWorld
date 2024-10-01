@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="SN9546/204/7">
+<dc:description xml:lang="de">Konvolut: Schwarzer Ornat, 9546/204</dc:description>
+<dc:identifier>SN9546/204/7</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung</dc:rights>
+<dc:rights xml:lang="de">Holder of image: Institut für Konservierung und Restaurierung, Univ. angewandte Kunst Wien, Stift Neukloster</dc:rights>
+<dc:title xml:lang="de">Bursa</dc:title>
+<dc:type xml:lang="de">Museumsobjekt</dc:type>
+<dcterms:extent xml:lang="de">B x H x T: 20cm x 20cm x 0.5cm , Durchmesser: 0cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stift Neukloster - Kunst- und Wunderkammer</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Parament"</dcterms:isPartOf>
+<dcterms:temporal>1780-1800</dcterms:temporal>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411724787">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411724787"/>
+<dc:description xml:lang="de">Konvolut: Schwarzer Ornat, 9546/204</dc:description>
+<dc:rights xml:lang="de">CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Stift Neukloster - Kunst- und Wunderkammer</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Parament"</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.noemuseen.at/objekt-detail/catalog/bursa-87770/">
+<edm:aggregatedCHO rdf:resource="SN9546/204/7"/>
+<edm:dataProvider>Stift Neukloster - Kunst- und Wunderkammer</edm:dataProvider>
+<edm:intermediateProvider>Museumsmanagement Niederösterreich – Stadt-, Stifts- und Regionalmuseen</edm:intermediateProvider>
+<edm:isShownAt rdf:resource="https://www.noemuseen.at/objekt-detail/catalog/bursa-87770/"/>
+<edm:isShownBy rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/1239/_thumbnails/_DSY9974_jpg_sr_1280x1280.jpg"/>
+<edm:object rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/1239/_thumbnails/_DSY9974_jpg_sr_1280x1280.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

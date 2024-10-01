@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="015932">
+<dc:coverage>1440-1445</dc:coverage>
+<dc:creator rdf:resource="#Strigel_Hans_der_&#xC4;ltere_(1430-1462_nachweisbar)_K&#xFC;nstler/in"/>
+<dc:date>1440-1445</dc:date>
+<dc:description xml:lang="de">Chorwandfresko/sakral</dc:description>
+<dc:identifier>015932</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Geburt Christi</dc:subject>
+<dc:title xml:lang="de">Geburt Christi</dc:title>
+<dc:title xml:lang="en">Birth of Christ</dc:title>
+<dcterms:created>1440-1445</dcterms:created>
+<dcterms:extent xml:lang="de">B 155</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Freskomalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">fresco painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Gestratz</dcterms:spatial>
+<edm:currentLocation xml:lang="de">St. Gallus - Gestratz - Bayern - Deutschland</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Säugling</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl.</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">kniend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">betend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Nuschenmantel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schleier</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Maria</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Jesus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Ochse</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Esel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Notenband</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stall</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Baum</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885410337">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885410337"/>
+<dc:description xml:lang="de">Chorwandfresko/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Strigel_Hans_der_&#xC4;ltere_(1430-1462_nachweisbar)_K&#xFC;nstler/in">
+<skos:prefLabel>Strigel Hans der Ältere (1430-1462 nachweisbar) (Künstler/in)</skos:prefLabel>
+<dc:date>1440-1445</dc:date>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<foaf:name xml:lang="de">Strigel Hans der Ältere (1430-1462 nachweisbar)</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=015932">
+<edm:aggregatedCHO rdf:resource="015932"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=015932"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7017187"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7017187"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

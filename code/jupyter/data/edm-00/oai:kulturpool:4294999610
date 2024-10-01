@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="1146">
+<dc:coverage>Italien</dc:coverage>
+<dc:creator rdf:resource="#Giuseppe_Bartolomeo_Chiari_K&#xFC;nstler_in"/>
+<dc:description xml:lang="de">Beschriftung: rechts unten in alter Tintenschrift "G. Chiari".</dc:description>
+<dc:identifier>1146</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:title xml:lang="de">Brustbild einer emporblickenden Frau. (Allegorie der Musik ?)</dc:title>
+<dc:type xml:lang="de">Zeichnung</dc:type>
+<dcterms:extent xml:lang="de">21,6 x 26,4 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kreide; weiß gehöht; graues Papier</dcterms:medium>
+<dcterms:spatial xml:lang="de">Italien</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4294999610">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4294999610"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Giuseppe_Bartolomeo_Chiari_K&#xFC;nstler_in">
+<skos:prefLabel>Giuseppe Bartolomeo Chiari (Künstler_in)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Giuseppe Bartolomeo Chiari</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Italien, 1654 - 1727</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[1146]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="1146"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[1146]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/1146.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/1146.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

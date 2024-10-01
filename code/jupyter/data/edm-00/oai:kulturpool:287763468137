@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FS_PE6409">
+<dc:creator rdf:resource="#Atelier_Dietrich_Wien_Fotograf/Urheber/in"/>
+<dc:date xml:lang="de">22.11.1929</dc:date>
+<dc:description xml:lang="de">Abbildung/Person: Josef Manowarda</dc:description>
+<dc:identifier>FS_PE6409</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Josef Manowarda</dc:title>
+<dc:title xml:lang="de">Verweis auf Stücktitel: Cosi fan tutte</dc:title>
+<dc:type xml:lang="de">Rollenporträt</dc:type>
+<dcterms:created xml:lang="de">22.11.1929</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#287763468137"/>
+<edm:isRelatedTo>Foto</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763468137">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763468137"/>
+<dc:description xml:lang="de">Abbildung/Person: Josef Manowarda</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Atelier_Dietrich_Wien_Fotograf/Urheber/in">
+<skos:prefLabel>Atelier Dietrich, Wien (Fotograf/Urheber/in)</skos:prefLabel>
+<dc:date>22.11.1929</dc:date>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Atelier Dietrich, Wien</foaf:name>
+<rdaGr2:professionOrOccupation>Fotograf/Urheber/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#287763468137">
+<skos:prefLabel>1929</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<edm:begin>1929</edm:begin>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/822128/">
+<edm:aggregatedCHO rdf:resource="FS_PE6409"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/822128/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/822128/FS_PE6409.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/822128/FS_PE6409.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

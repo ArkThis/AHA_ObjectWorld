@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="003416">
+<dc:coverage>1310-1311</dc:coverage>
+<dc:date>1310-1311</dc:date>
+<dc:description xml:lang="de">Illustrationszyklus Chronik/Miniatur</dc:description>
+<dc:identifier>003416</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Stammbaum der Kuenringer-Weitra</dc:subject>
+<dc:title xml:lang="de">Stammbaum der Kuenringer-Weitra</dc:title>
+<dc:title xml:lang="en">Genealogical table of the Kuenringer-Weitra</dc:title>
+<dcterms:created>1310-1311</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Federzeichnung</dcterms:medium>
+<dcterms:medium xml:lang="en">pen drawing</dcterms:medium>
+<dcterms:spatial xml:lang="de">Zwettl</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Stiftsarchiv - Zwettl - Niederösterreich - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Mauer</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Giebelkreuz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kranzgesims</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dachziegel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Turmknauf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Inschrift</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kegeldach</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rundfenster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fenster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rundbogenportal</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Anbau</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dachdeckung</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Giebelknauf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zubau</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zinne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bergfried</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rundturm</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Burg</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Palas</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zinnenkranz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zentralbau</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rundbogenfenster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Burg Weitra</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885198701">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885198701"/>
+<dc:description xml:lang="de">Illustrationszyklus Chronik/Miniatur</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=003416">
+<edm:aggregatedCHO rdf:resource="003416"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=003416"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7001706"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7001706"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

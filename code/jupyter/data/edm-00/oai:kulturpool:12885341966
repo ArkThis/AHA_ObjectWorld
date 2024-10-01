@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="006874">
+<dc:coverage>1426-1426</dc:coverage>
+<dc:date>1426-1426</dc:date>
+<dc:description xml:lang="de">Illustrationszyklus Dichtung/Miniatur</dc:description>
+<dc:identifier>006874</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Der Renner</dc:subject>
+<dc:title xml:lang="de">Der Renner</dc:title>
+<dc:title xml:lang="en">Der Renner</dc:title>
+<dcterms:created>1426-1426</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Federzeichnung koloriert</dcterms:medium>
+<dcterms:medium xml:lang="en">pen drawing coloured</dcterms:medium>
+<edm:currentLocation xml:lang="de">Österreichische Nationalbibliothek - Wien - Wien - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Weisegestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">ziehend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Borte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gürtel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krempe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hut</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Almutie</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beutelärmel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kutte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beinling</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gugel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Mönch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gewölbe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krabbe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Säule</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dachdeckung</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Giebelknauf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Seil</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kirche</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schlussstein</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Glockenturm</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Boden</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fiale</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rundbogenfenster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Glocke</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885341966">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885341966"/>
+<dc:description xml:lang="de">Illustrationszyklus Dichtung/Miniatur</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=006874">
+<edm:aggregatedCHO rdf:resource="006874"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=006874"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7008704"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7008704"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

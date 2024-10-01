@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 14956">
+<dc:contributor rdf:resource="#Seidel_Heinrich_Autor"/>
+<dc:contributor rdf:resource="#Union_Deutsche_Verlagsgesellschaft_Druckerei"/>
+<dc:contributor rdf:resource="#Schnorr_Peter_Entwurf_Einband"/>
+<dc:contributor rdf:resource="#Seidel_Heinrich_Autor"/>
+<dc:contributor rdf:resource="#J._G._Cotta'sche_Buchhandlung_Nachfolger_Verlag"/>
+<dc:identifier>KI 14956</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Leberecht Hühnchen</dc:title>
+<dc:title xml:lang="de">; Gesamtausgabe (Untertitel)</dc:title>
+<dc:title xml:lang="en"> (Untertitel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4137575-0"/>
+<dcterms:extent>Seitenzahl: 342 Seite(n)</dcterms:extent>
+<dcterms:extent>Höhe: 19.2 cm</dcterms:extent>
+<dcterms:extent>Breite: 13.5 cm</dcterms:extent>
+<dcterms:extent>Tiefe: 3 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kaliko</dcterms:medium>
+<dcterms:medium xml:lang="en">calico</dcterms:medium>
+<dcterms:medium xml:lang="de">Kaliko</dcterms:medium>
+<dcterms:medium xml:lang="en">calico</dcterms:medium>
+<dcterms:medium xml:lang="de">Ornament</dcterms:medium>
+<dcterms:medium xml:lang="en">ornament</dcterms:medium>
+<dcterms:medium xml:lang="de">Fadenbindung</dcterms:medium>
+<dcterms:medium xml:lang="en">sewing</dcterms:medium>
+<dcterms:medium xml:lang="de">Hohler Rücken</dcterms:medium>
+<dcterms:medium xml:lang="en">hollow back</dcterms:medium>
+<dcterms:medium xml:lang="de">geprägt</dcterms:medium>
+<dcterms:medium xml:lang="en">embossed</dcterms:medium>
+<dcterms:medium xml:lang="de">Holzstich</dcterms:medium>
+<dcterms:medium xml:lang="en">wood engraving</dcterms:medium>
+<dcterms:provenance xml:lang="de">Alter Bestand</dcterms:provenance>
+<dcterms:provenance xml:lang="en">old holding</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4058282-6"/>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4004176-1"/>
+<dcterms:temporal rdf:resource="temporal#120260145027"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260145027">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260145027"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Seidel_Heinrich_Autor">
+<skos:prefLabel xml:lang="de">Seidel, Heinrich (Autor) (Stuttgart, 1903)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1903</edm:end>
+<foaf:name xml:lang="de">Seidel, Heinrich</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Stuttgart, 1903</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Autor</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Union_Deutsche_Verlagsgesellschaft_Druckerei">
+<skos:prefLabel xml:lang="de">Union Deutsche Verlagsgesellschaft (Druckerei) (Baden-Württemberg, 1903)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1903</edm:end>
+<foaf:name xml:lang="de">Union Deutsche Verlagsgesellschaft</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Baden-Württemberg, 1903</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Druckerei</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Schnorr_Peter_Entwurf_Einband">
+<skos:prefLabel xml:lang="de">Schnorr, Peter (Entwurf Einband) (Stuttgart, 1903)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1903</edm:end>
+<foaf:name xml:lang="de">Schnorr, Peter</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Stuttgart, 1903</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf Einband</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Seidel_Heinrich_Autor">
+<skos:prefLabel xml:lang="de">Seidel, Heinrich (Autor) (Baden-Württemberg, 1903)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1903</edm:end>
+<foaf:name xml:lang="de">Seidel, Heinrich</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Baden-Württemberg, 1903</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Autor</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#J._G._Cotta'sche_Buchhandlung_Nachfolger_Verlag">
+<skos:prefLabel xml:lang="de">J. G. Cotta'sche Buchhandlung Nachfolger (Verlag) (Stuttgart, 1903)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1903</edm:end>
+<foaf:name xml:lang="de">J. G. Cotta'sche Buchhandlung Nachfolger</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Stuttgart, 1903</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Verlag</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260145027">
+<skos:prefLabel>1903-1903</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1903</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-282944">
+<edm:aggregatedCHO rdf:resource="KI 14956"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14956_10.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14956_4.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14956_7.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14956_8.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14956_9.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-282944"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14956_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-14956_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-StaAWei/Urkunden/1394_04_24">
+<dc:date>1394-04-24</dc:date>
+<dc:description xml:lang="de">Hanns von Maissau, oberster Schenk in Österreich und derzeit Herr zu Weitra, verleiht dem Sohn des Niklas Chunz zu Weitra 30 Metzen Getreide beiderlei, Korn und Hafer, zu Alt-Weitra auf vier gestifteten Lehen und auf einem öden Lehen, die zu Lehen sind von der Herrschaft Weitra. Siegler: Aussteller</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-StaAWei/Urkunden/1394_04_24</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: Urkunden 1394 04 24</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1394-04-24</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Weitra, Stadtarchiv</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=717260855404">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=717260855404"/>
+<dc:description xml:lang="de">Hanns von Maissau, oberster Schenk in Österreich und derzeit Herr zu Weitra, verleiht dem Sohn des Niklas Chunz zu Weitra 30 Metzen Getreide beiderlei, Korn und Hafer, zu Alt-Weitra auf vier gestifteten Lehen und auf einem öden Lehen, die zu Lehen sind von der Herrschaft Weitra. Siegler: Aussteller</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Weitra, Stadtarchiv</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-StaAWei/Urkunden/1394_04_24/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-StaAWei/Urkunden/1394_04_24"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-StaAWei/Urkunden/1394_04_24/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/pics%2F862%2FWeitraStA_13940424_B33-v.jpg/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/pics%2F862%2FWeitraStA_13940424_B33-v.jpg/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

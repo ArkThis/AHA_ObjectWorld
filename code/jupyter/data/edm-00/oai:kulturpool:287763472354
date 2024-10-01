@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="GS_GSG655">
+<dc:creator rdf:resource="http://d-nb.info/123772303"/>
+<dc:creator rdf:resource="http://d-nb.info/1035628848"/>
+<dc:creator rdf:resource="http://d-nb.info/119560038"/>
+<dc:creator rdf:resource="http://d-nb.info/119560038"/>
+<dc:date xml:lang="de">1834/35</dc:date>
+<dc:description xml:lang="de">Abbildung/Person: Carl Carl</dc:description>
+<dc:description xml:lang="de">Abbildung/Person: Louise Raimund</dc:description>
+<dc:identifier>GS_GSG655</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="en">print</dc:subject>
+<dc:subject xml:lang="de">Druck</dc:subject>
+<dc:title xml:lang="de">Staberl in Floribus</dc:title>
+<dc:title xml:lang="de">Titel der Serie: Theatralische Bilder-Gallerie</dc:title>
+<dc:title xml:lang="de">Name der  Zeitschrift: Wiener Theaterzeitung</dc:title>
+<dc:type xml:lang="de">Szenenbild</dc:type>
+<dcterms:created xml:lang="de">1834/35</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#287763472354"/>
+<edm:isRelatedTo>Druckgrafik</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763472354">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763472354"/>
+<dc:description xml:lang="de">Abbildung/Person: Carl Carl</dc:description>
+<dc:description xml:lang="de">Abbildung/Person: Louise Raimund</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/123772303">
+<skos:prefLabel>Johann Christian Schoeller (Künstler/in)</skos:prefLabel>
+<dc:date>1834/35</dc:date>
+<dc:identifier>http://d-nb.info/123772303</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Johann Christian Schoeller</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1782 - 1851</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="http://d-nb.info/1035628848">
+<skos:prefLabel>Johann Wenzel Zinke (Stecher)</skos:prefLabel>
+<dc:date>1834/35</dc:date>
+<dc:identifier>http://d-nb.info/1035628848</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Johann Wenzel Zinke</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1797 - 1858</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Stecher</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="http://d-nb.info/119560038">
+<skos:prefLabel>Adolf Bäuerle (Herausgeber/in)</skos:prefLabel>
+<dc:date>1834/35</dc:date>
+<dc:identifier>http://d-nb.info/119560038</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Adolf Bäuerle</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1786 - 1859</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Herausgeber/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="http://d-nb.info/119560038">
+<skos:prefLabel>Adolf Bäuerle (Dramatiker/in)</skos:prefLabel>
+<dc:date>1834/35</dc:date>
+<dc:identifier>http://d-nb.info/119560038</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Adolf Bäuerle</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1786 - 1859</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Dramatiker/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#287763472354">
+<skos:prefLabel>1834-1835</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<edm:begin>1834</edm:begin>
+<edm:end>1835</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/971835/">
+<edm:aggregatedCHO rdf:resource="GS_GSG655"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/971835/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/971835/GS_GSG655.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/971835/GS_GSG655.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

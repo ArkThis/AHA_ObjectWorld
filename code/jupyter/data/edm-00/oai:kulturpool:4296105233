@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FotoGLV2000/6548">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Friedrich_W&#xFC;rthle_K&#xFC;nstler_in"/>
+<dc:creator rdf:resource="#W&#xFC;rthle_&amp;_Spinnhirn_K&#xFC;nstler_in"/>
+<dc:date>1890</dc:date>
+<dc:description xml:lang="de">Beschriftung: Untersatzkarton: M.u. "ORTLER VOM KLEINBODEN. / Landschaftsaufnahme v. Würthle &amp; Spinnhirn, / Salzburg 1890. / Photographie und Verlag von Würthle &amp; Spinnhirn in Salzburg. / Vervielfältigung vorbehalten." (zum Teil Klebeetikett)</dc:description>
+<dc:identifier>FotoGLV2000/6548</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:title xml:lang="de">Ortler vom Kleinboden</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>1890</dcterms:created>
+<dcterms:extent xml:lang="de">19,4 x 26,4 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Albuminpapier, auf Untersatzkarton</dcterms:medium>
+<dcterms:provenance xml:lang="de">Dauerleihgabe der Höheren Graphischen Bundes-Lehr- und Versuchsanstalt</dcterms:provenance>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296105233">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296105233"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Friedrich_W&#xFC;rthle_K&#xFC;nstler_in">
+<skos:prefLabel>Friedrich Würthle (Künstler_in)</skos:prefLabel>
+<dc:date>1890</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Friedrich Würthle</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Konstanz 1820 - 1902 Salzburg</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#W&#xFC;rthle_&amp;_Spinnhirn_K&#xFC;nstler_in">
+<skos:prefLabel>Würthle &amp; Spinnhirn (Künstler_in)</skos:prefLabel>
+<dc:date>1890</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Würthle &amp; Spinnhirn</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Österreich, 1881-1892</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/6548]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="FotoGLV2000/6548"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/6548]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_6548.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_6548.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

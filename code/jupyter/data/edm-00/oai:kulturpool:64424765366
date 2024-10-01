@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:baa.onb.at:5232976">
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>oai:baa.onb.at:5232976</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+<dc:subject xml:lang="de">Europa</dc:subject>
+<dc:subject xml:lang="de">Fürst</dc:subject>
+<dc:subject xml:lang="de">Fürsten</dc:subject>
+<dc:subject xml:lang="de">Porträt</dc:subject>
+<dc:subject xml:lang="de">Sonstige Potentaten</dc:subject>
+<dc:subject xml:lang="en">Portrait</dc:subject>
+<dc:title xml:lang="de">Anhalt-Zerbst, Friedrich August Fürst</dc:title>
+<dc:type xml:lang="de">Druckgrafik</dc:type>
+<dcterms:isPartOf>Porträtsammlung</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=64424765366">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=64424765366"/>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+<dcterms:isPartOf>Porträtsammlung</dcterms:isPartOf>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=5232976">
+<edm:aggregatedCHO rdf:resource="oai:baa.onb.at:5232976"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=5232976"/>
+<edm:isShownBy rdf:resource="http://www.bildarchivaustria.at/Preview/5232976.jpg"/>
+<edm:object rdf:resource="http://www.bildarchivaustria.at/Preview/5232976.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

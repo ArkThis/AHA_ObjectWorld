@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="8678">
+<dc:creator rdf:resource="#Philipp_Heinrich_M&#xFC;ller_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">1702</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>8678</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dc:subject xml:lang="de">Skulptur</dc:subject>
+<dc:subject xml:lang="en">sculpture</dc:subject>
+<dc:title xml:lang="de">Prinz Eugen von Savoyen und die Schlacht bei Cremona</dc:title>
+<dc:type xml:lang="de">Medaille</dc:type>
+<dcterms:created xml:lang="de">1702</dcterms:created>
+<dcterms:extent xml:lang="de">(Vitrine): D: 4 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Barock</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Baroque</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Silber</dcterms:medium>
+<dcterms:provenance xml:lang="de">1991 Ankauf A. Hess, Zürich</dcterms:provenance>
+<dcterms:temporal>Spätbarock</dcterms:temporal>
+<edm:isRelatedTo xml:lang="de">Wind als ein menschliches Gesicht, mit aufgeblasenen Backen :+:</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Italien</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Lombardei (Region)</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Cremona</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schlacht bei Cremona</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Apotheose eines Herrschers</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schlacht :+:</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Spanischer Erbfolgekrieg</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Eugen Franz (Savoyen-Carignan, Prinz, der edle Ritter)</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Außenraum</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403361553">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403361553"/>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">Barock</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Baroque</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</edm:WebResource>
+<edm:WebResource rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/18056/full/full/0/default.jpg">
+<svcs:has_service rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/18056"/>
+<dcterms:isReferencedBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-1620/manifest/"/>
+</edm:WebResource>
+<svcs:Service rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/18056">
+<dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/>
+<doap:implements rdf:resource="http://iiif.io/api/image/2/level2.json"/>
+</svcs:Service>
+<edm:Agent rdf:about="#Philipp_Heinrich_M&#xFC;ller_K&#xFC;nstler/in">
+<skos:prefLabel>Philipp Heinrich Müller (Künstler/in)</skos:prefLabel>
+<dc:date>1702</dc:date>
+<dcterms:isPartOf xml:lang="de">Barock</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Baroque</dcterms:isPartOf>
+<foaf:name xml:lang="de">Philipp Heinrich Müller</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.belvedere.at/objects/1620/prinz-eugen-von-savoyen-und-die-schlacht-bei-cremona">
+<edm:aggregatedCHO rdf:resource="8678"/>
+<edm:dataProvider>Österreichische Galerie Belvedere</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.belvedere.at/objects/1620/prinz-eugen-von-savoyen-und-die-schlacht-bei-cremona"/>
+<edm:isShownBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/18056/full/full/0/default.jpg"/>
+<edm:object rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/18056/full/200%2C/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

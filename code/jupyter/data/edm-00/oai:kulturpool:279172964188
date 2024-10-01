@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="hdl:11471/504.10.304">
+<dc:contributor xml:lang="en">Institute of Ancient History and Classical Antiquities, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Institut für Alte Geschichte und Altertumskunde, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:contributor xml:lang="en">Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:date>5. Jh.v.Chr.</dc:date>
+<dc:description xml:lang="de">Kroisos forscht in diesem Teil der Historien nach dem mächtigsten Staat in Griechenland, um diesen als Bündner zu gewinnen. Sparta und Athen sind die in Frage kommenden Poleis, woraufhin Herodot Herkunft, Wanderungen und Stammeszugehörigkeit der Bewohner der beiden Stadtstaaten erläutert. Die Unterscheidung wie in zwischen Athenern und Dorern in Hdt. 1, 56, 2-3 macht Herodot hier nicht, sie ist eine Ergänzung des Übersetzers. Diese Stelle weist darauf hin, dass die Geschichte der dorischen Wanderung zur Zeit Herodots bereits entwickelt war (Vgl. W. W. How, J. Wells, A Commentary On Herodotus, Bd. 1, Buch I-IV, 76-79). Als Urheimat der Dorer gilt in der antiken Überlieferung oftmals die Doris (vgl. u. a. Thuk. 1,107,2; 3,92,3-4; Tyrtaios fr. 2 West; Hdt. 8,43 (vgl. 8,31); Skymn. 592ff.; Strab. 8,6,13; 9,3,1; 4,10; 10,4,6; Konon FGrH 26 F 1,27; Plin. nat. 4,28; Ptol. 3,14,14; Aristeid. 12, 40; schol. Aristoph. Plut. 385; schol. Lykophr. Alex. 980; Isokr. 12, 253-254.), während sie hier, wie etwa auch bei Diodor (4,37,3-4; 58,6) in Thessalien – bei Diodor in der Hestiaiotis, da dies der Wohnsitz des Aigimios, Sohn des Doros ist – lokalisiert wird.</dc:description>
+<dc:identifier>hdl:11471/504.10.304</dc:identifier>
+<dc:language>grc</dc:language>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dc:title xml:lang="de">Hdt. 1,56,2-3: Historien</dc:title>
+<dcterms:created>5. Jh.v.Chr.</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Zwischen Hellenenbewußtsein und Poliszugehörigkeit
+                                </dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Between Hellenicity and Polis Identity
+                                </dcterms:isPartOf>
+<dcterms:temporal>Ancient Greek</dcterms:temporal>
+<edm:type>IMAGE</edm:type>
+<owl:sameAs rdf:resource="http://gams.uni-graz.at/o:ethnos.393">http://gams.uni-graz.at/o:ethnos.393</owl:sameAs>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279172964188">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279172964188"/>
+<dc:description xml:lang="de">Kroisos forscht in diesem Teil der Historien nach dem mächtigsten Staat in Griechenland, um diesen als Bündner zu gewinnen. Sparta und Athen sind die in Frage kommenden Poleis, woraufhin Herodot Herkunft, Wanderungen und Stammeszugehörigkeit der Bewohner der beiden Stadtstaaten erläutert. Die Unterscheidung wie in zwischen Athenern und Dorern in Hdt. 1, 56, 2-3 macht Herodot hier nicht, sie ist eine Ergänzung des Übersetzers. Diese Stelle weist darauf hin, dass die Geschichte der dorischen Wanderung zur Zeit Herodots bereits entwickelt war (Vgl. W. W. How, J. Wells, A Commentary On Herodotus, Bd. 1, Buch I-IV, 76-79). Als Urheimat der Dorer gilt in der antiken Überlieferung oftmals die Doris (vgl. u. a. Thuk. 1,107,2; 3,92,3-4; Tyrtaios fr. 2 West; Hdt. 8,43 (vgl. 8,31); Skymn. 592ff.; Strab. 8,6,13; 9,3,1; 4,10; 10,4,6; Konon FGrH 26 F 1,27; Plin. nat. 4,28; Ptol. 3,14,14; Aristeid. 12, 40; schol. Aristoph. Plut. 385; schol. Lykophr. Alex. 980; Isokr. 12, 253-254.), während sie hier, wie etwa auch bei Diodor (4,37,3-4; 58,6) in Thessalien – bei Diodor in der Hestiaiotis, da dies der Wohnsitz des Aigimios, Sohn des Doros ist – lokalisiert wird.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Zwischen Hellenenbewußtsein und Poliszugehörigkeit
+                                </dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Between Hellenicity and Polis Identity
+                                </dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://gams.uni-graz.at/o:ethnos.393">
+<edm:aggregatedCHO rdf:resource="hdl:11471/504.10.304"/>
+<edm:dataProvider>Karl-Franzens-Universität Graz</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://gams.uni-graz.at/o:ethnos.393"/>
+<edm:isShownBy rdf:resource="http://gams.uni-graz.at/o:ethnos.393/sdef:TEI/getPDF"/>
+<edm:object rdf:resource="http://gams.uni-graz.at/o:ethnos.393/sdef:TEI/getPDF"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

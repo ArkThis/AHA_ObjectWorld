@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="&#xD6;MV/13.658/t001f151r">
+<dc:creator rdf:resource="#Hausotter_Alexander_Beitragende/r"/>
+<dc:creator rdf:resource="#Luther_Martin_Hersteller/in"/>
+<dc:creator rdf:resource="#Poach_Andreas_(?)_Hersteller/in"/>
+<dc:creator rdf:resource="#Richtzenhan_Donat_(?)_Hersteller/in"/>
+<dc:date xml:lang="de">Vermutlich 1571</dc:date>
+<dc:description xml:lang="de"> Hauspostille von Martin Luther &lt;br /&gt;&lt;br /&gt; 1. Teil, f. 151r, &amp;quot;vnsers HErrn Jhesu Christi/ wie er begraben.&amp;quot; &lt;br /&gt;&lt;br /&gt; Hauspostille vermutlich 1571 von Andreas Poach herausgegeben und von Donat Richtzenhan in Jena gedruckt &lt;br /&gt; Titelblatt fehlt &lt;br /&gt; 1. Teil: Winter Teil (f. 1 bis 164, f. 1 und 2 sowie f. 123 und 124 fehlen) &lt;br /&gt; 2. Teil: &amp;quot;Sommer Teil der Hauspostillen/ Doctoris Martini Lutheri&amp;quot; (f. 1 bis 222) &lt;br /&gt; 3. Teil: &amp;quot;Das dritte Theil der Hauspostillen Doctoris Martini Lutheri/ von den f&amp;uuml;rnemesten Festen durchs Jar/ nach der Wittenbergischen Kirchenordnung&amp;quot; (f. 1 bis ?, f. 31 ff. fehlen) &lt;br /&gt;&lt;br /&gt; Von Alexander Hausotter, einem Beamten der Kaiser Ferdinands-Nordbahn und Mitglied des Vereins f&amp;uuml;r &amp;ouml;sterreichische Volkskunde, im Kuhl&amp;auml;ndchen in M&amp;auml;hren erworben und Ende 1903 dem Volkskundemuseum geschenkt. &lt;br /&gt;&lt;br /&gt; Eintrag Inventarbuch: &lt;br /&gt; Predigtbuch, in Schweinsleder gebunden, unvollst&amp;auml;ndig erhalten, sehr defect. Geschenk. &lt;br /&gt;</dc:description>
+<dc:identifier>ÖMV/13.658/t001f151r</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Österreichisches Museum für Volkskunde</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dc:title xml:lang="de">Hauspostille, 1. Teil f. 151r</dc:title>
+<dc:type xml:lang="de">Hauspostille, evangelische</dc:type>
+<dcterms:created xml:lang="de">Vermutlich 1571</dcterms:created>
+<dcterms:extent xml:lang="de"> H: 30,7 cm &lt;br /&gt; B: 19 cm &lt;br /&gt;</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Gedrucktes: Hauspostille von Martin Luther</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier / Buchdruck</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=343598499755">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=343598499755"/>
+<dc:description xml:lang="de"> Hauspostille von Martin Luther &lt;br /&gt;&lt;br /&gt; 1. Teil, f. 151r, &amp;quot;vnsers HErrn Jhesu Christi/ wie er begraben.&amp;quot; &lt;br /&gt;&lt;br /&gt; Hauspostille vermutlich 1571 von Andreas Poach herausgegeben und von Donat Richtzenhan in Jena gedruckt &lt;br /&gt; Titelblatt fehlt &lt;br /&gt; 1. Teil: Winter Teil (f. 1 bis 164, f. 1 und 2 sowie f. 123 und 124 fehlen) &lt;br /&gt; 2. Teil: &amp;quot;Sommer Teil der Hauspostillen/ Doctoris Martini Lutheri&amp;quot; (f. 1 bis 222) &lt;br /&gt; 3. Teil: &amp;quot;Das dritte Theil der Hauspostillen Doctoris Martini Lutheri/ von den f&amp;uuml;rnemesten Festen durchs Jar/ nach der Wittenbergischen Kirchenordnung&amp;quot; (f. 1 bis ?, f. 31 ff. fehlen) &lt;br /&gt;&lt;br /&gt; Von Alexander Hausotter, einem Beamten der Kaiser Ferdinands-Nordbahn und Mitglied des Vereins f&amp;uuml;r &amp;ouml;sterreichische Volkskunde, im Kuhl&amp;auml;ndchen in M&amp;auml;hren erworben und Ende 1903 dem Volkskundemuseum geschenkt. &lt;br /&gt;&lt;br /&gt; Eintrag Inventarbuch: &lt;br /&gt; Predigtbuch, in Schweinsleder gebunden, unvollst&amp;auml;ndig erhalten, sehr defect. Geschenk. &lt;br /&gt;</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dcterms:isPartOf xml:lang="de">Gedrucktes: Hauspostille von Martin Luther</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Hausotter_Alexander_Beitragende/r">
+<skos:prefLabel>Hausotter, Alexander (Beitragende/r)</skos:prefLabel>
+<dc:date>Vermutlich 1571</dc:date>
+<dcterms:isPartOf xml:lang="de">Gedrucktes: Hauspostille von Martin Luther</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hausotter, Alexander</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Luther_Martin_Hersteller/in">
+<skos:prefLabel>Luther, Martin (Hersteller/in)</skos:prefLabel>
+<dc:date>Vermutlich 1571</dc:date>
+<dcterms:isPartOf xml:lang="de">Gedrucktes: Hauspostille von Martin Luther</dcterms:isPartOf>
+<foaf:name xml:lang="de">Luther, Martin</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Poach_Andreas_(?)_Hersteller/in">
+<skos:prefLabel>Poach, Andreas (?) (Hersteller/in)</skos:prefLabel>
+<dc:date>Vermutlich 1571</dc:date>
+<dcterms:isPartOf xml:lang="de">Gedrucktes: Hauspostille von Martin Luther</dcterms:isPartOf>
+<foaf:name xml:lang="de">Poach, Andreas (?)</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Richtzenhan_Donat_(?)_Hersteller/in">
+<skos:prefLabel>Richtzenhan, Donat (?) (Hersteller/in)</skos:prefLabel>
+<dc:date>Vermutlich 1571</dc:date>
+<dcterms:isPartOf xml:lang="de">Gedrucktes: Hauspostille von Martin Luther</dcterms:isPartOf>
+<foaf:name xml:lang="de">Richtzenhan, Donat (?)</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.volkskundemuseum.at/onlinesammlungen/oemv13658_t001f151r">
+<edm:aggregatedCHO rdf:resource="&#xD6;MV/13.658/t001f151r"/>
+<edm:dataProvider>Österreichisches Museum für Volkskunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.volkskundemuseum.at/onlinesammlungen/oemv13658_t001f151r"/>
+<edm:isShownBy rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/predigtbuch/predigt_0_000_000_295.jpg"/>
+<edm:object rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/predigtbuch/predigt_0_000_000_295.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

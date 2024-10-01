@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="11353/10.133629">
+<dc:contributor rdf:resource="#&#xD6;sterreichische_Zentralbibliothek_f&#xFC;r_Physik_Other"/>
+<dc:description xml:lang="de">Original Postkarte, Handschrift des Verfassers, loses Blatt, signiert, gelocht
+Umfang: 1 Bl.2 S.; 10 cm x 15 cm
+
+Feldpost</dc:description>
+<dc:identifier>11353/10.133629</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:rights xml:lang="de">All rights reserved</dc:rights>
+<dc:subject xml:lang="de">Nachlass Hans Thirring</dc:subject>
+<dc:subject xml:lang="de">ÖFOS 2002 -- NATURWISSENSCHAFTEN (1) -- Sonstige und interdisziplinäre Naturwissenschaften (19) -- Geschichte der Naturwissenschaften (1927)</dc:subject>
+<dc:subject xml:lang="de">European Projects -- Europeana Libraries (euprojects4)</dc:subject>
+<dc:subject xml:lang="en">ÖFOS 2002 -- NATURAL SCIENCES (1) -- Other and interdisciplinary Natural Sciences (19) -- History of natural sciences (1927)</dc:subject>
+<dc:title xml:lang="de">Brief von Weichinger, Rudolf an Thirring, Harald (Olmütz, 1942-11-29)</dc:title>
+<dcterms:extent>558.56 kB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Nachlass von Hans Thirring (1888-1976)</dcterms:isPartOf>
+<edm:type>TEXT</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=528282013382">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=528282013382"/>
+<dc:description xml:lang="de">Original Postkarte, Handschrift des Verfassers, loses Blatt, signiert, gelocht
+Umfang: 1 Bl.2 S.; 10 cm x 15 cm
+
+Feldpost</dc:description>
+<dc:rights xml:lang="de">All rights reserved</dc:rights>
+<dcterms:extent>558.56 kB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Nachlass von Hans Thirring (1888-1976)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#&#xD6;sterreichische_Zentralbibliothek_f&#xFC;r_Physik_Other">
+<skos:prefLabel>Österreichische Zentralbibliothek für Physik (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Nachlass von Hans Thirring (1888-1976)</dcterms:isPartOf>
+<foaf:name xml:lang="de">Österreichische Zentralbibliothek für Physik</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://phaidra.univie.ac.at/o:133629">
+<edm:aggregatedCHO rdf:resource="11353/10.133629"/>
+<edm:dataProvider>Universitätsbibliothek Wien - Phaidra</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://phaidra.univie.ac.at/o:133629"/>
+<edm:isShownBy rdf:resource="https://fedora.phaidra.univie.ac.at/fedora/objects/o:133629/methods/bdef:Content/download"/>
+<edm:object rdf:resource="https://phaidra.univie.ac.at/preview/o:133629"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

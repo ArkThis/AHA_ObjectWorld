@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="015902">
+<dc:coverage>1523-1523</dc:coverage>
+<dc:creator rdf:resource="#Schlanz_Adam_(bis_1554_nachweisbar)_K&#xFC;nstler/in"/>
+<dc:date>1523-1523</dc:date>
+<dc:description xml:lang="de">Flügelaltar-Predella/sakral</dc:description>
+<dc:identifier>015902</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Hl. Johannes Evangelist</dc:subject>
+<dc:title xml:lang="de">Hl. Johannes Evangelist</dc:title>
+<dc:title xml:lang="en">St. John the Evangelist</dc:title>
+<dcterms:created>1523-1523</dcterms:created>
+<dcterms:extent xml:lang="de">95x29,5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Malerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/painting</dcterms:medium>
+<edm:currentLocation xml:lang="de">St. Stephan - Genhofen - Bayern - Deutschland</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Evangelist</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl.</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schaube</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Heuke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kragen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Haube</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Lukas</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Matthäus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Markus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Johannes Evangelist</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stier</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Adler</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Buchbeschlag</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Buch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Engel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hintergrund</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Punzierung</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Evangelistensymbol</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Löwe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">evangelist</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885410308">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885410308"/>
+<dc:description xml:lang="de">Flügelaltar-Predella/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Schlanz_Adam_(bis_1554_nachweisbar)_K&#xFC;nstler/in">
+<skos:prefLabel>Schlanz Adam (bis 1554 nachweisbar) (Künstler/in)</skos:prefLabel>
+<dc:date>1523-1523</dc:date>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<foaf:name xml:lang="de">Schlanz Adam (bis 1554 nachweisbar)</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=015902">
+<edm:aggregatedCHO rdf:resource="015902"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=015902"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7017157"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7017157"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="VO_189114">
+<dc:description xml:lang="de">Die moderne Weste eines Mannes der Chang-Naga zeigt das Python-Motiv eines alten Körpertuches. So seltsam es auch klingen mag: Der Verlust der alten Kultur fördert gleichzeitig das traditionelle Handwerk. Während im Alltag Textilien aus moderner, meist indischer, Massenproduktion verwendet werden, sind es solche bei besonderen Anlässen getragene Kleidungsstücke, die einen wesentlichen Beitrag zur Suche nach Identität leisten. Wie immer in der Textilkunst sind es auch hier die Frauen, die den Ausgleich zwischen Tradition und Moderne herstellen, wenn sie für ihre Männer solche Mode entwerfen und produzieren. </dc:description>
+<dc:identifier>VO_189114</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Weste</dc:title>
+<dc:type xml:lang="de">Weste</dc:type>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Süd-, SO-Asien, Himalaya</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">BW(?) Viskose, Synthet.Garne</dcterms:medium>
+<dcterms:spatial xml:lang="de">Südasien/Subkontinent/Indien/Nagaland/Tuensang</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21476219051">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21476219051"/>
+<dc:description xml:lang="de">Die moderne Weste eines Mannes der Chang-Naga zeigt das Python-Motiv eines alten Körpertuches. So seltsam es auch klingen mag: Der Verlust der alten Kultur fördert gleichzeitig das traditionelle Handwerk. Während im Alltag Textilien aus moderner, meist indischer, Massenproduktion verwendet werden, sind es solche bei besonderen Anlässen getragene Kleidungsstücke, die einen wesentlichen Beitrag zur Suche nach Identität leisten. Wie immer in der Textilkunst sind es auch hier die Frauen, die den Ausgleich zwischen Tradition und Moderne herstellen, wenn sie für ihre Männer solche Mode entwerfen und produzieren. </dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Süd-, SO-Asien, Himalaya</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.weltmuseumwien.at/object/?detailID=917731/">
+<edm:aggregatedCHO rdf:resource="VO_189114"/>
+<edm:dataProvider>Weltmuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.weltmuseumwien.at/object/?detailID=917731/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/917731/VO_189114.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/917731/VO_189114.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

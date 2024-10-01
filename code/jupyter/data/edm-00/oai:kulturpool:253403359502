@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="8504">
+<dc:creator rdf:resource="#Angelika_Kauffmann_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">1773</dc:date>
+<dc:description xml:lang="de">Angelika Kauffmann hat während ihres langen Aufenthaltes in London von 1766 bis 1781
+            einen Porträtstil entwickelt, der in vielen Bereichen der Auffassung von Joshua Reynolds folgt, aber doch
+            sehr eigenständig ist. Bezeichnend für die Malerin ist ihre einfühlsame Menschenschilderung, deren Wirkung
+            mitunter gefällig, aber durchwegs von dem Vorhaben durchdrungen ist, dem Modell einen Hauch von Anmut zu
+            verleihen. Der Einfluss der englischen Porträtmalerei äußert sich in der Betonung des Individuellen und im
+            Fehlen von Standeszeichen. So präsentiert sich John Simpson (1738-vor 1789) in legerer Haltung, gerade so,
+            als wäre es ihm gar nicht bewusst, dass er gemalt wird. Diese als "Grand Tour-Pose" (Wassyng Roworth)
+            bezeichnete Körperhaltung, der sehnsuchtsvoll in die Ferne gerichtete Blick, sowie antike Versatzstücke wie
+            Urne und kanellierter Pfeiler, lassen keinen Zweifel aufkommen, dass John Simpson sich der Stadt Rom sehr
+            verbunden fühlte und dieses in einem Porträt demonstrieren wollte. Dazu gehört auch die Aufmachung des
+            Mannes, der kostbare Anzug, der sowohl im Stil als auch im Material und in der Farbigkeit an die Porträts
+            von Anthonis van Dyck erinnert und in dieser Form das Kostüm des Grand-Touristen war. Während hier die Summe
+            aller Details auf ein Erinnerungsstück an vergangene Tage in Italien verweisen, verblüfft die Kombination
+            von antiken Gegenständen und zeitgenössischem Mobiliar, denn angemessen für die Ruinenlandschaft wäre ein
+            steinernes Postament und keinesfalls ein mit Samt bezogener Stuhl als Sitzfläche für den Porträtierten. —
+            Das Porträt von John Simpson zählt zu den besten Arbeiten, die Angelika Kauffmann in London gemalt hat. Eine
+            Variante davon, wobei es sich um eine Darstellung in ganzer Figur mit abweichenden Details handelt, befindet
+            sich in der National Portrait Gallery in London. Die ursprüngliche Nennung des Dargestellten als "Lord" John
+            Simpson basiert auf einer unkorrekten Überlieferung aus dem 19. Jahrhundert. — Literatur: Wassyng Roworth,
+            Wendy: Angelica Kauffman. A Continental Artist in Georgian England, London 1992; Grabner, Sabine: Romantik,
+            Klassizismus, Biedermeier. In der Österreichischen Galerie Belvedere, 2. verb. Aufl. Wien 1997, S. 24-25. —
+            [Sabine Grabner, in: Aufgeklärt Bürgerlich. Porträts von Gainsborough bis Waldmüller 1750-1840, hrsg. v.
+            Sabine Grabner u. Michael Krapf, Ausst. Kat. Österreichische Galerie Belvedere, Wien 25.10.2006-18.2.2007,
+            München 2006, S. 138-139]
+        </dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>8504</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dc:title xml:lang="de">John Simpson, der Vater von Maria Susanna Lady Ravensworth</dc:title>
+<dc:type xml:lang="de">Gemälde</dc:type>
+<dcterms:created xml:lang="de">1773</dcterms:created>
+<dcterms:extent xml:lang="de">127 x 101,5 cm
+        </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Klassizismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Classicism</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Klassizismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Classicism</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">2023 1 West</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Öl auf Leinwand</dcterms:medium>
+<dcterms:provenance xml:lang="de">Lord Ravensworth. – bis 1983 Sir Cyril Simpson. – 1993 Ankauf Kunsthandel, London</dcterms:provenance>
+<dcterms:temporal>Klassizismus</dcterms:temporal>
+<edm:currentLocation xml:lang="de">Oberes Belvedere</edm:currentLocation>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403359502">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403359502"/>
+<dc:description xml:lang="de">Angelika Kauffmann hat während ihres langen Aufenthaltes in London von 1766 bis 1781
+            einen Porträtstil entwickelt, der in vielen Bereichen der Auffassung von Joshua Reynolds folgt, aber doch
+            sehr eigenständig ist. Bezeichnend für die Malerin ist ihre einfühlsame Menschenschilderung, deren Wirkung
+            mitunter gefällig, aber durchwegs von dem Vorhaben durchdrungen ist, dem Modell einen Hauch von Anmut zu
+            verleihen. Der Einfluss der englischen Porträtmalerei äußert sich in der Betonung des Individuellen und im
+            Fehlen von Standeszeichen. So präsentiert sich John Simpson (1738-vor 1789) in legerer Haltung, gerade so,
+            als wäre es ihm gar nicht bewusst, dass er gemalt wird. Diese als "Grand Tour-Pose" (Wassyng Roworth)
+            bezeichnete Körperhaltung, der sehnsuchtsvoll in die Ferne gerichtete Blick, sowie antike Versatzstücke wie
+            Urne und kanellierter Pfeiler, lassen keinen Zweifel aufkommen, dass John Simpson sich der Stadt Rom sehr
+            verbunden fühlte und dieses in einem Porträt demonstrieren wollte. Dazu gehört auch die Aufmachung des
+            Mannes, der kostbare Anzug, der sowohl im Stil als auch im Material und in der Farbigkeit an die Porträts
+            von Anthonis van Dyck erinnert und in dieser Form das Kostüm des Grand-Touristen war. Während hier die Summe
+            aller Details auf ein Erinnerungsstück an vergangene Tage in Italien verweisen, verblüfft die Kombination
+            von antiken Gegenständen und zeitgenössischem Mobiliar, denn angemessen für die Ruinenlandschaft wäre ein
+            steinernes Postament und keinesfalls ein mit Samt bezogener Stuhl als Sitzfläche für den Porträtierten. —
+            Das Porträt von John Simpson zählt zu den besten Arbeiten, die Angelika Kauffmann in London gemalt hat. Eine
+            Variante davon, wobei es sich um eine Darstellung in ganzer Figur mit abweichenden Details handelt, befindet
+            sich in der National Portrait Gallery in London. Die ursprüngliche Nennung des Dargestellten als "Lord" John
+            Simpson basiert auf einer unkorrekten Überlieferung aus dem 19. Jahrhundert. — Literatur: Wassyng Roworth,
+            Wendy: Angelica Kauffman. A Continental Artist in Georgian England, London 1992; Grabner, Sabine: Romantik,
+            Klassizismus, Biedermeier. In der Österreichischen Galerie Belvedere, 2. verb. Aufl. Wien 1997, S. 24-25. —
+            [Sabine Grabner, in: Aufgeklärt Bürgerlich. Porträts von Gainsborough bis Waldmüller 1750-1840, hrsg. v.
+            Sabine Grabner u. Michael Krapf, Ausst. Kat. Österreichische Galerie Belvedere, Wien 25.10.2006-18.2.2007,
+            München 2006, S. 138-139]
+        </dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">Klassizismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Classicism</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Klassizismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Classicism</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">2023 1 West</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</edm:WebResource>
+<edm:WebResource rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/4934/full/full/0/default.jpg">
+<svcs:has_service rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/4934"/>
+<dcterms:isReferencedBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-9529/manifest/"/>
+</edm:WebResource>
+<svcs:Service rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/4934">
+<dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/>
+<doap:implements rdf:resource="http://iiif.io/api/image/2/level2.json"/>
+</svcs:Service>
+<edm:Agent rdf:about="#Angelika_Kauffmann_K&#xFC;nstler/in">
+<skos:prefLabel>Angelika Kauffmann (Künstler/in)</skos:prefLabel>
+<dc:date>1773</dc:date>
+<dcterms:isPartOf xml:lang="de">Klassizismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Classicism</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Klassizismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Classicism</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">2023 1 West</dcterms:isPartOf>
+<foaf:name xml:lang="de">Angelika Kauffmann</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.belvedere.at/objects/9529/john-simpson-der-vater-von-maria-susanna-lady-ravensworth">
+<edm:aggregatedCHO rdf:resource="8504"/>
+<edm:dataProvider>Österreichische Galerie Belvedere</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.belvedere.at/objects/9529/john-simpson-der-vater-von-maria-susanna-lady-ravensworth"/>
+<edm:isShownBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/4934/full/full/0/default.jpg"/>
+<edm:object rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/4934/full/200%2C/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

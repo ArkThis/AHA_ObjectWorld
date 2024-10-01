@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:www.digital.wienbibliothek.at:4436712">
+<dc:date xml:lang="de">1778-05-21</dc:date>
+<dc:description xml:lang="de">Einblattdr., einseitig bedr.</dc:description>
+<dc:description xml:lang="de">In Fraktur</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>oai:www.digital.wienbibliothek.at:4436712</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject rdf:resource="https://d-nb.info/gnd/4159765-5"/>
+<dc:subject rdf:resource="https://d-nb.info/gnd/4044278-0"/>
+<dc:title xml:lang="de">Nachricht. Von der kaiserl. königl. niederösterreichischen Exjesuitengütern-Wirthschafts-Direktion wird andurch zu wissen gemacht, daß die anheurige Heu- und Grumethfechsung auf deren dem ehemaligen Jesuitenkollegio allhier angehörigen Wiesen im Pratter, entweder zusammen, oder auch Theilweise offentlich ausgefailet, und dem Meistbietenden verkaufet werden wird ... : Wien, den 21. May 1778</dc:title>
+<dc:type xml:lang="de">Flugblatt</dc:type>
+<dcterms:created xml:lang="de">1778-05-21</dcterms:created>
+<dcterms:extent xml:lang="de">[1] Bl., Satzspiegel: 16,3 x 11,2 cm </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Alltagsleben</dcterms:isPartOf>
+<dcterms:temporal>Geschichte 1778</dcterms:temporal>
+<edm:currentLocation xml:lang="de">[S.l. Wien]</edm:currentLocation>
+<edm:type>TEXT</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=571231509141">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=571231509141"/>
+<dc:description xml:lang="de">Einblattdr., einseitig bedr.</dc:description>
+<dc:description xml:lang="de">In Fraktur</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:extent xml:lang="de">[1] Bl., Satzspiegel: 16,3 x 11,2 cm </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Alltagsleben</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.digital.wienbibliothek.at/id/4436712">
+<edm:aggregatedCHO rdf:resource="oai:www.digital.wienbibliothek.at:4436712"/>
+<edm:dataProvider>Wienbibliothek im Rathaus</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.digital.wienbibliothek.at/id/4436712"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/rest/export/1.0/proxy/wienbib/?id=download/pdf/4436712"/>
+<edm:object rdf:resource="https://www.digital.wienbibliothek.at/download/webcache/304/4436713"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

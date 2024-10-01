@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KHM 447-1">
+<dc:contributor rdf:resource="#Boucheron_Giovan_Battista_Entwurf"/>
+<dc:contributor rdf:resource="#Boucheron_Giovan_Battista_Ausf&#xFC;hrung"/>
+<dc:contributor rdf:resource="#Pagliani_Bartolomeo_Ausf&#xFC;hrung"/>
+<dc:contributor rdf:resource="#Lavy_Carlo_Ausf&#xFC;hrung"/>
+<dc:contributor rdf:resource="#Tamiatti_Carlo_Ausf&#xFC;hrung"/>
+<dc:identifier>KHM 447-1</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Deckelterrine mit Untersatz</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300199769"/>
+<dcterms:extent>Höhe: 15 cm</dcterms:extent>
+<dcterms:extent>Breite: 25.5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Silber</dcterms:medium>
+<dcterms:medium xml:lang="en">silver</dcterms:medium>
+<dcterms:medium xml:lang="de">vergoldet</dcterms:medium>
+<dcterms:medium xml:lang="en">gilt</dcterms:medium>
+<dcterms:medium xml:lang="de">getrieben</dcterms:medium>
+<dcterms:medium xml:lang="en">chased</dcterms:medium>
+<dcterms:medium xml:lang="de">gegossen</dcterms:medium>
+<dcterms:medium xml:lang="en">cast</dcterms:medium>
+<dcterms:provenance xml:lang="de">Übernahme (1940)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">assumption (1940)</dcterms:provenance>
+<dcterms:provenance xml:lang="ja">引継 (1940)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4061245-4"/>
+<dcterms:temporal rdf:resource="temporal#115965108097"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965108097">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965108097"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Boucheron_Giovan_Battista_Entwurf">
+<skos:prefLabel xml:lang="de">Boucheron, Giovan Battista (Entwurf) (Turin &lt;Herzogtum Savoyen&gt;, 1763-1766)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Boucheron, Giovan Battista</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:begin>1763</edm:begin>
+<edm:end>1766</edm:end>
+<foaf:name xml:lang="de">Boucheron, Giovan Battista</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Turin &lt;Herzogtum Savoyen&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Turin &lt;Savoy&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Boucheron_Giovan_Battista_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Boucheron, Giovan Battista (Ausführung) (Turin &lt;Herzogtum Savoyen&gt;, 1763-1766)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Boucheron, Giovan Battista</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:begin>1763</edm:begin>
+<edm:end>1766</edm:end>
+<foaf:name xml:lang="de">Boucheron, Giovan Battista</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Turin &lt;Herzogtum Savoyen&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Turin &lt;Savoy&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Pagliani_Bartolomeo_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Pagliani, Bartolomeo (Ausführung) (Turin &lt;Herzogtum Savoyen&gt;, 1763-1766)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pagliani, Bartolomeo</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:begin>1763</edm:begin>
+<edm:end>1766</edm:end>
+<foaf:name xml:lang="de">Pagliani, Bartolomeo</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Turin &lt;Herzogtum Savoyen&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Turin &lt;Savoy&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Lavy_Carlo_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Lavy, Carlo (Ausführung) (Turin &lt;Herzogtum Savoyen&gt;, 1763-1766)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lavy, Carlo</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:begin>1763</edm:begin>
+<edm:end>1766</edm:end>
+<foaf:name xml:lang="de">Lavy, Carlo</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Turin &lt;Herzogtum Savoyen&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Turin &lt;Savoy&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Tamiatti_Carlo_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Tamiatti, Carlo (Ausführung) (Turin &lt;Herzogtum Savoyen&gt;, 1763-1766)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Tamiatti, Carlo</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:begin>1763</edm:begin>
+<edm:end>1766</edm:end>
+<foaf:name xml:lang="de">Tamiatti, Carlo</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Turin &lt;Herzogtum Savoyen&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Turin &lt;Savoy&gt;, 1763-1766</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#115965108097">
+<skos:prefLabel>1763-1766</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Metall und Wiener-Werkstätte-Archiv (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Metal Collection and Wiener Werkstätte Archive (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Metall (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">metal collection (Collection)</dcterms:isPartOf>
+<edm:begin>1763</edm:begin>
+<edm:end>1766</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-22014">
+<edm:aggregatedCHO rdf:resource="KHM 447-1"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/khm-447-1_2.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/khm-447-1_3.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/khm-447-1_4.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-22014"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/khm-447-1_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/khm-447-1_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

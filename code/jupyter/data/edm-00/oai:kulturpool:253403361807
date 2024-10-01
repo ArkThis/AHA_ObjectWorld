@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="381">
+<dc:creator rdf:resource="#Emil_Jakob_Schindler_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">1886</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>381</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dc:title xml:lang="de">Sägemühle im Morgennebel</dc:title>
+<dc:type xml:lang="de">Gemälde</dc:type>
+<dcterms:created xml:lang="de">1886</dcterms:created>
+<dcterms:extent xml:lang="de">84 x 100 cm
+        </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Historismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Historicism</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Öl auf Leinwand</dcterms:medium>
+<dcterms:provenance xml:lang="de">1892 Jan Wendelstadt, Neubeuern bei Rosenheim. – 1900 Ankauf Kunsthandel Schulte, Berlin
+        </dcterms:provenance>
+<dcterms:temporal>Realismus</dcterms:temporal>
+<edm:isRelatedTo xml:lang="de">Vollmond</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">andere Konzepte, die den Morgen darstellen oder symbolisieren</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wassermühle</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Vögel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Nebel</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403361807">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403361807"/>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">Historismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Historicism</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</edm:WebResource>
+<edm:WebResource rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/4576/full/full/0/default.jpg">
+<svcs:has_service rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/4576"/>
+<dcterms:isReferencedBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-6094/manifest/"/>
+</edm:WebResource>
+<svcs:Service rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/4576">
+<dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/>
+<doap:implements rdf:resource="http://iiif.io/api/image/2/level2.json"/>
+</svcs:Service>
+<edm:Agent rdf:about="#Emil_Jakob_Schindler_K&#xFC;nstler/in">
+<skos:prefLabel>Emil Jakob Schindler (Künstler/in)</skos:prefLabel>
+<dc:date>1886</dc:date>
+<dcterms:isPartOf xml:lang="de">Historismus</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Historicism</dcterms:isPartOf>
+<foaf:name xml:lang="de">Emil Jakob Schindler</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.belvedere.at/objects/6094/sagemuhle-im-morgennebel">
+<edm:aggregatedCHO rdf:resource="381"/>
+<edm:dataProvider>Österreichische Galerie Belvedere</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.belvedere.at/objects/6094/sagemuhle-im-morgennebel"/>
+<edm:isShownBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/4576/full/full/0/default.jpg"/>
+<edm:object rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/4576/full/200%2C/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

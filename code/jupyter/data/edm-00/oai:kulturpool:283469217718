@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="GS_GNThM5410_9">
+<dc:creator rdf:resource="http://d-nb.info/11880166X"/>
+<dc:creator rdf:resource="http://d-nb.info/124871437"/>
+<dc:creator rdf:resource="#Georg_M&#xFC;ller_M&#xFC;nchen_Verleger/in"/>
+<dc:creator rdf:resource="#Hermann_Horn_Autor/in"/>
+<dc:creator rdf:resource="#Rolf_Bongs_Herausgeber/in"/>
+<dc:date xml:lang="de">o. Dat. [1914], [erschienen 1918]</dc:date>
+<dc:identifier>GS_GNThM5410_9</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="en">print</dc:subject>
+<dc:subject xml:lang="de">Druck</dc:subject>
+<dc:title xml:lang="de">Seltsame Begebenheiten</dc:title>
+<dc:title xml:lang="de">Alternativtitel: Der Seeaffe</dc:title>
+<dc:type xml:lang="de">Nichttheatralische Darstellung</dc:type>
+<dcterms:created xml:lang="de">o. Dat. [1914], [erschienen 1918]</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#283469217718"/>
+<edm:isRelatedTo>Druckgrafik</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=283469217718">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=283469217718"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/11880166X">
+<skos:prefLabel>Richard Teschner (Künstler/in)</skos:prefLabel>
+<dc:date>o. Dat. [1914], [erschienen 1918]</dc:date>
+<dc:identifier>http://d-nb.info/11880166X</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Richard Teschner</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1879 Karlsbad - 1948 Wien</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="http://d-nb.info/124871437">
+<skos:prefLabel>Mänicke und Jahn, Rudolfstadt (Drucker/in)</skos:prefLabel>
+<dc:date>o. Dat. [1914], [erschienen 1918]</dc:date>
+<dc:identifier>http://d-nb.info/124871437</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Mänicke und Jahn, Rudolfstadt</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1875 - 1928</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Drucker/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Georg_M&#xFC;ller_M&#xFC;nchen_Verleger/in">
+<skos:prefLabel>Georg Müller, München (Verleger/in)</skos:prefLabel>
+<dc:date>o. Dat. [1914], [erschienen 1918]</dc:date>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Georg Müller, München</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1875 - 1943</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Verleger/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Hermann_Horn_Autor/in">
+<skos:prefLabel>Hermann Horn (Autor/in)</skos:prefLabel>
+<dc:date>o. Dat. [1914], [erschienen 1918]</dc:date>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hermann Horn</foaf:name>
+<rdaGr2:professionOrOccupation>Autor/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Rolf_Bongs_Herausgeber/in">
+<skos:prefLabel>Rolf Bongs (Herausgeber/in)</skos:prefLabel>
+<dc:date>o. Dat. [1914], [erschienen 1918]</dc:date>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Rolf Bongs</foaf:name>
+<rdaGr2:professionOrOccupation>Herausgeber/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#283469217718">
+<skos:prefLabel>1914-1918</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<edm:begin>1914</edm:begin>
+<edm:end>1918</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/636750/">
+<edm:aggregatedCHO rdf:resource="GS_GNThM5410_9"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/636750/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/636750/GS_GNThM5410_9.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/636750/GS_GNThM5410_9.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

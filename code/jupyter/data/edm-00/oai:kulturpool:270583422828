@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="HJRK_D_43">
+<dc:creator rdf:resource="http://d-nb.info/119117304"/>
+<dc:identifier>HJRK_D_43</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Kunsthistorisches Museum Wien, Hofjagd- und Rüstkammer</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Falkenhaube</dc:title>
+<dc:type xml:lang="de">Falkenhaube</dc:type>
+<dc:type xml:lang="de">Falkenzeug</dc:type>
+<dcterms:isPartOf xml:lang="de">Hofjagd- und Rüstkammer</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Blauer Seidensamt, blauer Seidenbusch, gepreßtes Leder</dcterms:medium>
+<dcterms:spatial xml:lang="de">nicht vergeben</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#270583422828"/>
+<edm:isRelatedTo xml:lang="de">Falkenzeug</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270583422828">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270583422828"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Hofjagd- und Rüstkammer</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/119117304">
+<skos:prefLabel>Erzherzog Ferdinand II. Sohn des Ferdinand I. von Habsburg Österreich, Landesherr von Tirol (Besitzer)</skos:prefLabel>
+<dc:identifier>http://d-nb.info/119117304</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Hofjagd- und Rüstkammer</dcterms:isPartOf>
+<foaf:name xml:lang="de">Erzherzog Ferdinand II. Sohn des Ferdinand I. von Habsburg Österreich, Landesherr von Tirol</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1529 - 1595</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Besitzer</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#270583422828">
+<dcterms:isPartOf xml:lang="de">Hofjagd- und Rüstkammer</dcterms:isPartOf>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.khm.at/de/objektdb/detail/374177/">
+<edm:aggregatedCHO rdf:resource="HJRK_D_43"/>
+<edm:dataProvider>Kunsthistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.khm.at/de/objektdb/detail/374177/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/374177/HJRK_D_43_05.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/374177/HJRK_D_43_05.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="MK_1030b&#x3B1;">
+<dc:creator rdf:resource="#Maria_Theresia_(1740&#x2013;1780)_Pr&#xE4;geherr"/>
+<dc:date>1742</dc:date>
+<dc:description xml:lang="de">Beschriftung: Vorderseite : MA : THERESIA . - D : G : REG : HUN : BO .
+Brustbild Maria Theresias nach rechts mit Diadem, Mantel und Mantelbrosche</dc:description>
+<dc:description xml:lang="de">Beschriftung: Rückseite : S : MARIA MATER DEI - PATRONA HUNG : 1742
+Auf Mondsichel stehende Patrona Hungariae im Strahlenkranz, in der Feldmitte zu beiden Seiten die Münzstättensignatur K - B, unten das gekrönte ungarische Wappen</dc:description>
+<dc:identifier>MK_1030bα</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Kunsthistorisches Museum Wien, Münzkabinett</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Haus Österreich: Maria Theresia</dc:title>
+<dc:type xml:lang="de">Münze</dc:type>
+<dc:type xml:lang="de">Halbtaler</dc:type>
+<dcterms:created>1742</dcterms:created>
+<dcterms:extent xml:lang="de">Münze: Gewicht: 14,39 g, Stempelstellung: 12 Uhr, Durchmesser: 35,9 mm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Silber</dcterms:medium>
+<dcterms:spatial xml:lang="de">Kremnitz</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#270584346606"/>
+<edm:isRelatedTo xml:lang="de">Halbtaler</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270584346606">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270584346606"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Maria_Theresia_(1740&#x2013;1780)_Pr&#xE4;geherr">
+<skos:prefLabel>Maria Theresia (1740–1780) (Prägeherr)</skos:prefLabel>
+<dc:date>1742</dc:date>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<foaf:name xml:lang="de">Maria Theresia (1740–1780)</foaf:name>
+<rdaGr2:professionOrOccupation>Prägeherr</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#270584346606">
+<skos:prefLabel>1742</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<edm:begin>1742</edm:begin>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.khm.at/de/objektdb/detail/1409556/">
+<edm:aggregatedCHO rdf:resource="MK_1030b&#x3B1;"/>
+<edm:dataProvider>Kunsthistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.khm.at/de/objektdb/detail/1409556/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/1409556/MK_001030ba_1.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/1409556/MK_001030ba_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

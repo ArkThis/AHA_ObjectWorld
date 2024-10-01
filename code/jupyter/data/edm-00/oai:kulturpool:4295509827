@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="DG92114">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Quirin_Mark_Stecher_in"/>
+<dc:creator rdf:resource="#Luca_Giordano_Sch&#xF6;pfer_in_der_Vorlage"/>
+<dc:date>1774</dc:date>
+<dc:description xml:lang="de">Beschriftung: l.u. "L.Jordans pinx :"; M.u. "Gravé après le Tableau original de Luc Jordans tiré du Cabinet / de Mr=le Prince de Galitzin Conseiller privé actuel de S.M.J.detoutes les Russies / Son Ministre Plenipotentiaire près de la Cour Imp le et Royale et Chevalier deses Ordres." (vom Wappen unterbrochen); r.u. "Quirin Marck Sc. Viennae 1774"</dc:description>
+<dc:identifier>DG92114</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Gravur</dc:subject>
+<dc:subject xml:lang="en">engraving</dc:subject>
+<dc:title xml:lang="de">Maria mit Christuskind und Johannesknaben</dc:title>
+<dc:type xml:lang="de">Druckgraphik</dc:type>
+<dcterms:created>1774</dcterms:created>
+<dcterms:extent xml:lang="de">Blatt: 26,7 × 25 cm Darstellung: 21,6 × 24 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kupferstich</dcterms:medium>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295509827">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295509827"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Quirin_Mark_Stecher_in">
+<skos:prefLabel>Quirin Mark (Stecher_in)</skos:prefLabel>
+<dc:date>1774</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Quirin Mark</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Österreich, 1753 - 1811</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Stecher_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Luca_Giordano_Sch&#xF6;pfer_in_der_Vorlage">
+<skos:prefLabel>Luca Giordano (Schöpfer_in der Vorlage)</skos:prefLabel>
+<dc:date>1774</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Luca Giordano</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Neapel 1632/34 - 1705 Neapel</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Schöpfer_in der Vorlage</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG92114]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="DG92114"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG92114]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG92114.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG92114.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

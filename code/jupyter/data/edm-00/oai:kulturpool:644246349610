@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1318_XII_05.4">
+<dc:date>1318-12-05</dc:date>
+<dc:description xml:lang="de">Kg. Friedrich und Albrecht, Heinrich und Otto, Gebrüder, Herzoge v. Österreich etc. setzen dem Eb Friedrich und seiner Kirche zu Bürgen Graf Hermann von Heunburg (Heunnburch), Graf Ulrich v. Pfannberg (Pfannemberch), Otto v. Liechtenstein (Liechtenstain), Ulrich v. Wallsee (Walsse), Hartnid v. Wildon , Pilgrim v. Puchheim, Eglolf v. Schellenberg, Eckerlein zu der Gal (datz der Gevl), Dietmar v. Reifenstein (Reyffenstain) und Nikla den Kolb (Cholben) um 3000 M. Silber Grazer gewog. Wiener Gew., daß die Aussteller bis April 24 ihm ledig antworten sollen Neumarkt (den N.) bei Friesach, Burg und Markt, Arnfels, die Burg, Markt, Gericht, Urbar und Zugehör oder sie zahlen das Geld. Tun sie es nicht, sollen die ersten sieben Bürgen jeder einen Ritter mit 2 Pferden einlegen und die übrigen selbst in Friesach oder Pettau, jeder mit 2 Pferden einfahren, bis der Vertrag erfüllt ist, und auch der Eb ist der Hilfe und des Durchlassens ledig bis auf die nächsten Weihnachten. Würden ihm auch dann vor den Weihnachten die Pfänder nicht eingeantwortet oder das Silber gegeben werden, so ist er zu keiner Hilfe oder Durchfahrt gebunden, bis es geleistet ist, während aber doch die Herzoge zur Hilfe und die Bürgen zum Leisten verpflichtet sind. Stirbt einer der Bürgen, sollen sie einen Ersatz stellen in Monatsfrist, ebenso auch im Falle des Todes einen Ritter. Die Bürgen siegeln zum Zeichen ihres Einverständnisses mit. ze Iudenburch an s. Nycolausabent 1318, Kg. Fr.s Reich im 5. Or., von den 12 S fehlt das 2., in Wien. Reg. Lichnowsky 3, CCCLXXII; Muchar 6, 209; Tangl in AföG 18, 227; 25, 284 n. 59, 283 zu Nov. 5; Krones in Beiträge z. Kde. steir. Gq. 30, 42; Groß, HR n. 752.</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1318_XII_05.4</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: SbgE AUR 1318 XII 05.4</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1318-12-05</dcterms:created>
+<dcterms:isPartOf xml:lang="de">
+                    Ö Staatsarchiv (HHStA)
+                </dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=644246349610">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=644246349610"/>
+<dc:description xml:lang="de">Kg. Friedrich und Albrecht, Heinrich und Otto, Gebrüder, Herzoge v. Österreich etc. setzen dem Eb Friedrich und seiner Kirche zu Bürgen Graf Hermann von Heunburg (Heunnburch), Graf Ulrich v. Pfannberg (Pfannemberch), Otto v. Liechtenstein (Liechtenstain), Ulrich v. Wallsee (Walsse), Hartnid v. Wildon , Pilgrim v. Puchheim, Eglolf v. Schellenberg, Eckerlein zu der Gal (datz der Gevl), Dietmar v. Reifenstein (Reyffenstain) und Nikla den Kolb (Cholben) um 3000 M. Silber Grazer gewog. Wiener Gew., daß die Aussteller bis April 24 ihm ledig antworten sollen Neumarkt (den N.) bei Friesach, Burg und Markt, Arnfels, die Burg, Markt, Gericht, Urbar und Zugehör oder sie zahlen das Geld. Tun sie es nicht, sollen die ersten sieben Bürgen jeder einen Ritter mit 2 Pferden einlegen und die übrigen selbst in Friesach oder Pettau, jeder mit 2 Pferden einfahren, bis der Vertrag erfüllt ist, und auch der Eb ist der Hilfe und des Durchlassens ledig bis auf die nächsten Weihnachten. Würden ihm auch dann vor den Weihnachten die Pfänder nicht eingeantwortet oder das Silber gegeben werden, so ist er zu keiner Hilfe oder Durchfahrt gebunden, bis es geleistet ist, während aber doch die Herzoge zur Hilfe und die Bürgen zum Leisten verpflichtet sind. Stirbt einer der Bürgen, sollen sie einen Ersatz stellen in Monatsfrist, ebenso auch im Falle des Todes einen Ritter. Die Bürgen siegeln zum Zeichen ihres Einverständnisses mit. ze Iudenburch an s. Nycolausabent 1318, Kg. Fr.s Reich im 5. Or., von den 12 S fehlt das 2., in Wien. Reg. Lichnowsky 3, CCCLXXII; Muchar 6, 209; Tangl in AföG 18, 227; 25, 284 n. 59, 283 zu Nov. 5; Krones in Beiträge z. Kde. steir. Gq. 30, 42; Groß, HR n. 752.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">
+                    Ö Staatsarchiv (HHStA)
+                </dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-HHStA/SbgE/AUR_1318_XII_05.4/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1318_XII_05.4"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-HHStA/SbgE/AUR_1318_XII_05.4/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/pics%2FAT-OeStA-HHStA%2FAUR-Salzburg-Erzstift%2FHHSTA_Salzburg_1318_12_05-6.jpg/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/pics%2FAT-OeStA-HHStA%2FAUR-Salzburg-Erzstift%2FHHSTA_Salzburg_1318_12_05-6.jpg/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

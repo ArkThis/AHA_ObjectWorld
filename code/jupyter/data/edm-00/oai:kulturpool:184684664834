@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 6396-2-83-4">
+<dc:contributor rdf:resource="#Groner_Anton_Entwurf"/>
+<dc:identifier>KI 6396-2-83-4</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Monogramm Entwurf: DF (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="de">Zeichnungen und Entwürfe von Anton Groner (Monogramme I) (Bandtitel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300179434"/>
+<dc:type rdf:resource="https://iconclass.org/49L16"/>
+<dcterms:extent>Höhe: 42.7 cm</dcterms:extent>
+<dcterms:extent>Breite: 30.5 cm</dcterms:extent>
+<dcterms:extent>Durchmesser: 6.9 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Bleistift</dcterms:medium>
+<dcterms:medium xml:lang="en">graphite pencil</dcterms:medium>
+<dcterms:medium xml:lang="de">Zeichnung</dcterms:medium>
+<dcterms:medium xml:lang="en">Zeichnung</dcterms:medium>
+<dcterms:provenance xml:lang="de">Schenkung / Donation (1890)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">donation (1890)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#184684664834"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=184684664834">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=184684664834"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Groner_Anton_Entwurf">
+<skos:prefLabel xml:lang="de">Groner, Anton (Entwurf) (Wien, vor 1890)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Groner, Anton</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1880</edm:begin>
+<edm:end>1890</edm:end>
+<foaf:name xml:lang="de">Groner, Anton</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, vor 1890</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, before 1890</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#184684664834">
+<skos:prefLabel>1880-1890</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Gebrauchsgrafik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ephemera (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1880</edm:begin>
+<edm:end>1890</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-295048">
+<edm:aggregatedCHO rdf:resource="KI 6396-2-83-4"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-295048"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-6396-2-83-4_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-6396-2-83-4_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

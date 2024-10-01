@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="11353/10.318717">
+<dc:creator xml:lang="de">Wien, Astronomie</dc:creator>
+<dc:description xml:lang="de">Notitia Regni Ungariae ano 886, ante adarntum Ungaros. Kapitelverzeichnis Pars Ia. - Pars Va. Beschreibung der Wanderung der Ungarn durch Transylvanien und Bulgarien. Wahrscheinlich eine Abschrift oder Zusammenfassung aus der Bele Regis Notarius von Anonymus. (1 Seite).
+Anonymus, ungarischer Chronist des ausgehenden 12. bzw. beginnenden 13. Jahrhunderts. Vermutlich wirkte er am Hofe des Königs Bela III, doch die genauen Lebensdaten des Chronisten sind nicht bekannt. Anonymus selbst nannte sich „P. dictus magister“ (der Meister, der sich P. nennt). Er verfasste die Chronik „Bele Regis Notarius“ aus denen Maximilian Hell zahlreiche Kapitel abschrieb. Die Namen und Personen in dieser Chronik werden aber größtenteils als nicht authentisch angesehen.
+Quelle: Anonymi Belae regis notarii [magister P ] Historia Hungarica de septem primis ducibus Hungariae, 1772.
+Teilnachlass: Maximilian Hell
+Umfang: 1 S.
+Datum: 1786
+Archiv-Signatur: Astr.-NL-2.69</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>11353/10.318717</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:rights xml:lang="de">http://creativecommons.org/licenses/by/3.0/at/</dc:rights>
+<dc:subject xml:lang="de">ÖFOS 2002 -- NATURWISSENSCHAFTEN (1) -- Physik, Mechanik, Astronomie (12) -- Astronomie (1204)</dc:subject>
+<dc:subject xml:lang="en">ÖFOS 2002 -- NATURAL SCIENCES (1) -- Physics, Mechanics, Astronomy (12) -- Astronomy (1204)</dc:subject>
+<dc:title xml:lang="de">Geschichte des Königreichs Ungarn</dc:title>
+<dcterms:extent>6.40 MB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Nachlass Maximilian Hell: Aufzeichnungen des berühmten Wiener Astronomen</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=485332592434">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=485332592434"/>
+<dc:description xml:lang="de">Notitia Regni Ungariae ano 886, ante adarntum Ungaros. Kapitelverzeichnis Pars Ia. - Pars Va. Beschreibung der Wanderung der Ungarn durch Transylvanien und Bulgarien. Wahrscheinlich eine Abschrift oder Zusammenfassung aus der Bele Regis Notarius von Anonymus. (1 Seite).
+Anonymus, ungarischer Chronist des ausgehenden 12. bzw. beginnenden 13. Jahrhunderts. Vermutlich wirkte er am Hofe des Königs Bela III, doch die genauen Lebensdaten des Chronisten sind nicht bekannt. Anonymus selbst nannte sich „P. dictus magister“ (der Meister, der sich P. nennt). Er verfasste die Chronik „Bele Regis Notarius“ aus denen Maximilian Hell zahlreiche Kapitel abschrieb. Die Namen und Personen in dieser Chronik werden aber größtenteils als nicht authentisch angesehen.
+Quelle: Anonymi Belae regis notarii [magister P ] Historia Hungarica de septem primis ducibus Hungariae, 1772.
+Teilnachlass: Maximilian Hell
+Umfang: 1 S.
+Datum: 1786
+Archiv-Signatur: Astr.-NL-2.69</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">http://creativecommons.org/licenses/by/3.0/at/</dc:rights>
+<dcterms:extent>6.40 MB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Nachlass Maximilian Hell: Aufzeichnungen des berühmten Wiener Astronomen</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/3.0/at/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://phaidra.univie.ac.at/o:318717">
+<edm:aggregatedCHO rdf:resource="11353/10.318717"/>
+<edm:dataProvider>Universitätsbibliothek Wien - Phaidra</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://phaidra.univie.ac.at/o:318717"/>
+<edm:isShownBy rdf:resource="https://fedora.phaidra.univie.ac.at/fedora/objects/o:318717/methods/bdef:Content/download"/>
+<edm:object rdf:resource="https://phaidra.univie.ac.at/preview/o:318717"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/3.0/at/"/>
+</ore:Aggregation>
+</rdf:RDF>

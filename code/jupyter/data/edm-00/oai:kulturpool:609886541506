@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KS-20450">
+<dc:contributor rdf:resource="#Werner_Filek-Wittinghausen_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">1987</dc:date>
+<dc:description xml:lang="de">Beschriftung: VS.re.u.sign.u.dat.: "ARTY 87"</dc:description>
+<dc:identifier>KS-20450</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dc:subject xml:lang="de">Kunst</dc:subject>
+<dc:title xml:lang="de">"Dem Gesetz entsprechend wirst Du auf eine Pfandflasche umsteigen müssen!"</dc:title>
+<dcterms:created xml:lang="de">1987</dcterms:created>
+<dcterms:extent xml:lang="de">16,2 x 22,1 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Kunst – Zeichnung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Tusche auf Papier</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886541506">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886541506"/>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Kunst – Zeichnung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Werner_Filek-Wittinghausen_K&#xFC;nstler/in">
+<skos:prefLabel>Werner Filek-Wittinghausen (Künstler/in)</skos:prefLabel>
+<dc:date>1987</dc:date>
+<dcterms:isPartOf xml:lang="de">Kunst – Zeichnung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Werner Filek-Wittinghausen</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.online.landessammlungen-noe.at/objects/1134662/dem-gesetz-entsprechend-wirst-du-auf-eine-pfandflasche-umst">
+<edm:aggregatedCHO rdf:resource="KS-20450"/>
+<edm:dataProvider>Landessammlungen Niederösterreich</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.online.landessammlungen-noe.at/objects/1134662/dem-gesetz-entsprechend-wirst-du-auf-eine-pfandflasche-umst"/>
+<edm:isShownBy rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/119431"/>
+<edm:object rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/119431"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

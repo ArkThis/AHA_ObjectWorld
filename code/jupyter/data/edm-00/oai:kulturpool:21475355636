@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="VO_85801">
+<dc:date xml:lang="de">um 1909</dc:date>
+<dc:date xml:lang="en">ca. 1908</dc:date>
+<dc:identifier>VO_85801</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="de">San</dc:subject>
+<dc:title xml:lang="de">Bruchstück eines Steins</dc:title>
+<dc:title xml:lang="en">Fragment of a Stone</dc:title>
+<dc:type xml:lang="de">Bruchstück eines Steins</dc:type>
+<dc:type xml:lang="en">Fragment of a Stone</dc:type>
+<dcterms:created xml:lang="de">um 1909</dcterms:created>
+<dcterms:created xml:lang="en">ca. 1908</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Afrika südlich der Sahara</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Stein</dcterms:medium>
+<dcterms:medium xml:lang="en">Stone</dcterms:medium>
+<dcterms:spatial xml:lang="de">Afrika südlich der Sahara/Süd-Afrika/Botswana/Kalahari / Kgatleng District/Mochudi</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#21475355636"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475355636">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475355636"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Afrika südlich der Sahara</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:TimeSpan rdf:about="temporal#21475355636">
+<skos:prefLabel>1904-1909</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Afrika südlich der Sahara</dcterms:isPartOf>
+<edm:begin>1904</edm:begin>
+<edm:end>1909</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://www.weltmuseumwien.at/object/?detailID=912593/">
+<edm:aggregatedCHO rdf:resource="VO_85801"/>
+<edm:dataProvider>Weltmuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.weltmuseumwien.at/object/?detailID=912593/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/912593/VO_85801.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/912593/VO_85801.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="BI 2485-1">
+<dc:contributor rdf:resource="#Richter_Ludwig_Illustrator"/>
+<dc:contributor rdf:resource="#R._A._Pannagl_Buchbinderei"/>
+<dc:contributor rdf:resource="#Breitkopf_und_H&#xE4;rtel_Druckerei"/>
+<dc:contributor rdf:resource="#Richter_Ludwig_Illustrator"/>
+<dc:contributor rdf:resource="#Verlag_J._Heinrich_Richter_Verlag"/>
+<dc:identifier>BI 2485-1</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Gesammeltes</dc:title>
+<dc:title xml:lang="de">15 Bilder für’s Haus von Ludwig Richter (Untertitel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4137575-0"/>
+<dcterms:extent>Blattanzahl: 16 Seite(n)</dcterms:extent>
+<dcterms:extent>Höhe: 30 cm</dcterms:extent>
+<dcterms:extent>Breite: 25.5 cm</dcterms:extent>
+<dcterms:extent>Tiefe: 1 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Leder</dcterms:medium>
+<dcterms:medium xml:lang="en">leather</dcterms:medium>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Kamm-Marmorpapier</dcterms:medium>
+<dcterms:medium xml:lang="en">nonpareil marbled paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Fadenbindung</dcterms:medium>
+<dcterms:medium xml:lang="en">sewing</dcterms:medium>
+<dcterms:medium xml:lang="de">Goldprägung</dcterms:medium>
+<dcterms:medium xml:lang="en">gold embossing</dcterms:medium>
+<dcterms:medium xml:lang="de">Fester Rücken</dcterms:medium>
+<dcterms:medium xml:lang="en">hardcover</dcterms:medium>
+<dcterms:medium xml:lang="de">Holzstich</dcterms:medium>
+<dcterms:medium xml:lang="en">wood engraving</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4035206-7"/>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4011882-4"/>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4011882-4"/>
+<dcterms:temporal rdf:resource="temporal#120260134060"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260134060">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260134060"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Richter_Ludwig_Illustrator">
+<skos:prefLabel xml:lang="de">Richter, Ludwig (Illustrator) (Leipzig, 1869)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1869</edm:begin>
+<edm:end>1869</edm:end>
+<foaf:name xml:lang="de">Richter, Ludwig</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Leipzig, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Illustrator</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#R._A._Pannagl_Buchbinderei">
+<skos:prefLabel xml:lang="de">R. A. Pannagl (Buchbinderei) (Deutschland, 1869)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">R. A. Pannagl</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1869</edm:begin>
+<edm:end>1869</edm:end>
+<foaf:name xml:lang="de">R. A. Pannagl</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Deutschland, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Germany, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Buchbinderei</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Breitkopf_und_H&#xE4;rtel_Druckerei">
+<skos:prefLabel xml:lang="de">Breitkopf und Härtel (Druckerei) (Dresden, 1869)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1869</edm:begin>
+<edm:end>1869</edm:end>
+<foaf:name xml:lang="de">Breitkopf und Härtel</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Dresden, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Druckerei</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Richter_Ludwig_Illustrator">
+<skos:prefLabel xml:lang="de">Richter, Ludwig (Illustrator) (Leipzig, 1869)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1869</edm:begin>
+<edm:end>1869</edm:end>
+<foaf:name xml:lang="de">Richter, Ludwig</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Leipzig, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Illustrator</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Verlag_J._Heinrich_Richter_Verlag">
+<skos:prefLabel xml:lang="de">Verlag J. Heinrich Richter (Verlag) (Deutschland, 1869)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Verlag J. Heinrich Richter</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1869</edm:begin>
+<edm:end>1869</edm:end>
+<foaf:name xml:lang="de">Verlag J. Heinrich Richter</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Deutschland, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Germany, 1869</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Verlag</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260134060">
+<skos:prefLabel>1869-1869</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1869</edm:begin>
+<edm:end>1869</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-283909">
+<edm:aggregatedCHO rdf:resource="BI 2485-1"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-2485-1_7.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-2485-1_8.jpg"/>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-2485-1_9.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-283909"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-2485-1_4.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/bi-2485-1_4.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

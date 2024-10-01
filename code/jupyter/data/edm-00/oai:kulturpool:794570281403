@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-StiAWilten/Urkunden/115_L_01">
+<dc:date>1748-01-17</dc:date>
+<dc:description xml:lang="de">Franz Xaver Maximilian Anton Khuen Graf zu Lichtenberg, Gandegg und Englar, Freiherr zu Belasy, Alt- und Neu-Lempach, Gerichtsherr zu Altenburg und Kaiserlicher Geheimrat, nimmt Bezug auf das Tauschgeschäft vom 17.1.1718, als der Wiltener Abt Gregor von Heinrich Rutter den Wieserhof zu Andrian mit allen damaligen Gütern gegen den Schlundthof zu Terlan und einer von den Erben Paul Indermauers zu Kurtatsch herrührenden Weingülte getauscht hat. Zu den Wiesenhofischen Gütern gehörte mit Graf Khuens grundherrlicher Zustimmung und erfolgtem Auf- und Abzug von 28 Gulden 45 Kreuzer auch der mittlere Teil aus dem sogenannten unteren Bergstück samt anschließendem kleinen Wiesenfleck von ungefähr 25 1/2 Star Land unter Vorbehalt, dass über das ganze Unterberg-Stück (das einstmals vorbesagter Vertauscher Heinrich Rutter zum Wiesenhof innegehabt, danach aber mit grundherrlicher Einwilligung in drei Teile geteilt und einen davon an Gaudenz Heissler, den anderen an Herrn Geneti oder uxorio nomine Präfaller verkauft, den dritten Teil jedoch beim Wiesenhof für sich behalten hatte), das Sankt Sebastian Benefizium auf Graf Khuens Grundherrschaft Schloss Englar alljährlich zu Martini 4 Gulden 24 Kreuzer Grundzins abstatten musste, welchen Grundzins der jeweilige Inhaber des Wieserhofes einstmals als Lehenträger zu reichen, hernach aber von den Heisslerischen Erben oder vielmehr von Franz Lanser 2 Gulden und von dem Präfallerischen de facto Peter Maffeischen Stück 1 Gulden Hilfsgrundzins einzulangen, mithin der Zehentträger des Wiesenhofes einen Anteil von 1 Gulden 24 Kreuzer zu erlegen hatte. Graf Khuen verleiht nun dem Kloster Wilten diesen mittleren Teil aus dem Unterberg- Stück ohne Acker und Wiesen zu ewigem Erbbaurecht, und zwar so, dass Abt Norbert und Prior Klemens Amon mit dem Kapitel den oben erwähnten Tausch samt allen zugehörigen Rechten besitzen, bauen und nutzen können, sie aber verpflichtet sind (wie es bei Klöstern und unaussterblichen Orten nach dem Tiroler Landrecht gebräuchlich ist), alle 15 Jahre den vom dritten Teil verliehenen Unterberg-Stück herrührenden Auf- und Abzug von 28 Gulden 45 Kreuzer zu erneuern, der Grundherrschaft abzuführen und Revers zu geben. Aussteller: Franz X. Maximilian Anton Khuen Graf zu Lichtenberg</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-StiAWilten/Urkunden/115_L_01</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: Urkunden 115 L 01</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1748-01-17</dcterms:created>
+<dcterms:extent>Plika</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stiftsarchiv Wilten</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=794570281403">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=794570281403"/>
+<dc:description xml:lang="de">Franz Xaver Maximilian Anton Khuen Graf zu Lichtenberg, Gandegg und Englar, Freiherr zu Belasy, Alt- und Neu-Lempach, Gerichtsherr zu Altenburg und Kaiserlicher Geheimrat, nimmt Bezug auf das Tauschgeschäft vom 17.1.1718, als der Wiltener Abt Gregor von Heinrich Rutter den Wieserhof zu Andrian mit allen damaligen Gütern gegen den Schlundthof zu Terlan und einer von den Erben Paul Indermauers zu Kurtatsch herrührenden Weingülte getauscht hat. Zu den Wiesenhofischen Gütern gehörte mit Graf Khuens grundherrlicher Zustimmung und erfolgtem Auf- und Abzug von 28 Gulden 45 Kreuzer auch der mittlere Teil aus dem sogenannten unteren Bergstück samt anschließendem kleinen Wiesenfleck von ungefähr 25 1/2 Star Land unter Vorbehalt, dass über das ganze Unterberg-Stück (das einstmals vorbesagter Vertauscher Heinrich Rutter zum Wiesenhof innegehabt, danach aber mit grundherrlicher Einwilligung in drei Teile geteilt und einen davon an Gaudenz Heissler, den anderen an Herrn Geneti oder uxorio nomine Präfaller verkauft, den dritten Teil jedoch beim Wiesenhof für sich behalten hatte), das Sankt Sebastian Benefizium auf Graf Khuens Grundherrschaft Schloss Englar alljährlich zu Martini 4 Gulden 24 Kreuzer Grundzins abstatten musste, welchen Grundzins der jeweilige Inhaber des Wieserhofes einstmals als Lehenträger zu reichen, hernach aber von den Heisslerischen Erben oder vielmehr von Franz Lanser 2 Gulden und von dem Präfallerischen de facto Peter Maffeischen Stück 1 Gulden Hilfsgrundzins einzulangen, mithin der Zehentträger des Wiesenhofes einen Anteil von 1 Gulden 24 Kreuzer zu erlegen hatte. Graf Khuen verleiht nun dem Kloster Wilten diesen mittleren Teil aus dem Unterberg- Stück ohne Acker und Wiesen zu ewigem Erbbaurecht, und zwar so, dass Abt Norbert und Prior Klemens Amon mit dem Kapitel den oben erwähnten Tausch samt allen zugehörigen Rechten besitzen, bauen und nutzen können, sie aber verpflichtet sind (wie es bei Klöstern und unaussterblichen Orten nach dem Tiroler Landrecht gebräuchlich ist), alle 15 Jahre den vom dritten Teil verliehenen Unterberg-Stück herrührenden Auf- und Abzug von 28 Gulden 45 Kreuzer zu erneuern, der Grundherrschaft abzuführen und Revers zu geben. Aussteller: Franz X. Maximilian Anton Khuen Graf zu Lichtenberg</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:extent>Plika</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stiftsarchiv Wilten</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-StiAWilten/Urkunden/115_L_01/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-StiAWilten/Urkunden/115_L_01"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-StiAWilten/Urkunden/115_L_01/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/img%2FAT-StiAWilt%2FUrkunden%2FStiAWilten_115-L-01_17400101_r.JPG/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/img%2FAT-StiAWilt%2FUrkunden%2FStiAWilten_115-L-01_17400101_r.JPG/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

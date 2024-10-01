@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:www.digital.wienbibliothek.at:2007607">
+<dc:contributor rdf:resource="#Lell_Michael_K&#xF6;rperschaft"/>
+<dc:date xml:lang="de">1848</dc:date>
+<dc:description xml:lang="de">Flugblatt: Wien, September 1848</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>oai:www.digital.wienbibliothek.at:2007607</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Gedruckt bei M. Lell</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:title xml:lang="de">Ungarn muß siegen! : Das Recht muß siegen, die Freiheit muß siegen, und wenn der Kampf zwischen Bedrücker und Bedrückten, zwischen Despot und nach Freihet ringenden Sklaven Jahre lang fortbestehen müßte, die Freiheit muß siegen ...</dc:title>
+<dcterms:created xml:lang="de">1848</dcterms:created>
+<dcterms:extent xml:lang="de">[1] Bl. Satzspiegel: 32,2 x 16,1 cm </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stadtgeschichte und Ereignisse</dcterms:isPartOf>
+<dcterms:spatial xml:lang="">[Wien]</dcterms:spatial>
+<edm:currentLocation xml:lang="de">[Wien]</edm:currentLocation>
+<edm:type>TEXT</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=545461700065">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=545461700065"/>
+<dc:description xml:lang="de">Flugblatt: Wien, September 1848</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:extent xml:lang="de">[1] Bl. Satzspiegel: 32,2 x 16,1 cm </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stadtgeschichte und Ereignisse</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Lell_Michael_K&#xF6;rperschaft">
+<skos:prefLabel>Lell, Michael (Körperschaft)</skos:prefLabel>
+<dc:date>1848</dc:date>
+<dcterms:isPartOf xml:lang="de">Stadtgeschichte und Ereignisse</dcterms:isPartOf>
+<foaf:name xml:lang="de">Lell, Michael</foaf:name>
+<rdaGr2:professionOrOccupation>Körperschaft</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.digital.wienbibliothek.at/id/2007607">
+<edm:aggregatedCHO rdf:resource="oai:www.digital.wienbibliothek.at:2007607"/>
+<edm:dataProvider>Wienbibliothek im Rathaus</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.digital.wienbibliothek.at/id/2007607"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/rest/export/1.0/proxy/wienbib/?id=download/pdf/2007607"/>
+<edm:object rdf:resource="https://www.digital.wienbibliothek.at/download/webcache/304/2007608"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

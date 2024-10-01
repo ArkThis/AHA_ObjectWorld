@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="o:240539">
+<dc:creator rdf:resource="#Amt_der_Vorarlberger_Landesregierung_Abteilung_Raumplanung_Hersteller/in"/>
+<dc:date xml:lang="de">2016</dc:date>
+<dc:description xml:lang="de">[Bartholomäberg - Dälma]</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>o:240539</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Foto: Raumplanung/Land Vorarlberg</dc:rights>
+<dc:rights xml:lang="de">CC BY 4.0</dc:rights>
+<dc:subject xml:lang="en">Photography</dc:subject>
+<dc:title xml:lang="de">Bartholomäberg - Dälma</dc:title>
+<dc:type xml:lang="de">Foto</dc:type>
+<dc:type xml:lang="en">Photo</dc:type>
+<dcterms:created xml:lang="de">2016</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Schrägluftbilder Raumplanung/Land Vorarlberg</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Schrägluftbilder farbig quer</dcterms:medium>
+<edm:isRelatedTo xml:lang="de">Bartholomäberg</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dälma</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">photography</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=188979213320">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=188979213320"/>
+<dc:description xml:lang="de">[Bartholomäberg - Dälma]</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Foto: Raumplanung/Land Vorarlberg</dc:rights>
+<dc:rights xml:lang="de">CC BY 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Schrägluftbilder Raumplanung/Land Vorarlberg</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Amt_der_Vorarlberger_Landesregierung_Abteilung_Raumplanung_Hersteller/in">
+<skos:prefLabel>Amt der Vorarlberger Landesregierung Abteilung Raumplanung (Hersteller/in)</skos:prefLabel>
+<dc:date>2016</dc:date>
+<dcterms:isPartOf xml:lang="de">Schrägluftbilder Raumplanung/Land Vorarlberg</dcterms:isPartOf>
+<foaf:name xml:lang="de">Amt der Vorarlberger Landesregierung Abteilung Raumplanung</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="http://pid.volare.vorarlberg.at/o:240539">
+<edm:aggregatedCHO rdf:resource="o:240539"/>
+<edm:dataProvider>Vorarlberger Landesbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://pid.volare.vorarlberg.at/o:240539"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/rest/export/1.0/proxy/vorarlberg/?id=o:240539"/>
+<edm:object rdf:resource="http://pid.volare.vorarlberg.at/o:240539/preview"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

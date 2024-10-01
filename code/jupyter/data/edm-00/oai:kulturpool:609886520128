@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="CAR-S-209">
+<dc:date xml:lang="de">2. Jh. n. Chr.</dc:date>
+<dc:description xml:lang="de">Die Tafel war ursprünglich wohl außerhalb des Kultgebäudes des Jupiter Dolichenus, vielleicht an einer Mauer des Kultbezirks angebracht. Worauf sich die Stiftung bezieht, ist nicht ganz klar. Innerhalb eines profilierten Rahmens ist die Weihinschrift zu lesen: I(ovi) O(ptimo) M(aximo) D(olicheno) LVCA(nius) / ATTILLVS / IVSSV DEI / INPENDI(o) SVO / FEC(it) »Dem besten und größten Jupiter Dolichenus hat Lucanius Attillus auf Befehl des Gottes (dies) aus eigenen Mitteln errichtet.«</dc:description>
+<dc:identifier>CAR-S-209</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dc:subject xml:lang="de">Römische Archäologie</dc:subject>
+<dc:title xml:lang="de">Bau- bzw. Weihinschrift für Jupiter Optimus Maximus Dolichenus</dc:title>
+<dcterms:created xml:lang="de">2. Jh. n. Chr.</dcterms:created>
+<dcterms:extent xml:lang="de">46 × 47,2 × 12,5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Römische Archäologie – Kult und Religion</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kalksandstein</dcterms:medium>
+<dcterms:spatial xml:lang="de">Carnuntum, Canabae, Dolichenum</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886520128">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886520128"/>
+<dc:description xml:lang="de">Die Tafel war ursprünglich wohl außerhalb des Kultgebäudes des Jupiter Dolichenus, vielleicht an einer Mauer des Kultbezirks angebracht. Worauf sich die Stiftung bezieht, ist nicht ganz klar. Innerhalb eines profilierten Rahmens ist die Weihinschrift zu lesen: I(ovi) O(ptimo) M(aximo) D(olicheno) LVCA(nius) / ATTILLVS / IVSSV DEI / INPENDI(o) SVO / FEC(it) »Dem besten und größten Jupiter Dolichenus hat Lucanius Attillus auf Befehl des Gottes (dies) aus eigenen Mitteln errichtet.«</dc:description>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Römische Archäologie – Kult und Religion</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.online.landessammlungen-noe.at/objects/1019003/bau-bzw-weihinschrift-fur-jupiter-optimus-maximus-dolichen">
+<edm:aggregatedCHO rdf:resource="CAR-S-209"/>
+<edm:dataProvider>Landessammlungen Niederösterreich</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.online.landessammlungen-noe.at/objects/1019003/bau-bzw-weihinschrift-fur-jupiter-optimus-maximus-dolichen"/>
+<edm:isShownBy rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/218439"/>
+<edm:object rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/218439"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="014047">
+<dc:coverage>1575-1585</dc:coverage>
+<dc:date>1575-1585</dc:date>
+<dc:description xml:lang="de">Folge (Schriftkultur Ausstattung, Graphik, Illustration)/Porträt</dc:description>
+<dc:identifier>014047</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Porträt</dc:subject>
+<dc:title xml:lang="de">Porträt</dc:title>
+<dc:title xml:lang="en">Portrait</dc:title>
+<dcterms:created>1575-1585</dcterms:created>
+<dcterms:extent xml:lang="de">275x180 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Deckfarbenmalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">opaque watercolour</dcterms:medium>
+<dcterms:spatial xml:lang="de">Ebreichsdorf</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Kunsthistorisches Museum - Wien - Wien - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Stehkragen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hemd</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Birett</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stickerei</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Mantel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Herr von Moebruxs</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Adeliger</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Blüte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Blume</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rahmen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Inschrift</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Handschuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Feder</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hintergrund</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">noble man</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885351720">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885351720"/>
+<dc:description xml:lang="de">Folge (Schriftkultur Ausstattung, Graphik, Illustration)/Porträt</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=014047">
+<edm:aggregatedCHO rdf:resource="014047"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=014047"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7015057"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7015057"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

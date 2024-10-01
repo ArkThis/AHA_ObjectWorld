@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="BI 32066-3-32-1">
+<dc:contributor rdf:resource="#Bakalowits_-_Licht_Design_GmbH_(Wien)_Vertrieb_der_Umsetzung"/>
+<dc:contributor rdf:resource="#Janesich_Giovanni_Battista_Ausf&#xFC;hrung_des_dargestellten_Werks"/>
+<dc:contributor rdf:resource="#Anonym_Entwurf_des_dargestellten_Werks"/>
+<dc:identifier>BI 32066-3-32-1</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>iv</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Seite 32 (Recto) mit Schnitten für Leuchten und Vasen von E. Bakalowits, Söhne (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="iv"> (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="de">Band 3 Werkzeichnungen von E. Bakalowits &amp; Söhne (Titelzusatz)</dc:title>
+<dc:title xml:lang="iv"> (Titelzusatz)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4189665-8"/>
+<dcterms:extent>Höhe: 49.5 cm</dcterms:extent>
+<dcterms:extent>Breite: 65 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Bleistift</dcterms:medium>
+<dcterms:medium xml:lang="en">graphite pencil</dcterms:medium>
+<dcterms:medium xml:lang="de">Zeichnung</dcterms:medium>
+<dcterms:medium xml:lang="en">Zeichnung</dcterms:medium>
+<dcterms:provenance xml:lang="de">Schenkung / Donation (1968-12-04)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">donation (1968-12-04)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#120260088597"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260088597">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260088597"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Bakalowits_-_Licht_Design_GmbH_(Wien)_Vertrieb_der_Umsetzung">
+<skos:prefLabel xml:lang="de">Bakalowits - Licht, Design GmbH (Wien) (Vertrieb der Umsetzung) (Wien, nach 1908)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1908</edm:begin>
+<edm:end>1918</edm:end>
+<foaf:name xml:lang="de">Bakalowits - Licht, Design GmbH (Wien)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, nach 1908</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Vertrieb der Umsetzung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Janesich_Giovanni_Battista_Ausf&#xFC;hrung_des_dargestellten_Werks">
+<skos:prefLabel xml:lang="de">Janesich, Giovanni Battista (Ausführung des dargestellten Werks) (Triest, nach 1908)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Janesich, Giovanni Battista</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1908</edm:begin>
+<edm:end>1908</edm:end>
+<foaf:name xml:lang="de">Janesich, Giovanni Battista</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Triest, nach 1908</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, after 1908</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung des dargestellten Werks</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Anonym_Entwurf_des_dargestellten_Werks">
+<skos:prefLabel xml:lang="de">Anonym (Entwurf des dargestellten Werks) (Wien, 1908)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1908</edm:begin>
+<edm:end>1908</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1908</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1908</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf des dargestellten Werks</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260088597">
+<skos:prefLabel>1908-1918</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1908</edm:begin>
+<edm:end>1918</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-394127">
+<edm:aggregatedCHO rdf:resource="BI 32066-3-32-1"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-394127"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-32066-3-32-1_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/bi-32066-3-32-1_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

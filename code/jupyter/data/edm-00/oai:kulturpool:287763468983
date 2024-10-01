@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FS_RPM142355">
+<dc:creator rdf:resource="http://d-nb.info/1019648570"/>
+<dc:date xml:lang="de">1924</dc:date>
+<dc:description xml:lang="de">Abbildung/Person: Max Reinhardt</dc:description>
+<dc:identifier>FS_RPM142355</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Reinhardt</dc:title>
+<dc:type xml:lang="de">Zivilfoto</dc:type>
+<dcterms:created xml:lang="de">1924</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#287763468983"/>
+<edm:isRelatedTo>Foto</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763468983">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763468983"/>
+<dc:description xml:lang="de">Abbildung/Person: Max Reinhardt</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/1019648570">
+<skos:prefLabel>Atelier Setzer, Wien (Fotograf/Urheber/in)</skos:prefLabel>
+<dc:date>1924</dc:date>
+<dc:identifier>http://d-nb.info/1019648570</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Atelier Setzer, Wien</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1909 - 1939 Atelier</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Fotograf/Urheber/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#287763468983">
+<skos:prefLabel>1924</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<edm:begin>1924</edm:begin>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/837203/">
+<edm:aggregatedCHO rdf:resource="FS_RPM142355"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/837203/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/837203/FS_RPM142355.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/837203/FS_RPM142355.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="87005/64">
+<dc:creator rdf:resource="#Matthias_Rudolph_Toma_Drucker_Verleger"/>
+<dc:creator rdf:resource="#Albert_Riemensberg_von_Radmannsdorff_Zeichner"/>
+<dc:date xml:lang="de">1835</dc:date>
+<dc:identifier>87005/64</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dc:rights xml:lang="de">Holder of image: Foto: kunstdokumentation.com, Wien Museum</dc:rights>
+<dc:subject xml:lang="de">Berufsdarstellungen</dc:subject>
+<dc:subject xml:lang="de">Bildende Kunst</dc:subject>
+<dc:subject xml:lang="de">Handwerk</dc:subject>
+<dc:subject xml:lang="de">Mode</dc:subject>
+<dc:type xml:lang="de">Druckgrafik</dc:type>
+<dc:type xml:lang="de">Lithografien, koloriert</dc:type>
+<dc:title xml:lang="de">"Der Mensch und sein Beruf": "Der Friseur."</dc:title>
+<dc:type rdf:resource="https://iconclass.org/47B1"/>
+<dc:type rdf:resource="https://iconclass.org/31A535"/>
+<dc:type rdf:resource="https://iconclass.org/31A53"/>
+<dc:type rdf:resource="https://iconclass.org/41AA1"/>
+<dc:type xml:lang="de">Interieur</dc:type>
+<dc:type rdf:resource="https://iconclass.org/47A11"/>
+<dcterms:created xml:lang="de">1835</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=846110021564">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=846110021564"/>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Matthias_Rudolph_Toma_Drucker_Verleger">
+<skos:prefLabel>Matthias Rudolph Toma (Drucker, Verleger)</skos:prefLabel>
+<dc:date>1835</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Matthias Rudolph Toma</foaf:name>
+<rdaGr2:professionOrOccupation>Drucker</rdaGr2:professionOrOccupation>
+<rdaGr2:professionOrOccupation>Verleger</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Albert_Riemensberg_von_Radmannsdorff_Zeichner">
+<skos:prefLabel>Albert Riemensberg von Radmannsdorff (Zeichner)</skos:prefLabel>
+<dc:date>1835</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Albert Riemensberg von Radmannsdorff</foaf:name>
+<rdaGr2:professionOrOccupation>Zeichner</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.wienmuseum.at/objekt/154750">
+<edm:aggregatedCHO rdf:resource="87005/64"/>
+<edm:dataProvider>Wien Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.wienmuseum.at/objekt/154750"/>
+<edm:isShownBy rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=154750/1914527_default.jpg"/>
+<edm:object rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=154750/1914527_preview.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="11353/10.263469">
+<dc:contributor rdf:resource="#DiFaB_Other"/>
+<dc:contributor rdf:resource="#DiFaB_Other"/>
+<dc:description xml:lang="de">Westfassade. Halbsäule vom linken Portalgewände. Vermauert im Zuge der Schließung der ursprünglich offenen Vorhalle durch die Füllungsmauer zw.1339 - 1343. 1931 freigelegt.
+Rechts ein Glasfenster.</dc:description>
+<dc:identifier>11353/10.263469</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:rights xml:lang="de">All rights reserved</dc:rights>
+<dc:subject xml:lang="de">Getty Thesaurus of Geographic Names, Gurk</dc:subject>
+<dc:subject xml:lang="de">Getty Art &amp; Architecture Thesaurus, sculpture</dc:subject>
+<dc:subject xml:lang="de">Getty Art &amp; Architecture Thesaurus, digital images</dc:subject>
+<dc:subject xml:lang="de">Getty Art &amp; Architecture Thesaurus, architecture</dc:subject>
+<dc:title xml:lang="de">Dom zu Gurk (Pfarrkirche Mariae Himmelfahrt)</dc:title>
+<dcterms:extent>23.05 MB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=532577017380">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=532577017380"/>
+<dc:description xml:lang="de">Westfassade. Halbsäule vom linken Portalgewände. Vermauert im Zuge der Schließung der ursprünglich offenen Vorhalle durch die Füllungsmauer zw.1339 - 1343. 1931 freigelegt.
+Rechts ein Glasfenster.</dc:description>
+<dc:rights xml:lang="de">All rights reserved</dc:rights>
+<dcterms:extent>23.05 MB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#DiFaB_Other">
+<skos:prefLabel>DiFaB (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<foaf:name xml:lang="de">DiFaB</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#DiFaB_Other">
+<skos:prefLabel>DiFaB (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<foaf:name xml:lang="de">DiFaB</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://phaidra.univie.ac.at/o:263469">
+<edm:aggregatedCHO rdf:resource="11353/10.263469"/>
+<edm:dataProvider>Universitätsbibliothek Wien - Phaidra</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://phaidra.univie.ac.at/o:263469"/>
+<edm:isShownBy rdf:resource="https://services.phaidra.univie.ac.at/api/imageserver?CVT=jpeg&amp;FIF=o:263469.tif"/>
+<edm:object rdf:resource="https://phaidra.univie.ac.at/preview/o:263469"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

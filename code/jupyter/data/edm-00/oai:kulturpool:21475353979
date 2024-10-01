@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="VO_64690">
+<dc:date xml:lang="de">16./17. Jahrhundert</dc:date>
+<dc:date xml:lang="en">16th/17th century</dc:date>
+<dc:description xml:lang="de">Diese Reliefplatte: Würdenträger mit Eben-Schwert ist Teil der historischen Sammlungen aus dem Königreich Benin im heutigen Nigeria. 1897 wurde das Königreich erobert und dessen Oba (König) Ovonramwen ins Exil verbannt. Die aus dem Königspalast geraubten Kunstschätze wurden anschließend über den Kunstmarkt verkauft, um die Eroberung rückwirkend zu finanzieren. Viele dieser Objekte sind heute Teil europäischer Sammlungen. 
+
+Dieses Reliefplatte: Würdenträger mit Eben-Schwert konnte auf Basis seiner Provenienzkette in direkten Zusammenhang mit dem Überfall auf das Königreich Benin 1897 gebracht werden.  </dc:description>
+<dc:identifier>VO_64690</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="de">Edo, Benin Königreich</dc:subject>
+<dc:subject xml:lang="en">Edo, Benin Kingdom</dc:subject>
+<dc:title xml:lang="de">Reliefplatte: Würdenträger mit Eben-Schwert</dc:title>
+<dc:title xml:lang="en">Relief Plaque: Dignitary with Eben Sword</dc:title>
+<dc:type xml:lang="de">Reliefplatte: Würdenträger mit Eben-Schwert</dc:type>
+<dc:type xml:lang="en">Relief Plaque: Dignitary with Eben Sword</dc:type>
+<dcterms:created xml:lang="de">16./17. Jahrhundert</dcterms:created>
+<dcterms:created xml:lang="en">16th/17th century</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Afrika südlich der Sahara</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Gelbguss</dcterms:medium>
+<dcterms:medium xml:lang="en">Brass</dcterms:medium>
+<dcterms:spatial xml:lang="de">Afrika südlich der Sahara/West-Afrika/Nigeria/Benin</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#21475353979"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475353979">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475353979"/>
+<dc:description xml:lang="de">Diese Reliefplatte: Würdenträger mit Eben-Schwert ist Teil der historischen Sammlungen aus dem Königreich Benin im heutigen Nigeria. 1897 wurde das Königreich erobert und dessen Oba (König) Ovonramwen ins Exil verbannt. Die aus dem Königspalast geraubten Kunstschätze wurden anschließend über den Kunstmarkt verkauft, um die Eroberung rückwirkend zu finanzieren. Viele dieser Objekte sind heute Teil europäischer Sammlungen. 
+
+Dieses Reliefplatte: Würdenträger mit Eben-Schwert konnte auf Basis seiner Provenienzkette in direkten Zusammenhang mit dem Überfall auf das Königreich Benin 1897 gebracht werden.  </dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Afrika südlich der Sahara</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:TimeSpan rdf:about="temporal#21475353979">
+<skos:prefLabel>1500-1700</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Afrika südlich der Sahara</dcterms:isPartOf>
+<edm:begin>1500</edm:begin>
+<edm:end>1700</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://www.weltmuseumwien.at/object/?detailID=440971/">
+<edm:aggregatedCHO rdf:resource="VO_64690"/>
+<edm:dataProvider>Weltmuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.weltmuseumwien.at/object/?detailID=440971/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/440971/VO_64690_x.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/440971/VO_64690_x.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

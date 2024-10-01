@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="H/II/41/27">
+<dc:coverage>Niederlande</dc:coverage>
+<dc:creator rdf:resource="#unbestimmt_Stecher_in"/>
+<dc:creator rdf:resource="#Abraham_Jacobi_Stecher_in"/>
+<dc:creator rdf:resource="#Jan_Symonsz._Pynas_Sch&#xF6;pfer_in_der_Vorlage"/>
+<dc:date>17. Jahrhundert</dc:date>
+<dc:identifier>H/II/41/27</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Druck</dc:subject>
+<dc:subject xml:lang="en">prints</dc:subject>
+<dc:title xml:lang="de">Die Befreiung des hl. Petrus; Alchemis in seiner Arbeitsstube</dc:title>
+<dc:type xml:lang="de">Druckgraphik</dc:type>
+<dcterms:created>17. Jahrhundert</dcterms:created>
+<dcterms:extent xml:lang="de">Außenmaß (Band): 70,3 × 55,2 × 7 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Historische Bände (Klebebände)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kupferstich, Radierung</dcterms:medium>
+<dcterms:spatial xml:lang="de">Niederlande</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296193002">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296193002"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Historische Bände (Klebebände)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#unbestimmt_Stecher_in">
+<skos:prefLabel>unbestimmt (Stecher_in)</skos:prefLabel>
+<dc:date>17. Jahrhundert</dc:date>
+<dcterms:isPartOf xml:lang="de">Historische Bände (Klebebände)</dcterms:isPartOf>
+<foaf:name xml:lang="de">unbestimmt</foaf:name>
+<rdaGr2:professionOrOccupation>Stecher_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Abraham_Jacobi_Stecher_in">
+<skos:prefLabel>Abraham Jacobi (Stecher_in)</skos:prefLabel>
+<dc:date>17. Jahrhundert</dc:date>
+<dcterms:isPartOf xml:lang="de">Historische Bände (Klebebände)</dcterms:isPartOf>
+<foaf:name xml:lang="de">Abraham Jacobi</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Niederlande, 1606 - 1640</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Stecher_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Jan_Symonsz._Pynas_Sch&#xF6;pfer_in_der_Vorlage">
+<skos:prefLabel>Jan Symonsz. Pynas (Schöpfer_in der Vorlage)</skos:prefLabel>
+<dc:date>17. Jahrhundert</dc:date>
+<dcterms:isPartOf xml:lang="de">Historische Bände (Klebebände)</dcterms:isPartOf>
+<foaf:name xml:lang="de">Jan Symonsz. Pynas</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Alkmaar 1581 (1582, 1583, 1584)  - 1631 Amsterdam</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Schöpfer_in der Vorlage</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[H/II/41/27]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="H/II/41/27"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[H/II/41/27]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/H_II_41_27.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/H_II_41_27.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

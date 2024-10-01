@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="LI 1396">
+<dc:contributor rdf:resource="#Anonym_Entwurf"/>
+<dc:identifier>LI 1396</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Dom von Torcello (Kurztitel)</dc:title>
+<dc:title xml:lang="de">Außenansicht des Doms von Torcello, Kathedrale Santa Maria Assunta (Cattedrale di Santa Maria Assunta) (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="https://de.wikipedia.org/w/index.php?title=Dia_(Fotografie)&amp;oldid=192176364"/>
+<dcterms:extent>Breite: 10 cm</dcterms:extent>
+<dcterms:extent>Höhe: 85 cm</dcterms:extent>
+<dcterms:extent>Breite: 10 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Glas</dcterms:medium>
+<dcterms:medium xml:lang="en">glass</dcterms:medium>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Glasdiapositiv</dcterms:medium>
+<dcterms:medium xml:lang="en">glass plate slide</dcterms:medium>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4062501-1"/>
+<dcterms:temporal rdf:resource="temporal#103080063304"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=103080063304">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=103080063304"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_Entwurf">
+<skos:prefLabel xml:lang="de">Anonym (Entwurf) (Venezia / Venedig, 1900-1950)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1900</edm:begin>
+<edm:end>1950</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Venezia / Venedig, 1900-1950</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Venice, 1900-1950</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#103080063304">
+<skos:prefLabel>1900-1950</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1900</edm:begin>
+<edm:end>1950</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-206039">
+<edm:aggregatedCHO rdf:resource="LI 1396"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-206039"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/li-1396_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/li-1396_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

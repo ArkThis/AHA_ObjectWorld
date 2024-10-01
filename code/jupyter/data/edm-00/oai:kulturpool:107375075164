@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="BI 12219-9-65">
+<dc:contributor rdf:resource="#Muybridge_Eadweard_Fotograf"/>
+<dc:contributor rdf:resource="#University_of_Pennsylvania_Auftraggeber"/>
+<dc:contributor rdf:resource="#Photogravure_company_&lt;New_York&gt;_Druckerei"/>
+<dc:identifier>BI 12219-9-65</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Animal Locomotion : Plates -Vol IX ; Horses ; Plate 626 (Originaltitel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300041424"/>
+<dc:type rdf:resource="https://d-nb.info/gnd/4137575-0"/>
+<dcterms:extent>Höhe (Blattmaß): 48 cm</dcterms:extent>
+<dcterms:extent>Breite (Blattmaß): 60.3 cm</dcterms:extent>
+<dcterms:extent> (Blattmaß): 49.5 cm</dcterms:extent>
+<dcterms:extent> (Blattmaß): 34.3 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Heliogravüre</dcterms:medium>
+<dcterms:medium xml:lang="en">photogravure</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1898)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1898)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4103331-0"/>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4103331-0"/>
+<dcterms:temporal rdf:resource="temporal#107375075164"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375075164">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375075164"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Muybridge_Eadweard_Fotograf">
+<skos:prefLabel xml:lang="de">Muybridge, Eadweard (Fotograf) (Philadelphia, 1887)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Muybridge, Eadweard</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1887</edm:begin>
+<edm:end>1887</edm:end>
+<foaf:name xml:lang="de">Muybridge, Eadweard</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Philadelphia, 1887</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Philadelphia, 1887</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Fotograf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#University_of_Pennsylvania_Auftraggeber">
+<skos:prefLabel xml:lang="de">University of Pennsylvania (Auftraggeber) (Pennsylvania, 1887)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">University of Pennsylvania</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1887</edm:begin>
+<edm:end>1887</edm:end>
+<foaf:name xml:lang="de">University of Pennsylvania</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Pennsylvania, 1887</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Pennsylvania, 1887</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Auftraggeber</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Photogravure_company_&lt;New_York&gt;_Druckerei">
+<skos:prefLabel xml:lang="de">Photogravure company &lt;New York&gt; (Druckerei) (Philadelphia, 1887)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Photogravure company &lt;New York&gt;</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1887</edm:begin>
+<edm:end>1887</edm:end>
+<foaf:name xml:lang="de">Photogravure company &lt;New York&gt;</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Philadelphia, 1887</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Philadelphia, 1887</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Druckerei</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375075164">
+<skos:prefLabel>1887-1887</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1887</edm:begin>
+<edm:end>1887</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-256326">
+<edm:aggregatedCHO rdf:resource="BI 12219-9-65"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-256326"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-12219-9-65_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/bi-12219-9-65_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

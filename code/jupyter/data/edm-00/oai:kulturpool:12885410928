@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="016546">
+<dc:coverage>1470-1480</dc:coverage>
+<dc:date>1470-1480</dc:date>
+<dc:description xml:lang="de">Flügelaltar-Sonntagsseite/sakral</dc:description>
+<dc:identifier>016546</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Bezahlung der Mörder Kilians durch Geilana</dc:subject>
+<dc:title xml:lang="de">Bezahlung der Mörder Kilians durch Geilana</dc:title>
+<dc:title xml:lang="en">Payment of Kilian's murderers by Geilana</dc:title>
+<dcterms:created>1470-1480</dcterms:created>
+<dcterms:extent xml:lang="de">125x64 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Malerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Wartberg an der Krems</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Pfarrkirche St. Kilian - Wartberg an der Krems - Oberösterreich - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Surcot</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hut</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hörnerhaube</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kittel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Geldbeutel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gürteltasche</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Herzogin</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Borte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Turban</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schnabelschuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stickerei</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wehrgehenk</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schecke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beinling</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wulsthaube</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schaube</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Brusttuch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Trichterärmel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Aurifrisium</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Ärmel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kragen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wams</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stiefel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Edelstein</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kanne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Streitmesser</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Geldschatulle</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Streitaxt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Becher</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Goldstück</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wangentisch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fußboden</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Geilana</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885410928">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885410928"/>
+<dc:description xml:lang="de">Flügelaltar-Sonntagsseite/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=016546">
+<edm:aggregatedCHO rdf:resource="016546"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=016546"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7017876"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7017876"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

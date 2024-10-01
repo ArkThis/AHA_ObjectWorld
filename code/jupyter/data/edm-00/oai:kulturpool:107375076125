@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 21713-4">
+<dc:contributor rdf:resource="#Anonym_Fotograf"/>
+<dc:identifier>KI 21713-4</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Fotografie eines Fassadendetails des Ottheinrichsbau auf Schloss Heidelberg (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300046300"/>
+<dcterms:extent>Höhe: 29.5 cm</dcterms:extent>
+<dcterms:extent>Breite: 22.5 cm</dcterms:extent>
+<dcterms:extent>Höhe (Untersatzkarton): 32.5 cm</dcterms:extent>
+<dcterms:extent>Breite (Untersatzkarton): 24.8 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Untersatzkarton</dcterms:medium>
+<dcterms:medium xml:lang="en">secondary support cardboard</dcterms:medium>
+<dcterms:medium xml:lang="en">gelatin silver print</dcterms:medium>
+<dcterms:medium xml:lang="de">Silbergelatineabzug</dcterms:medium>
+<dcterms:provenance xml:lang="de">Alter Bestand</dcterms:provenance>
+<dcterms:provenance xml:lang="en">old holding</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4023996-2"/>
+<dcterms:temporal rdf:resource="temporal#107375076125"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375076125">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375076125"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_Fotograf">
+<skos:prefLabel xml:lang="de">Anonym (Fotograf) (Heidelberg, um 1900)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1890</edm:begin>
+<edm:end>1910</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Heidelberg, um 1900</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Fotograf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375076125">
+<skos:prefLabel>1890-1910</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1890</edm:begin>
+<edm:end>1910</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-257881">
+<edm:aggregatedCHO rdf:resource="KI 21713-4"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-257881"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-21713-4_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-21713-4_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

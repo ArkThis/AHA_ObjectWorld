@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="000844">
+<dc:coverage>1502-1502</dc:coverage>
+<dc:date>1502-1502</dc:date>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:identifier>000844</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Innenraum</dc:subject>
+<dc:title xml:lang="de">Innenraum</dc:title>
+<dc:title xml:lang="en">Interior</dc:title>
+<dcterms:created>1502-1502</dcterms:created>
+<dcterms:extent xml:lang="de">100x91,8 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Temperamalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/tempera painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Magdalensberg</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Filialkirche St. Helena - Magdalensberg - Kärnten - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Gewölbe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Säule</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Korinthisches Kapitell</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zimmerdecke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Quaderstein</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Balken</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885194349">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885194349"/>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=000844">
+<edm:aggregatedCHO rdf:resource="000844"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=000844"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7001780"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7001780"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

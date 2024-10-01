@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="hdl:11471/510.15.768">
+<dc:contributor xml:lang="en">Institute of German Studies, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Institut für Germanistik, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:contributor xml:lang="en">Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:date>1780-1790</dc:date>
+<dc:identifier>hdl:11471/510.15.768</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dc:title xml:lang="de">Lustig seynd wir Bettl-Leuth!</dc:title>
+<dcterms:created>1780-1790</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Dialect Cultures</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Dialect Cultures</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+<owl:sameAs rdf:resource="http://gams.uni-graz.at/o:dic.768">http://gams.uni-graz.at/o:dic.768</owl:sameAs>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279173082515">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279173082515"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Dialect Cultures</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Dialect Cultures</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://gams.uni-graz.at/o:dic.768">
+<edm:aggregatedCHO rdf:resource="hdl:11471/510.15.768"/>
+<edm:dataProvider>Karl-Franzens-Universität Graz</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://gams.uni-graz.at/o:dic.768"/>
+<edm:isShownBy rdf:resource="http://gams.uni-graz.at/o:dic.768"/>
+<edm:object rdf:resource="http://gams.uni-graz.at/o:dic.768"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

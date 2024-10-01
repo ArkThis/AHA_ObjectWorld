@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 15070">
+<dc:contributor rdf:resource="#Sugawa_Sen'nosuke_&#x9808;&#x5DDD;&#x5343;&#x4E4B;&#x52A9;_Ausf&#xFC;hrung"/>
+<dc:contributor rdf:resource="#Utagawa_Kunisada_I._&#x521D;&#x4EE3;&#x6B4C;&#x5DDD;&#x570B;&#x8C9E;_Entwurf"/>
+<dc:contributor rdf:resource="#Kunisada_&#x56FD;&#x8C9E;&#x6D3E;_(Schule)_Schule"/>
+<dc:contributor rdf:resource="#Utagawa_&#x6B4C;&#x5DDD;&#x6D3E;_(Schule)_Schule"/>
+<dc:contributor rdf:resource="#Aito_&#x76F8;&#x30C8;_Verlag"/>
+<dc:description xml:lang="de">Toyokuniga 豊國画 Serie mit beliebten Kabuki-Schauspielern. Hier zwei Schauspieler in den Rollen von Tosa Shōgen Mitsunobu (rechts) und Ukiyo Matahei (links vorne). Vgl. dazu das Kabuki-Stück “Keisei Hangonkō 傾城反魂香” (vgl. Lit.: Leiter).</dc:description>
+<dc:identifier>KI 15070</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Nummer 4: Tosa Shōgen, Ukiyo Matahei (四：土佐将監、浮世又平)</dc:title>
+<dc:title xml:lang="en">Number 4: Tosa Shōgen, Ukiyo Matahei</dc:title>
+<dc:title xml:lang="ja">四：土佐将監、浮世又平</dc:title>
+<dc:title xml:lang="de">Vergleich beliebter Schauspieler in der östlichen Hauptstadt (Tōto hiiki kurabe 東都贔屓競) (Serientitel)</dc:title>
+<dc:title xml:lang="en">Comparison of favorite actors in the eastern capital (Serientitel)</dc:title>
+<dc:title xml:lang="ja">東都贔屓競 (Serientitel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300106769"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300041412"/>
+<dcterms:extent>Höhe: 36.1 cm</dcterms:extent>
+<dcterms:extent>Breite: 24.4 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:provenance xml:lang="de">Alter Bestand (1996)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">old holding (1996)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4028495-5"/>
+<dcterms:temporal rdf:resource="temporal#107375044624"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375044624">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375044624"/>
+<dc:description xml:lang="de">Toyokuniga 豊國画 Serie mit beliebten Kabuki-Schauspielern. Hier zwei Schauspieler in den Rollen von Tosa Shōgen Mitsunobu (rechts) und Ukiyo Matahei (links vorne). Vgl. dazu das Kabuki-Stück “Keisei Hangonkō 傾城反魂香” (vgl. Lit.: Leiter).</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Sugawa_Sen'nosuke_&#x9808;&#x5DDD;&#x5343;&#x4E4B;&#x52A9;_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Sugawa Sen'nosuke 須川千之助 (Ausführung) (Japan, 1858)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sugawa Sen'nosuke 須川千之助</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:begin>1858</edm:begin>
+<edm:end>1858</edm:end>
+<foaf:name xml:lang="de">Sugawa Sen'nosuke 須川千之助</foaf:name>
+<foaf:name xml:lang="en">Sugawa Sen'nosuke 須川千之助</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Utagawa_Kunisada_I._&#x521D;&#x4EE3;&#x6B4C;&#x5DDD;&#x570B;&#x8C9E;_Entwurf">
+<skos:prefLabel xml:lang="de">Utagawa Kunisada I. 初代歌川國貞 (Entwurf) (Japan, 1858)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Utagawa Kunisada I. 初代歌川國貞</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:begin>1858</edm:begin>
+<edm:end>1858</edm:end>
+<foaf:name xml:lang="de">Utagawa Kunisada I. 初代歌川國貞</foaf:name>
+<foaf:name xml:lang="en">Utagawa Kunisada I. 初代歌川國貞</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kunisada_&#x56FD;&#x8C9E;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Kunisada 国貞派 (Schule) (Schule) (Japan, 1858)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Kunisada 国貞派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:begin>1858</edm:begin>
+<edm:end>1858</edm:end>
+<foaf:name xml:lang="de">Kunisada 国貞派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Kunisada 国貞派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Utagawa_&#x6B4C;&#x5DDD;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Utagawa 歌川派 (Schule) (Schule) (Japan, 1858)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Utagawa 歌川派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:begin>1858</edm:begin>
+<edm:end>1858</edm:end>
+<foaf:name xml:lang="de">Utagawa 歌川派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Utagawa 歌川派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Aito_&#x76F8;&#x30C8;_Verlag">
+<skos:prefLabel xml:lang="de">Aito 相ト (Verlag) (Japan, 1858)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Aito 相ト</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:begin>1858</edm:begin>
+<edm:end>1858</edm:end>
+<foaf:name xml:lang="de">Aito 相ト</foaf:name>
+<foaf:name xml:lang="en">Aito 相ト</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1858</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Verlag</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375044624">
+<skos:prefLabel>1858-1858</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<edm:begin>1858</edm:begin>
+<edm:end>1858</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-194473">
+<edm:aggregatedCHO rdf:resource="KI 15070"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-194473"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-15070_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-15070_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="&#xD6;MV/83.887">
+<dc:creator rdf:resource="#Unbekannt_Hersteller/in"/>
+<dc:date xml:lang="de">20. Jh.</dc:date>
+<dc:description xml:lang="de"> Geweihte Andachtsbildchen waren ein begehrtes Mitbringsel von Wallfahrten. Zum Schutz f&amp;uuml;r Mensch und Tier brachte man sie im Wohnbereich, im Mobiliar oder im Stall an. Gl&amp;auml;ubige legten sie in Gebetb&amp;uuml;cher ein und h&amp;uuml;teten sie als Schatz. Durch das Aufkommen moderner Drucktechniken massenhaft erzeugt und erh&amp;auml;ltlich, wurden sie zum Sammelobjekt. Sogar in Schachteln, Dosen und Alben fanden sie ihren Platz und gerieten dort in Vergessenheit, weil man sie aus Piet&amp;auml;t nicht einfach wegwerfen wollte. &lt;br /&gt;&lt;br /&gt; Nora Witzmann &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Sväté obrázky v plechovici&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt; Sv&amp;auml;t&amp;eacute; obr&amp;aacute;zky s n&amp;aacute;bo&amp;#382;ensk&amp;yacute;mi mot&amp;iacute;vmi boli na p&amp;uacute;t&amp;#769;ach &amp;#382;iadan&amp;yacute;mi suven&amp;iacute;rmi. Umiest&amp;ograve;ovali sa v domoch, v n&amp;aacute;bytku alebo v stajniach, aby chr&amp;aacute;nili &amp;#318;ud&amp;iacute; a zvierat&amp;aacute;. Veriaci si ich ukladali do modlitebn&amp;yacute;ch kni&amp;#382;iek a opatrovali ich ako poklad. Vznikom nov&amp;yacute;ch modern&amp;yacute;ch techn&amp;iacute;k tla&amp;egrave;e sa za&amp;egrave;ali masovo vyr&amp;aacute;ba&amp;#357;, &amp;egrave;&amp;iacute;m boli dostupnej&amp;scaron;ie - stali sa zberate&amp;#318;sk&amp;yacute;m predmetom. Svoje miesto si na&amp;scaron;li dokonca aj v &amp;scaron;katuliach, d&amp;oacute;zach a albumoch, kde na ne &amp;#318;udia &amp;egrave;asto zabudli, preto&amp;#382;e ich z piety nechceli vyhodi&amp;#357;. &lt;br /&gt;</dc:description>
+<dc:identifier>ÖMV/83.887</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Österreichisches Museum für Volkskunde</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dc:title xml:lang="de">Andachtsbildchen in Dose</dc:title>
+<dc:type xml:lang="de">Andachtsbild, kleines</dc:type>
+<dcterms:created xml:lang="de">20. Jh.</dcterms:created>
+<dcterms:extent xml:lang="de"> H: 8 cm &lt;br /&gt; B: 15 cm &lt;br /&gt; T: 10 cm &lt;br /&gt;</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Schatzgeschichten aus dem Volkskundemuseum Wien</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier, Blech / gedruckt (Andachtsbild)</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=339303532143">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=339303532143"/>
+<dc:description xml:lang="de"> Geweihte Andachtsbildchen waren ein begehrtes Mitbringsel von Wallfahrten. Zum Schutz f&amp;uuml;r Mensch und Tier brachte man sie im Wohnbereich, im Mobiliar oder im Stall an. Gl&amp;auml;ubige legten sie in Gebetb&amp;uuml;cher ein und h&amp;uuml;teten sie als Schatz. Durch das Aufkommen moderner Drucktechniken massenhaft erzeugt und erh&amp;auml;ltlich, wurden sie zum Sammelobjekt. Sogar in Schachteln, Dosen und Alben fanden sie ihren Platz und gerieten dort in Vergessenheit, weil man sie aus Piet&amp;auml;t nicht einfach wegwerfen wollte. &lt;br /&gt;&lt;br /&gt; Nora Witzmann &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Sväté obrázky v plechovici&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt; Sv&amp;auml;t&amp;eacute; obr&amp;aacute;zky s n&amp;aacute;bo&amp;#382;ensk&amp;yacute;mi mot&amp;iacute;vmi boli na p&amp;uacute;t&amp;#769;ach &amp;#382;iadan&amp;yacute;mi suven&amp;iacute;rmi. Umiest&amp;ograve;ovali sa v domoch, v n&amp;aacute;bytku alebo v stajniach, aby chr&amp;aacute;nili &amp;#318;ud&amp;iacute; a zvierat&amp;aacute;. Veriaci si ich ukladali do modlitebn&amp;yacute;ch kni&amp;#382;iek a opatrovali ich ako poklad. Vznikom nov&amp;yacute;ch modern&amp;yacute;ch techn&amp;iacute;k tla&amp;egrave;e sa za&amp;egrave;ali masovo vyr&amp;aacute;ba&amp;#357;, &amp;egrave;&amp;iacute;m boli dostupnej&amp;scaron;ie - stali sa zberate&amp;#318;sk&amp;yacute;m predmetom. Svoje miesto si na&amp;scaron;li dokonca aj v &amp;scaron;katuliach, d&amp;oacute;zach a albumoch, kde na ne &amp;#318;udia &amp;egrave;asto zabudli, preto&amp;#382;e ich z piety nechceli vyhodi&amp;#357;. &lt;br /&gt;</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dcterms:isPartOf xml:lang="de">Schatzgeschichten aus dem Volkskundemuseum Wien</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Unbekannt_Hersteller/in">
+<skos:prefLabel>Unbekannt (Hersteller/in)</skos:prefLabel>
+<dc:date>20. Jh.</dc:date>
+<dcterms:isPartOf xml:lang="de">Schatzgeschichten aus dem Volkskundemuseum Wien</dcterms:isPartOf>
+<foaf:name xml:lang="de">Unbekannt</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.volkskundemuseum.at/onlinesammlungen/oemv83887">
+<edm:aggregatedCHO rdf:resource="&#xD6;MV/83.887"/>
+<edm:dataProvider>Österreichisches Museum für Volkskunde</edm:dataProvider>
+<edm:hasView rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/schatzgeschichten/schatzgeschichten_0_000_000_028.jpg"/>
+<edm:isShownAt rdf:resource="https://www.volkskundemuseum.at/onlinesammlungen/oemv83887"/>
+<edm:isShownBy rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/schatzgeschichten/schatzgeschichten_0_000_000_029.jpg"/>
+<edm:object rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/schatzgeschichten/schatzgeschichten_0_000_000_029.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

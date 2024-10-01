@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="o:26857">
+<dc:creator rdf:resource="#Rhomberg_Hersteller/in"/>
+<dc:creator rdf:resource="#VLB_Hersteller/in"/>
+<dc:description xml:lang="de">Arlberg, Erzberg, Stuben, Strasse, Gebirgsstrasse, Arlbergstrasse, Rauztobel, Rauz, Alpe Rauz, Ochsenbodenkopf, Flexenstrasse, Valfagehrtal, Ulmer-Hütte, Schindlerspitze, Pfannenkopf, Arlensattel, Galzig, Lechtaler Alpen, Arlbergpass, Landesgrenze Vorarlberg-Tirol, Gebirgsgrenze Verwallgruppe-Lechtaler Alpen, Verwallgruppe, Langer Boden, Wirt, Peischelkopf, Knödelkopf, Maroijöchl, Unteres Maroijoch, Stanzertal, Kleiner Riffler, Hoher Riffler, Blankahorn, Hochkarkopf, Hochkarspitze, Rendelscharte, Rendelspitzen, Riffelspitze, Kreuzjochspitze, Madaunspitze, Sessladspitze, Rugglespitze, Moostal, Sulzköpfe, Augstenbergler Kopf, Faselfadspitzen, Gletscher, Ferner, Faselfadferner</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>o:26857</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Foto: Sammlung Risch-Lau, Vorarlberger Landesbibliothek</dc:rights>
+<dc:rights xml:lang="de">CC BY 4.0</dc:rights>
+<dc:subject xml:lang="en">Photography</dc:subject>
+<dc:title xml:lang="de">Stuben am Arlberg / Ulmerhütte - Flexenstrasse - Arlbergpaß Alpe Rauz gegen Verwall</dc:title>
+<dc:type xml:lang="de">Foto</dc:type>
+<dc:type xml:lang="en">Photo</dc:type>
+<dcterms:isPartOf xml:lang="de">Fotosammlung Risch-Lau</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Zelluloid (Negativ) schwarz-weiß quer</dcterms:medium>
+<dcterms:medium xml:lang="de">Ansichtskarte schwarz-weiß quer</dcterms:medium>
+<edm:isRelatedTo xml:lang="de">Klösterle</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">postcard</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=188978564466">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=188978564466"/>
+<dc:description xml:lang="de">Arlberg, Erzberg, Stuben, Strasse, Gebirgsstrasse, Arlbergstrasse, Rauztobel, Rauz, Alpe Rauz, Ochsenbodenkopf, Flexenstrasse, Valfagehrtal, Ulmer-Hütte, Schindlerspitze, Pfannenkopf, Arlensattel, Galzig, Lechtaler Alpen, Arlbergpass, Landesgrenze Vorarlberg-Tirol, Gebirgsgrenze Verwallgruppe-Lechtaler Alpen, Verwallgruppe, Langer Boden, Wirt, Peischelkopf, Knödelkopf, Maroijöchl, Unteres Maroijoch, Stanzertal, Kleiner Riffler, Hoher Riffler, Blankahorn, Hochkarkopf, Hochkarspitze, Rendelscharte, Rendelspitzen, Riffelspitze, Kreuzjochspitze, Madaunspitze, Sessladspitze, Rugglespitze, Moostal, Sulzköpfe, Augstenbergler Kopf, Faselfadspitzen, Gletscher, Ferner, Faselfadferner</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Foto: Sammlung Risch-Lau, Vorarlberger Landesbibliothek</dc:rights>
+<dc:rights xml:lang="de">CC BY 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung Risch-Lau</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Rhomberg_Hersteller/in">
+<skos:prefLabel>Rhomberg (Hersteller/in)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Fotosammlung Risch-Lau</dcterms:isPartOf>
+<foaf:name xml:lang="de">Rhomberg</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#VLB_Hersteller/in">
+<skos:prefLabel>VLB (Hersteller/in)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Fotosammlung Risch-Lau</dcterms:isPartOf>
+<foaf:name xml:lang="de">VLB</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="http://pid.volare.vorarlberg.at/o:26857">
+<edm:aggregatedCHO rdf:resource="o:26857"/>
+<edm:dataProvider>Vorarlberger Landesbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://pid.volare.vorarlberg.at/o:26857"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/rest/export/1.0/proxy/vorarlberg/?id=o:26857"/>
+<edm:object rdf:resource="http://pid.volare.vorarlberg.at/o:26857/preview"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

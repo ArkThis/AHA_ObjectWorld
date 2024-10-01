@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:www.digital.wienbibliothek.at:2021803">
+<dc:contributor rdf:resource="#Sommer_Leopold_K&#xF6;rperschaft"/>
+<dc:date xml:lang="de">[s.a. 1848]</dc:date>
+<dc:description xml:lang="de">Flugblatt, undatiert, Arbeiteraufstand, Aushang: Wien, August 1848</dc:description>
+<dc:description xml:lang="de">Einblattdruck, einseitig bedr.</dc:description>
+<dc:description xml:lang="de">Zum Inhalt: Denkt einmal nach, warum ihr unzufrieden seid? - Weil der Arbeitslohn vermindert wird! Gewiß nicht! Es wird ja der Arbeitslohn nicht vermindert. Es wird nur der Tagelohn herabgesetzt für Solche, die nicht arbeiten wollen. - Wer arbeiten will, findet bei den Accordarbeiten oder auf dem Lande, findet an den Eisenbahnen und in den Fabriken Arbeit und Brot genug ... Ihr habt ein Recht auf Mißtrauen! Mißtrauet aber auf der rechten Seite, mißtrauet jener schlechten Presse, die in gleisnerischen Worten diejenigen in der öffentlichen Meinung verunglimpft, welche Geschäfte der Regierung führen ... Stoßt Diejenigen aus Eurer Mitte, die Euch abhalten von der Arbeit, die selbst nicht arbeiten, glaubt nicht, daß der Bürger, der Nationalgarde Euch feindlich sei, er ist nur feindlich der Unordnung, er will die Gesetzlichkeit, er will die Ordnung, ohne welche Ihr erbärmlich zu Grunde gehen müßt!</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>oai:www.digital.wienbibliothek.at:2021803</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Gedruckt bei Leopold Sommer (vormals Strauß)</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject rdf:resource="https://d-nb.info/gnd/4257801-2"/>
+<dc:subject rdf:resource="https://d-nb.info/gnd/4140772-6"/>
+<dc:subject rdf:resource="https://d-nb.info/gnd/4324096-3"/>
+<dc:title xml:lang="de">An die Arbeiter : Als Wien für die Freiheit gekämpft, als es gesiegt hat, waret Ihr dabei, Ihr hattet Euren Antheil an der Errungenschaft ...</dc:title>
+<dc:type xml:lang="de">Flugblatt</dc:type>
+<dc:type xml:lang="de">Einblattdruck</dc:type>
+<dcterms:created xml:lang="de">[s.a. 1848]</dcterms:created>
+<dcterms:extent xml:lang="de">[1] Bl. Satzspiegel: 49,3 x 36 cm Querformat </dcterms:extent>
+<dcterms:extent xml:lang="de"> </dcterms:extent>
+<dcterms:extent xml:lang="de"> </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stadtgeschichte und Ereignisse</dcterms:isPartOf>
+<dcterms:temporal>Geschichte 1848</dcterms:temporal>
+<edm:currentLocation xml:lang="de">[Wien]</edm:currentLocation>
+<edm:type>TEXT</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=545461701617">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=545461701617"/>
+<dc:description xml:lang="de">Flugblatt, undatiert, Arbeiteraufstand, Aushang: Wien, August 1848</dc:description>
+<dc:description xml:lang="de">Einblattdruck, einseitig bedr.</dc:description>
+<dc:description xml:lang="de">Zum Inhalt: Denkt einmal nach, warum ihr unzufrieden seid? - Weil der Arbeitslohn vermindert wird! Gewiß nicht! Es wird ja der Arbeitslohn nicht vermindert. Es wird nur der Tagelohn herabgesetzt für Solche, die nicht arbeiten wollen. - Wer arbeiten will, findet bei den Accordarbeiten oder auf dem Lande, findet an den Eisenbahnen und in den Fabriken Arbeit und Brot genug ... Ihr habt ein Recht auf Mißtrauen! Mißtrauet aber auf der rechten Seite, mißtrauet jener schlechten Presse, die in gleisnerischen Worten diejenigen in der öffentlichen Meinung verunglimpft, welche Geschäfte der Regierung führen ... Stoßt Diejenigen aus Eurer Mitte, die Euch abhalten von der Arbeit, die selbst nicht arbeiten, glaubt nicht, daß der Bürger, der Nationalgarde Euch feindlich sei, er ist nur feindlich der Unordnung, er will die Gesetzlichkeit, er will die Ordnung, ohne welche Ihr erbärmlich zu Grunde gehen müßt!</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:extent xml:lang="de">[1] Bl. Satzspiegel: 49,3 x 36 cm Querformat </dcterms:extent>
+<dcterms:extent xml:lang="de"> </dcterms:extent>
+<dcterms:extent xml:lang="de"> </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stadtgeschichte und Ereignisse</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Sommer_Leopold_K&#xF6;rperschaft">
+<skos:prefLabel>Sommer, Leopold (Körperschaft)</skos:prefLabel>
+<dc:date>[s.a. 1848]</dc:date>
+<dcterms:isPartOf xml:lang="de">Stadtgeschichte und Ereignisse</dcterms:isPartOf>
+<foaf:name xml:lang="de">Sommer, Leopold</foaf:name>
+<rdaGr2:professionOrOccupation>Körperschaft</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.digital.wienbibliothek.at/id/2021803">
+<edm:aggregatedCHO rdf:resource="oai:www.digital.wienbibliothek.at:2021803"/>
+<edm:dataProvider>Wienbibliothek im Rathaus</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.digital.wienbibliothek.at/id/2021803"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/rest/export/1.0/proxy/wienbib/?id=download/pdf/2021803"/>
+<edm:object rdf:resource="https://www.digital.wienbibliothek.at/download/webcache/304/2021804"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

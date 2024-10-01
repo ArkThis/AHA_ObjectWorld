@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="DG1926/879">
+<dc:coverage>Deutschland</dc:coverage>
+<dc:creator rdf:resource="#Meister_mit_den_Blumenrahmen_K&#xFC;nstler_in"/>
+<dc:creator rdf:resource="#Meister_E.S._Kopie_nach"/>
+<dc:date>zweites Drittel des 15. Jahrhunderts</dc:date>
+<dc:description xml:lang="de">Beschriftung: auf dem Bogen o. l. "12", o. r. "41." (beides in Blei)</dc:description>
+<dc:identifier>DG1926/879</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Gravur</dc:subject>
+<dc:subject xml:lang="en">engraving</dc:subject>
+<dc:title xml:lang="de">Ermutigung im Glauben (Ars moriendi II)</dc:title>
+<dc:type xml:lang="de">Druckgraphik</dc:type>
+<dcterms:created>zweites Drittel des 15. Jahrhunderts</dcterms:created>
+<dcterms:extent xml:lang="de">Darstellung: 9 x 6,9 cm Platte: 9,3 x 7,3 cm Blatt: 13,9 x 20,2 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Kupferstich</dcterms:medium>
+<dcterms:spatial xml:lang="de">Deutschland</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295444219">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295444219"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Meister_mit_den_Blumenrahmen_K&#xFC;nstler_in">
+<skos:prefLabel>Meister mit den Blumenrahmen (Künstler_in)</skos:prefLabel>
+<dc:date>zweites Drittel des 15. Jahrhunderts</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Meister mit den Blumenrahmen</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">tätig zwischen 1450-1470 am Niederrhein (?)</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Meister_E.S._Kopie_nach">
+<skos:prefLabel>Meister E.S. (Kopie nach)</skos:prefLabel>
+<dc:date>zweites Drittel des 15. Jahrhunderts</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Meister E.S.</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">tätig um 1450-1467/68 am Oberrhein</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Kopie nach</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG1926/879]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="DG1926/879"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG1926/879]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG1926_879.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG1926_879.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

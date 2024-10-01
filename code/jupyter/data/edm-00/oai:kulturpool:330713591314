@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-StiAZ/Urkunden/1325_III_31">
+<dc:date>1325-03-31</dc:date>
+<dc:description xml:lang="de">Jans van Chappell kauft von seinen Oheimen, den Brüdern Wulfing und Rapoto von Puchberg, alles Gut zu Hadersdorf in dem marcht pei dem Champ: um 20 Pfd. je Pfundgeld, das mit Holden bestiftet ist, und um 18 Pfd. je Pfundgeld auf Überländ; Zahlung: 40 Pfd. bis Georgi, der Rest bei Beschau und Bereitung; dabei sollen sein sein Oheim, Oertel von Winkel, und Wulfing der Strazzer noch vor Georgi; Endabrechnung zu Johannes Sonnwende; zahlt er nicht, hat er zwei Ritter und Knechte in ein Gotteshaus zu stellen, das von den Puchbergern benannt wird, und wo diese mit 4 Pferden dienen sollen, bis alles bezahlt ist; wenn sie vier Wochen abgeleistet haben, sollen die Puchberger bei Christen oder Juden ihr Gut bekommen. Zeugen: Albero von Kuenring, Albero van Rauhenstein, Pilgrim von Pucheim, Ortel von Winkel.</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-StiAZ/Urkunden/1325_III_31</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: Urkunden 1325 III 31</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1325-03-31</dcterms:created>
+<dcterms:extent>30,5x14 Plica</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">
+                    Stiftsarchiv Zwettl
+                </dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=330713591314">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=330713591314"/>
+<dc:description xml:lang="de">Jans van Chappell kauft von seinen Oheimen, den Brüdern Wulfing und Rapoto von Puchberg, alles Gut zu Hadersdorf in dem marcht pei dem Champ: um 20 Pfd. je Pfundgeld, das mit Holden bestiftet ist, und um 18 Pfd. je Pfundgeld auf Überländ; Zahlung: 40 Pfd. bis Georgi, der Rest bei Beschau und Bereitung; dabei sollen sein sein Oheim, Oertel von Winkel, und Wulfing der Strazzer noch vor Georgi; Endabrechnung zu Johannes Sonnwende; zahlt er nicht, hat er zwei Ritter und Knechte in ein Gotteshaus zu stellen, das von den Puchbergern benannt wird, und wo diese mit 4 Pferden dienen sollen, bis alles bezahlt ist; wenn sie vier Wochen abgeleistet haben, sollen die Puchberger bei Christen oder Juden ihr Gut bekommen. Zeugen: Albero von Kuenring, Albero van Rauhenstein, Pilgrim von Pucheim, Ortel von Winkel.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:extent>30,5x14 Plica</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">
+                    Stiftsarchiv Zwettl
+                </dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-StiAZ/Urkunden/1325_III_31/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-StiAZ/Urkunden/1325_III_31"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-StiAZ/Urkunden/1325_III_31/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/pics%2F166%2FK.._MOM-Bilddateien._~Zwettljpgweb._~1300-1399._~StAZ__13250331v.jpg/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/pics%2F166%2FK.._MOM-Bilddateien._~Zwettljpgweb._~1300-1399._~StAZ__13250331v.jpg/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

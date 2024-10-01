@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="UF-20537">
+<dc:description xml:lang="de">Mittellatènezeitliche Fibel</dc:description>
+<dc:identifier>UF-20537</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dc:subject xml:lang="de">Urgeschichte und Historische Archäologie</dc:subject>
+<dc:title xml:lang="de">Mittellatènezeitliche Fibel aus Bronze</dc:title>
+<dc:type xml:lang="de">Fibel</dc:type>
+<dcterms:extent xml:lang="de">6,6 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Urgeschichte und Historische Archäologie – Bronze</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Bronze</dcterms:medium>
+<dcterms:spatial xml:lang="de">Drösing</dcterms:spatial>
+<dcterms:temporal>Latène C</dcterms:temporal>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886523873">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886523873"/>
+<dc:description xml:lang="de">Mittellatènezeitliche Fibel</dc:description>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Urgeschichte und Historische Archäologie – Bronze</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.online.landessammlungen-noe.at/objects/196315/mittellatenezeitliche-fibel-aus-bronze">
+<edm:aggregatedCHO rdf:resource="UF-20537"/>
+<edm:dataProvider>Landessammlungen Niederösterreich</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.online.landessammlungen-noe.at/objects/196315/mittellatenezeitliche-fibel-aus-bronze"/>
+<edm:isShownBy rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/30647"/>
+<edm:object rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/30647"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

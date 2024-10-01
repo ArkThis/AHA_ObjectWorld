@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1298_VI_02">
+<dc:date>1298-06-02</dc:date>
+<dc:description xml:lang="de">Friedrich v. Leibnitz (Leybntz) bekennt, daß ihn Eb Konrad für die Schäden, die er an Pferden beim Zusammenstoß (conflictu) mit den Edlen v. Sanneck (Sevnek) und Freudenberg (Frevdenberch) erlitten hat, in folgender Weise befriedigt habe: F. sammelt die Früchte der eb. Zehenthöfe in Weiching (Weychingen) und Stögersdorf (Stegos-) in den Pfarren St. Lorenzen am Hengsberg (Hengesperge) und Moskirchen (-chir-) in Wein und Getreide (annona) pfandweise so lange, bis er für 74 Mark Silber entschädigt ist, auf die der Schaden geschätzt ist; 1 Vierling (virlingus) Weizen und Roggen = 20 Pfg., 1 V. Hafer = 10 Pfg.. 1 Irn (urna) Wein = 16 Pfg. Der Eb kann diese Verpfändung durch Barzahlung nach Abrechnung des bereits Bezogenen jederzeit widerrufen. Nach Abzahlung sind die Zehenthöfe unweigerlich freizugeben. Dat. in Leibntz a. d. 1298 4 non. iun. Or., S fehlt, in Wien.</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1298_VI_02</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: SbgE AUR 1298 VI 02</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1298-06-02</dcterms:created>
+<dcterms:isPartOf xml:lang="de">
+                    Ö Staatsarchiv (HHStA)
+                </dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=644246348085">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=644246348085"/>
+<dc:description xml:lang="de">Friedrich v. Leibnitz (Leybntz) bekennt, daß ihn Eb Konrad für die Schäden, die er an Pferden beim Zusammenstoß (conflictu) mit den Edlen v. Sanneck (Sevnek) und Freudenberg (Frevdenberch) erlitten hat, in folgender Weise befriedigt habe: F. sammelt die Früchte der eb. Zehenthöfe in Weiching (Weychingen) und Stögersdorf (Stegos-) in den Pfarren St. Lorenzen am Hengsberg (Hengesperge) und Moskirchen (-chir-) in Wein und Getreide (annona) pfandweise so lange, bis er für 74 Mark Silber entschädigt ist, auf die der Schaden geschätzt ist; 1 Vierling (virlingus) Weizen und Roggen = 20 Pfg., 1 V. Hafer = 10 Pfg.. 1 Irn (urna) Wein = 16 Pfg. Der Eb kann diese Verpfändung durch Barzahlung nach Abrechnung des bereits Bezogenen jederzeit widerrufen. Nach Abzahlung sind die Zehenthöfe unweigerlich freizugeben. Dat. in Leibntz a. d. 1298 4 non. iun. Or., S fehlt, in Wien.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">
+                    Ö Staatsarchiv (HHStA)
+                </dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-HHStA/SbgE/AUR_1298_VI_02/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1298_VI_02"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-HHStA/SbgE/AUR_1298_VI_02/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/pics%2FAT-OeStA-HHStA%2FAUR-Salzburg-Erzstift%2FHHSTA_Salzburg_1298_06_02.jpg/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/pics%2FAT-OeStA-HHStA%2FAUR-Salzburg-Erzstift%2FHHSTA_Salzburg_1298_06_02.jpg/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

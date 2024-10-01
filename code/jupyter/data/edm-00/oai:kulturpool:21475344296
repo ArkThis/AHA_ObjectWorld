@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="VF_163">
+<dc:creator rdf:resource="http://d-nb.info/116237651"/>
+<dc:date xml:lang="de">vor 1884</dc:date>
+<dc:identifier>VF_163</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="de">Kalmüken</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:title xml:lang="de">Davala, ein männlicher Kalmüke. Profilansicht</dc:title>
+<dc:type xml:lang="de">Abzug</dc:type>
+<dcterms:created xml:lang="de">vor 1884</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Fotosammlung</dcterms:isPartOf>
+<dcterms:spatial xml:lang="de">Westasien/Südwest-Rußland/Russland/Kalmükien</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#21475344296"/>
+<edm:isRelatedTo>Foto</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475344296">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475344296"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/116237651">
+<skos:prefLabel>Prinz Roland Napoléon Bonaparte (Zugeschrieben an)</skos:prefLabel>
+<dc:date>vor 1884</dc:date>
+<dc:identifier>http://d-nb.info/116237651</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Prinz Roland Napoléon Bonaparte</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1858 Paris - 1924 Paris</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Zugeschrieben an</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#21475344296">
+<skos:prefLabel>1864-1883</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Fotosammlung</dcterms:isPartOf>
+<edm:begin>1864</edm:begin>
+<edm:end>1883</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://www.weltmuseumwien.at/object/?detailID=397532/">
+<edm:aggregatedCHO rdf:resource="VF_163"/>
+<edm:dataProvider>Weltmuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.weltmuseumwien.at/object/?detailID=397532/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/397532/VF_163.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/397532/VF_163.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

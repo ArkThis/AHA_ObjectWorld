@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="HO2006/44">
+<dc:coverage>Deutschland</dc:coverage>
+<dc:creator rdf:resource="#Albrecht_D&#xFC;rer_Werkstatt"/>
+<dc:creator rdf:resource="#Hans_Springinklee_K&#xFC;nstler_in"/>
+<dc:creator rdf:resource="#Hieronymus_Andreae_Formschneider_in"/>
+<dc:identifier>HO2006/44</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">In Copyright (InC)</dc:rights>
+<dc:subject xml:lang="de">Holzstock</dc:subject>
+<dc:title xml:lang="de">Die "Ehrenpforte" Kaiser Maximilians I.; A4 - Rechter Fanfarenbläser</dc:title>
+<dcterms:extent xml:lang="de">10,2 x 20 x 2,3 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holzstock (Birne)</dcterms:medium>
+<dcterms:provenance xml:lang="de">Hofbibliothek</dcterms:provenance>
+<dcterms:spatial xml:lang="de">Deutschland</dcterms:spatial>
+<dcterms:temporal>1515</dcterms:temporal>
+<edm:isRelatedTo xml:lang="de">holzschnitt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">woodcut</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=64424872338">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=64424872338"/>
+<dc:rights xml:lang="de">In Copyright (InC)</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Albrecht_D&#xFC;rer_Werkstatt">
+<skos:prefLabel>Albrecht Dürer (Werkstatt)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Albrecht Dürer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Nürnberg 1471 - 1528 Nürnberg</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Werkstatt</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Hans_Springinklee_K&#xFC;nstler_in">
+<skos:prefLabel>Hans Springinklee (Künstler_in)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hans Springinklee</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Nürnberg 1490/95 - um 1540 Nürnberg</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Hieronymus_Andreae_Formschneider_in">
+<skos:prefLabel>Hieronymus Andreae (Formschneider_in)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hieronymus Andreae</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Deutschland, gestorben 1556</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Formschneider_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="http://sammlungenonline.albertina.at/?query=Inventarnummer=[HO2006/44]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="HO2006/44"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:hasView rdf:resource="http://62.221.199.184:15555/images/?cache=yes"/>
+<edm:isShownAt rdf:resource="http://sammlungenonline.albertina.at/?query=Inventarnummer=[HO2006/44]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/HO2006_44.jpg"/>
+<edm:object rdf:resource="http://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/HO2006_44.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

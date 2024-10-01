@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="Foto2005/45/124">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Rudolf_Lechner_(Wilhelm_M&#xFC;ller)_k.u.k._Hof-_und_Universit&#xE4;tsbuchhandlung_Wilhelm_M&#xFC;ller"/>
+<dc:creator rdf:resource="#Anonym_K&#xFC;nstler_in"/>
+<dc:date>24.6.1898</dc:date>
+<dc:description xml:lang="de">Beschriftung: recto: r.u. "24." (Beschriftung im Negativ); M.o. "B. F. K. Rives N°75*" (Prägung im Fotopapier); Untersatzkarton: recto: M.o. "Mit Lechner's WERNER-CAMERA aufgenommen."; l.u. "k. u. k. Hof- u. Univ.-Buchhandlung"; M.u. "R. LECHNER (WILH. MÜLLER) / 31 Graben / WIEN / Graben 31"; r.u. "k. u. k. Hof-Manufactur für Photographie" (Druck); verso: M.u. "N.F. 5002"; r.u. "24." (schwarze Tinte)</dc:description>
+<dc:identifier>Foto2005/45/124</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:title xml:lang="de">Der Kinderfestzug vor dem Kaiser</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>24.6.1898</dcterms:created>
+<dcterms:extent xml:lang="de">Fotopapier: 16 x 22,8 cm (6 5/16 x 9 in.) Karton: 18 x 24 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Glanzkollodium (?) auf Untersatzkarton</dcterms:medium>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296098283">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296098283"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Rudolf_Lechner_(Wilhelm_M&#xFC;ller)_k.u.k._Hof-_und_Universit&#xE4;tsbuchhandlung_Wilhelm_M&#xFC;ller">
+<skos:prefLabel>Rudolf Lechner (Wilhelm Müller), k.u.k. Hof- und Universitätsbuchhandlung (Wilhelm Müller)</skos:prefLabel>
+<dc:date>24.6.1898</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Rudolf Lechner (Wilhelm Müller), k.u.k. Hof- und Universitätsbuchhandlung</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Wilhelm Müller</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Anonym_K&#xFC;nstler_in">
+<skos:prefLabel>Anonym (Künstler_in)</skos:prefLabel>
+<dc:date>24.6.1898</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[Foto2005/45/124]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="Foto2005/45/124"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[Foto2005/45/124]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/Foto2005_45_124.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/Foto2005_45_124.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

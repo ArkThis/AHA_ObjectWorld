@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 4181-5">
+<dc:contributor rdf:resource="#Hagenauer_Johann_Baptist_Entwurf"/>
+<dc:contributor rdf:resource="#Eder_Joseph_Verleger"/>
+<dc:contributor rdf:resource="#Lechner_F."/>
+<dc:identifier>KI 4181-5</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Ein Kerzenhalter, Blatt 12 (fortlaufende Nummer 61) aus dem 7. Teil der Folge „Nouveaux Desseins de Differens Ornemens de Meuble Inventés et composés par Jean Baptiste Hagenauer etc.“, herausgegeben von J. Eder (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="de">Nouveaux Desseins de Differens Ornemens de Meuble Inventés et composés par Jean Baptiste Hagenauer etc. (Folgentitel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4172844-0"/>
+<dcterms:extent>Höhe (Blattmaß): 18.5 cm</dcterms:extent>
+<dcterms:extent>Breite (Blattmaß): 14.8 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ornamental prints (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Radierung</dcterms:medium>
+<dcterms:medium xml:lang="en">etching</dcterms:medium>
+<dcterms:provenance xml:lang="de">Alter Bestand (1885)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">old holding (1885)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#120260089036"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260089036">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260089036"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ornamental prints (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Hagenauer_Johann_Baptist_Entwurf">
+<skos:prefLabel xml:lang="de">Hagenauer, Johann Baptist (Entwurf) (Wien, 1701-1800)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hagenauer, Johann Baptist</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ornamental prints (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Sammlung)</dcterms:isPartOf>
+<edm:begin>1701</edm:begin>
+<edm:end>1800</edm:end>
+<foaf:name xml:lang="de">Hagenauer, Johann Baptist</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1701-1800</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1701-1800</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Eder_Joseph_Verleger">
+<skos:prefLabel xml:lang="de">Eder, Joseph (Verleger) (Wien, 1701-1800)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Eder, Joseph</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ornamental prints (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Sammlung)</dcterms:isPartOf>
+<edm:begin>1701</edm:begin>
+<edm:end>1800</edm:end>
+<foaf:name xml:lang="de">Eder, Joseph</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1701-1800</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1701-1800</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Verleger</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Lechner_F.">
+<skos:prefLabel xml:lang="de">Lechner, F.</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lechner, F.</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ornamental prints (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Sammlung)</dcterms:isPartOf>
+<edm:begin>1701</edm:begin>
+<edm:end>1800</edm:end>
+<foaf:name xml:lang="de">Lechner, F.</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1701-1800</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1701-1800</rdaGr2:biographicalInformation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260089036">
+<skos:prefLabel>1701-1800</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ornamental prints (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Sammlung)</dcterms:isPartOf>
+<edm:begin>1701</edm:begin>
+<edm:end>1800</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-216995">
+<edm:aggregatedCHO rdf:resource="KI 4181-5"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-216995"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-4181-5_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-4181-5_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

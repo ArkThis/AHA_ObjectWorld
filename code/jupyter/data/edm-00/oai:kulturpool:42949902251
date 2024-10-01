@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="Sign.: 12.262k">
+<dc:contributor>NÖLB</dc:contributor>
+<dc:creator xml:lang="de">Dipl. Architekt Wilhelm Hubatsch</dc:creator>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>Sign.: 12.262k</dc:identifier>
+<dc:language>de</dc:language>
+<dc:title xml:lang="de">Plan für ein Wohnhaus in Wr. Neustadt Wöllersdorferstrasse der Gemeinnützigen Allgemeinen Bau- Wohn- und Siedlungsgenossenschaft in Wien V. Margaretengürtel 38-40</dc:title>
+<dc:type xml:lang="de">Kopie eines Lichtbilds nach Zeichnung</dc:type>
+<dcterms:alternative>Wr. Neustadt - Volkswohnungsanlage Pernerstorferstraße 11 u. 11a (Wöllersdorfer Straße); Parterregrundriss Block A (Nr. 11) (Originalmaßstab 1:100); 1938.</dcterms:alternative>
+<dcterms:extent xml:lang="de">105 x 199 mm (Blatt 109 x 204 mm)</dcterms:extent>
+<dcterms:isPartOf>Topographische Sammlung</dcterms:isPartOf>
+<dcterms:issued>1996</dcterms:issued>
+<edm:isRelatedTo>g.Pernerstorferstraße 11-11a &lt;Wiener Neustadt&gt;;z.Geschichte 1938;f.Plan</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=42949902251">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=42949902251"/>
+<dc:format>image/jpeg</dc:format>
+<dcterms:isPartOf>Topographische Sammlung</dcterms:isPartOf>
+<dcterms:issued>1996</dcterms:issued>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://bibliothekskatalog.noel.gv.at/PSI/redirect.psi&amp;f_search=&amp;sessid=---&amp;strsearch=IDN=403339&amp;pool=GLBN&amp;file=TIT&amp;">
+<edm:aggregatedCHO rdf:resource="Sign.: 12.262k"/>
+<edm:dataProvider>Niederösterreichische Landesbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://bibliothekskatalog.noel.gv.at/PSI/redirect.psi&amp;f_search=&amp;sessid=---&amp;strsearch=IDN=403339&amp;pool=GLBN&amp;file=TIT&amp;"/>
+<edm:isShownBy rdf:resource="https://bibliothekskatalog.noel.gv.at/!TOPO!WB/MAG_Wiener_Neustadt/6/12262k.jpg"/>
+<edm:object rdf:resource="https://bibliothekskatalog.noel.gv.at/!TOPO!WB/MAG_Wiener_Neustadt/6/12262k.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

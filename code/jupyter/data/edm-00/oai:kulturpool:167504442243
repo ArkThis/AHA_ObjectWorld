@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:baa.onb.at:15471478">
+<dc:creator xml:lang="de">K.u.k. Kriegspressequartier, Lichtbildstelle - Wien</dc:creator>
+<dc:date>1915-12-14</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>oai:baa.onb.at:15471478</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+<dc:subject xml:lang="de">10. Armee-Kommando</dc:subject>
+<dc:subject xml:lang="de">Erster Weltkrieg</dc:subject>
+<dc:subject xml:lang="de">Europeana Collections 1914 - 1918</dc:subject>
+<dc:subject xml:lang="de">Gebirgskrieg</dc:subject>
+<dc:subject xml:lang="de">Isonzofront</dc:subject>
+<dc:subject xml:lang="de">Schützengraben und Stellungen</dc:subject>
+<dc:subject xml:lang="en">First World War</dc:subject>
+<dc:subject xml:lang="en">Isonzo front</dc:subject>
+<dc:subject xml:lang="en">Trench</dc:subject>
+<dc:subject xml:lang="en">War in the mountains</dc:subject>
+<dc:title xml:lang="de">Kleiner Pal. Gipfel mit unseren Stellungen. </dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>1915-12-14</dcterms:created>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=167504442243">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=167504442243"/>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=15471478">
+<edm:aggregatedCHO rdf:resource="oai:baa.onb.at:15471478"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=15471478"/>
+<edm:isShownBy rdf:resource="http://www.bildarchivaustria.at/Preview/15471478.jpg"/>
+<edm:object rdf:resource="http://www.bildarchivaustria.at/Preview/15471478.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

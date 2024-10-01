@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KS-28116">
+<dc:contributor rdf:resource="#Hermann_Josef_Painitz_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">1996</dc:date>
+<dc:description xml:lang="de">Beschriftung: VS unten bet., sign., dat.: "INNER- UND AUSSER Ö, Painitz 96"</dc:description>
+<dc:identifier>KS-28116</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dc:subject xml:lang="de">Kunst</dc:subject>
+<dc:title xml:lang="de">Inner- und Ausser Ö</dc:title>
+<dcterms:created xml:lang="de">1996</dcterms:created>
+<dcterms:extent xml:lang="de">100 × 70 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Kunst – Malerei</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Mischtechnik auf Papier</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886539747">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886539747"/>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Kunst – Malerei</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Hermann_Josef_Painitz_K&#xFC;nstler/in">
+<skos:prefLabel>Hermann Josef Painitz (Künstler/in)</skos:prefLabel>
+<dc:date>1996</dc:date>
+<dcterms:isPartOf xml:lang="de">Kunst – Malerei</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hermann Josef Painitz</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.online.landessammlungen-noe.at/objects/1312919/inner-und-ausser-o">
+<edm:aggregatedCHO rdf:resource="KS-28116"/>
+<edm:dataProvider>Landessammlungen Niederösterreich</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.online.landessammlungen-noe.at/objects/1312919/inner-und-ausser-o"/>
+<edm:isShownBy rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/242166"/>
+<edm:object rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/242166"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

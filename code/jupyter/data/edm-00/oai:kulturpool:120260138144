@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 8971-2452">
+<dc:contributor rdf:resource="#Danhauser_Joseph_Ulrich_Entwurf"/>
+<dc:contributor rdf:resource="#Danhauser's_k.k._priv._M&#xF6;bel_Fabrik_Beteiligte_K&#xF6;rperschaft"/>
+<dc:description xml:lang="de">Ausgeschnittene Möbelzeichnung mit Entwurf für einen Pfeifenständer</dc:description>
+<dc:identifier>KI 8971-2452</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Ausgeschnittene Möbelzeichnung mit Entwurf für einen Pfeifenständer (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="en">Design for a pipe rack (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300069413"/>
+<dcterms:extent>Höhe: 12.5 cm</dcterms:extent>
+<dcterms:extent>Breite: 6.8 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Möbelfabrik Danhauser (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Danhauser collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Bleistift</dcterms:medium>
+<dcterms:medium xml:lang="en">graphite pencil</dcterms:medium>
+<dcterms:medium xml:lang="de">aquarelliert</dcterms:medium>
+<dcterms:medium xml:lang="en">aquarelle</dcterms:medium>
+<dcterms:medium xml:lang="de">Federzeichnung</dcterms:medium>
+<dcterms:medium xml:lang="en">pen and ink drawing</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1931)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1931)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#120260138144"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260138144">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260138144"/>
+<dc:description xml:lang="de">Ausgeschnittene Möbelzeichnung mit Entwurf für einen Pfeifenständer</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Möbelfabrik Danhauser (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Danhauser collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Danhauser_Joseph_Ulrich_Entwurf">
+<skos:prefLabel xml:lang="de">Danhauser, Joseph Ulrich (Entwurf) (Wien, 1814-1829)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Danhauser, Joseph Ulrich</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Möbelfabrik Danhauser (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Danhauser collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1814</edm:begin>
+<edm:end>1829</edm:end>
+<foaf:name xml:lang="de">Danhauser, Joseph Ulrich</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1814-1829</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1814-1829</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Danhauser's_k.k._priv._M&#xF6;bel_Fabrik_Beteiligte_K&#xF6;rperschaft">
+<skos:prefLabel xml:lang="de">Danhauser's k.k. priv. Möbel Fabrik (Beteiligte Körperschaft) (Wien, 1814-1829)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Danhauser's k.k. priv. Möbel Fabrik</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Möbelfabrik Danhauser (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Danhauser collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1814</edm:begin>
+<edm:end>1829</edm:end>
+<foaf:name xml:lang="de">Danhauser's k.k. priv. Möbel Fabrik</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1814-1829</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1814-1829</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Beteiligte Körperschaft</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260138144">
+<skos:prefLabel>1814-1829</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Möbelfabrik Danhauser (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Danhauser collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handzeichnungen (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">drawings collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">Drawings (Collection) JP (Sammlung)</dcterms:isPartOf>
+<edm:begin>1814</edm:begin>
+<edm:end>1829</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-130024">
+<edm:aggregatedCHO rdf:resource="KI 8971-2452"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-130024"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-8971-2452_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-8971-2452_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

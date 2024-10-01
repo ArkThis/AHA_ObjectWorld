@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 7623-9">
+<dc:contributor rdf:resource="#Katsushika_Hokusai_&#x845B;&#x98FE;&#x5317;&#x9F4B;_Entwurf"/>
+<dc:contributor rdf:resource="#Katsushika_&#x845B;&#x98FE;&#x6D3E;_(Schule)_Schule"/>
+<dc:contributor rdf:resource="#Hidari_Katame_&#x5DE6;&#x7247;&#x773C;_Ausf&#xFC;hrung"/>
+<dc:description xml:lang="de">Hokusai aratame Iitsuhitsu 北齋改爲一筆 Das Bild zeigt Shin'nō 神農. Er wird meist - wie auch auf diesem Bild - mit zwei kleinen Hörnern, einem Bart und einem Umhang aus Blättern dargestellt. Im Mund hat er meist ein paar Grashalme. Nach der chinesischen Legende war er ein Kaiser mit einem menschlichen Körper und dem Kopf eines Ochsen. Er sammelte hundert verschiedene Kräuter und entdeckte ihre Heilkräfte. Außerdem lehrte er den Ackerbau. In der Edo-Zeit wurde er von den Medizinern und von den Apothekern am Tag der Wintersonnenwende beim Shin'nō-Fest 神農祭 verehrt. Die im Bild dargestellte Figur ist eine Mischung aus diesem Shin'nō und Sukunabiko Nanokami 少彦名神・少名毘古那神, dem japanischen Gott der Medizin.</dc:description>
+<dc:identifier>KI 7623-9</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Shin'nō (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="en">Shin'nō (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="ja">神農 (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4245946-1"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300041412"/>
+<dcterms:extent>Höhe: 21.1 cm</dcterms:extent>
+<dcterms:extent>Breite: 18.3 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1905)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1905)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4028495-5"/>
+<dcterms:temporal rdf:resource="temporal#107375064032"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375064032">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375064032"/>
+<dc:description xml:lang="de">Hokusai aratame Iitsuhitsu 北齋改爲一筆 Das Bild zeigt Shin'nō 神農. Er wird meist - wie auch auf diesem Bild - mit zwei kleinen Hörnern, einem Bart und einem Umhang aus Blättern dargestellt. Im Mund hat er meist ein paar Grashalme. Nach der chinesischen Legende war er ein Kaiser mit einem menschlichen Körper und dem Kopf eines Ochsen. Er sammelte hundert verschiedene Kräuter und entdeckte ihre Heilkräfte. Außerdem lehrte er den Ackerbau. In der Edo-Zeit wurde er von den Medizinern und von den Apothekern am Tag der Wintersonnenwende beim Shin'nō-Fest 神農祭 verehrt. Die im Bild dargestellte Figur ist eine Mischung aus diesem Shin'nō und Sukunabiko Nanokami 少彦名神・少名毘古那神, dem japanischen Gott der Medizin.</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Katsushika_Hokusai_&#x845B;&#x98FE;&#x5317;&#x9F4B;_Entwurf">
+<skos:prefLabel xml:lang="de">Katsushika Hokusai 葛飾北齋 (Entwurf) (Japan, 1820-1830)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Katsushika Hokusai 葛飾北齋</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1820</edm:begin>
+<edm:end>1830</edm:end>
+<foaf:name xml:lang="de">Katsushika Hokusai 葛飾北齋</foaf:name>
+<foaf:name xml:lang="en">Katsushika Hokusai 葛飾北齋</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1820-1830</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1820-1830</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Katsushika_&#x845B;&#x98FE;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Katsushika 葛飾派 (Schule) (Schule) (Japan, 1820-1830)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Katsushika 葛飾派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1820</edm:begin>
+<edm:end>1830</edm:end>
+<foaf:name xml:lang="de">Katsushika 葛飾派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Katsushika 葛飾派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1820-1830</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1820-1830</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Hidari_Katame_&#x5DE6;&#x7247;&#x773C;_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Hidari Katame 左片眼 (Ausführung) (Japan, 1820-1830)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hidari Katame 左片眼</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1820</edm:begin>
+<edm:end>1830</edm:end>
+<foaf:name xml:lang="de">Hidari Katame 左片眼</foaf:name>
+<foaf:name xml:lang="en">Hidari Katame 左片眼</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, 1820-1830</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, 1820-1830</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375064032">
+<skos:prefLabel>1820-1830</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1820</edm:begin>
+<edm:end>1830</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-194594">
+<edm:aggregatedCHO rdf:resource="KI 7623-9"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-194594"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-7623-9_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-7623-9_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

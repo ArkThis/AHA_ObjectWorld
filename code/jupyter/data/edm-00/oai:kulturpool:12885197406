@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="002974">
+<dc:coverage>1400-1410</dc:coverage>
+<dc:date>1400-1410</dc:date>
+<dc:description xml:lang="de">Wandmalerei-Zyklus/sakral</dc:description>
+<dc:identifier>002974</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Belagerung von Köln durch die Hunnen</dc:subject>
+<dc:title xml:lang="de">Belagerung von Köln durch die Hunnen</dc:title>
+<dc:title xml:lang="en">Siege of Köln by the Huns</dc:title>
+<dcterms:created>1400-1410</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Freskomalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">fresco painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Morter</dcterms:spatial>
+<edm:currentLocation xml:lang="de">St. Stephan in Obermontani - Morter - Südtirol - Italien</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Zeigegestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">sitzend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gürtel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Eisenschuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wappenrock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hüftgürtel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krone</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wehrgehenk</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Harnischhandschuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Brustharnisch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Armzeug</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Harnischkragen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hentze</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beinzeug</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Helmbrünne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kronwulst</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tonnenrock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kniekachel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schaller</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Helm</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Obergewand</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fürst</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gerüsteter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hunne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Armbrustschütze</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Spieß</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zepter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Armbrust</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gürteltasche</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stangenwaffe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Spannhaken</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fahne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stadtmauer</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schwert</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Helmbarte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schild</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Giebelknauf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wappen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Giebelfahne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Lanze</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zelt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Eidechse</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Muster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Mondsichel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Köln</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">crossbowman</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">prince</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885197406">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885197406"/>
+<dc:description xml:lang="de">Wandmalerei-Zyklus/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=002974">
+<edm:aggregatedCHO rdf:resource="002974"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=002974"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7004546"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7004546"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

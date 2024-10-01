@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="hdl:11471/515.10.2056">
+<dc:contributor xml:lang="en">Institute of Slavonic Studies, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Institut für Slawistik, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:contributor xml:lang="en">Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:date>1915-1916</dc:date>
+<dc:identifier>hdl:11471/515.10.2056</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dc:subject xml:lang="en">Settlement Patterns</dc:subject>
+<dc:subject xml:lang="en">Settlements</dc:subject>
+<dc:title xml:lang="de">Luttenberg. Ljutomer.</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300026816"/>
+<dc:type xml:lang="de">Postkarte</dc:type>
+<dcterms:created>1915-1916</dcterms:created>
+<dcterms:isPartOf xml:lang="de">POLOS</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">POLOS</dcterms:isPartOf>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+<owl:sameAs rdf:resource="http://gams.uni-graz.at/o:polos.2056">http://gams.uni-graz.at/o:polos.2056</owl:sameAs>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279173355643">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279173355643"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dcterms:isPartOf xml:lang="de">POLOS</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">POLOS</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:WebResource rdf:about="https://gams.uni-graz.at/iiif/o:polos.2056%2FVERSO/full/full/0/default.jpg">
+<svcs:has_service rdf:resource="https://gams.uni-graz.at/iiif/o:polos.2056%2FVERSO"/>
+</edm:WebResource>
+<svcs:Service rdf:about="https://gams.uni-graz.at/iiif/o:polos.2056%2FVERSO">
+<dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/>
+<doap:implements rdf:resource="http://iiif.io/api/image/2/level2.json"/>
+</svcs:Service>
+<ore:Aggregation rdf:about="http://gams.uni-graz.at/o:polos.2056">
+<edm:aggregatedCHO rdf:resource="hdl:11471/515.10.2056"/>
+<edm:dataProvider>Karl-Franzens-Universität Graz</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://gams.uni-graz.at/o:polos.2056"/>
+<edm:isShownBy rdf:resource="https://gams.uni-graz.at/iiif/o:polos.2056%2FVERSO/full/full/0/default.jpg"/>
+<edm:object rdf:resource="https://gams.uni-graz.at/iiif/o:polos.2056%2FVERSO/full/400%2C/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="59146/3">
+<dc:creator rdf:resource="#Alois_Hans_Schram_K&#xFC;nstler"/>
+<dc:creator rdf:resource="#Rudolf_R&#xF6;ssler_K&#xFC;nstler"/>
+<dc:creator rdf:resource="#Rudolf_Junk_K&#xFC;nstler"/>
+<dc:creator rdf:resource="#&#xD6;sterreichisch-ungarische_Bank_Pr&#xE4;geautorit&#xE4;t"/>
+<dc:date xml:lang="de">1916</dc:date>
+<dc:date xml:lang="de">1920</dc:date>
+<dc:identifier>59146/3</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dc:subject xml:lang="de">Erste Republik</dc:subject>
+<dc:subject xml:lang="de">Finanzen und Geldwesen</dc:subject>
+<dc:type xml:lang="de">Papiergeld</dc:type>
+<dc:title xml:lang="de">Banknote, 1 Krone</dc:title>
+<dc:type rdf:resource="https://iconclass.org/44A1"/>
+<dc:type xml:lang="de">Frau</dc:type>
+<dc:type rdf:resource="https://iconclass.org/46B312"/>
+<dc:type rdf:resource="https://iconclass.org/46B31"/>
+<dcterms:created xml:lang="de">1916</dcterms:created>
+<dcterms:created xml:lang="de">1920</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520021920">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520021920"/>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Alois_Hans_Schram_K&#xFC;nstler">
+<skos:prefLabel>Alois Hans Schram (Künstler)</skos:prefLabel>
+<dc:date>1916</dc:date>
+<dc:date>1920</dc:date>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Alois Hans Schram</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Rudolf_R&#xF6;ssler_K&#xFC;nstler">
+<skos:prefLabel>Rudolf Rössler (Künstler)</skos:prefLabel>
+<dc:date>1916</dc:date>
+<dc:date>1920</dc:date>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Rudolf Rössler</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Rudolf_Junk_K&#xFC;nstler">
+<skos:prefLabel>Rudolf Junk (Künstler)</skos:prefLabel>
+<dc:date>1916</dc:date>
+<dc:date>1920</dc:date>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Rudolf Junk</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#&#xD6;sterreichisch-ungarische_Bank_Pr&#xE4;geautorit&#xE4;t">
+<skos:prefLabel>Österreichisch-ungarische Bank (Prägeautorität)</skos:prefLabel>
+<dc:date>1916</dc:date>
+<dc:date>1920</dc:date>
+<dcterms:isPartOf xml:lang="de">Numismatik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Österreichisch-ungarische Bank</foaf:name>
+<rdaGr2:professionOrOccupation>Prägeautorität</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.wienmuseum.at/objekt/141576">
+<edm:aggregatedCHO rdf:resource="59146/3"/>
+<edm:dataProvider>Wien Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.wienmuseum.at/objekt/141576"/>
+<edm:isShownBy rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=141576/750448_default.jpg"/>
+<edm:object rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=141576/750448_preview.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

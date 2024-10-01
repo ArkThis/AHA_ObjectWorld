@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="Sign.: 14.218a">
+<dc:contributor>NÖLB</dc:contributor>
+<dc:creator xml:lang="de">Georg Binder, Wien, 1912-15 ?</dc:creator>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>Sign.: 14.218a</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>s. n.</dc:publisher>
+<dc:title xml:lang="de">Emmerberg</dc:title>
+<dc:type xml:lang="de">Foto</dc:type>
+<dcterms:alternative>Ruine, Reste der Hochburg.</dcterms:alternative>
+<dcterms:extent xml:lang="de">135 x 89 mm</dcterms:extent>
+<dcterms:isPartOf>Topographische Sammlung</dcterms:isPartOf>
+<dcterms:issued>ca. 1915</dcterms:issued>
+<edm:isRelatedTo>g.Burgruine Emmerberg &lt;Winzendorf-Muthmannsdorf&gt;;z.Geschichte 1915;f.Bildliche Darstellung</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=42949891057">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=42949891057"/>
+<dc:format>image/jpeg</dc:format>
+<dcterms:isPartOf>Topographische Sammlung</dcterms:isPartOf>
+<dcterms:issued>ca. 1915</dcterms:issued>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://bibliothekskatalog.noel.gv.at/PSI/redirect.psi&amp;f_search=&amp;sessid=---&amp;strsearch=IDN=397034&amp;pool=GLBN&amp;file=TIT&amp;">
+<edm:aggregatedCHO rdf:resource="Sign.: 14.218a"/>
+<edm:dataProvider>Niederösterreichische Landesbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://bibliothekskatalog.noel.gv.at/PSI/redirect.psi&amp;f_search=&amp;sessid=---&amp;strsearch=IDN=397034&amp;pool=GLBN&amp;file=TIT&amp;"/>
+<edm:isShownBy rdf:resource="https://bibliothekskatalog.noel.gv.at/!TOPO!WB/GB_Wiener_Neustadt/Winzendorf-Muthmannsdorf/1_Emmerberg/14218a.jpg"/>
+<edm:object rdf:resource="https://bibliothekskatalog.noel.gv.at/!TOPO!WB/GB_Wiener_Neustadt/Winzendorf-Muthmannsdorf/1_Emmerberg/14218a.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

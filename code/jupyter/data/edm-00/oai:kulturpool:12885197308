@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="002933">
+<dc:coverage>1400-1420</dc:coverage>
+<dc:date>1400-1420</dc:date>
+<dc:description xml:lang="de">Außenfresko/sakral</dc:description>
+<dc:identifier>002933</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Kreuzigung Christi</dc:subject>
+<dc:title xml:lang="de">Kreuzigung Christi</dc:title>
+<dc:title xml:lang="en">Crucifixion of Christ</dc:title>
+<dcterms:created>1400-1420</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Freskomalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">fresco painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Laatsch</dcterms:spatial>
+<edm:currentLocation xml:lang="de">St. Leonhard - Laatsch - Südtirol - Italien</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">kniend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">auffangend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">betend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Trauergestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Borte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Ärmelschlitz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Heuke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Lendentuch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schleier</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Innenfutter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tunika</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dornenkrone</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kutte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Mantel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Leonhard</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Maria</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Christus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Johannes Evangelist</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Abt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stifter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gekreuzigter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Apostel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Nagel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kelch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Inschrift</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Spruchband</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Abtstab</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuzestitulus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">abbot</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">crucified</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">apostle</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885197308">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885197308"/>
+<dc:description xml:lang="de">Außenfresko/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=002933">
+<edm:aggregatedCHO rdf:resource="002933"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=002933"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7004503"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7004503"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

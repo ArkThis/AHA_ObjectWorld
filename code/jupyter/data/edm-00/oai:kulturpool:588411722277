@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="SE539">
+<dc:description xml:lang="de">Negativform Detail Volutenherz und Blattwerk. Das Objekt setzt sich aus 2 Elementen zusammen: Das Untere besteht aus einem Herz, welches an den unteren Ende nach oben zeigende Voluten und am oberen Ende nach unten zeigende Voluten aufweist. In der Mitte des Herzens verläuft eine gerade Linie. Aus dem Herzen erwächst eine Blume mit jeweils einem Akanthusblatt links und rechts und einer krönenden Blüte.</dc:description>
+<dc:identifier>SE539</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell - freie Weiternutzung</dc:rights>
+<dc:rights xml:lang="de">Holder of image: Museumsmanagement Niederösterreich, Foto: Elena Krizmanics</dc:rights>
+<dc:subject xml:lang="de">Arbeit/Gewerbe/Handwerk/Handel/Industrie</dc:subject>
+<dc:subject xml:lang="de">Kachelöfen/Kachelofenteile</dc:subject>
+<dc:title xml:lang="de">Negativform Detail Volutenherz und Blattwerk</dc:title>
+<dc:type xml:lang="de">Museumsobjekt</dc:type>
+<dcterms:extent xml:lang="de">B x H x T: 13cm x 19.5cm x 4.4cm , Durchmesser: 0cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Schaubetrieb Ofenkachelmanufaktur Erndt</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Negativformen"</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Gips</dcterms:medium>
+<dcterms:temporal>20. Jahrhundert</dcterms:temporal>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411722277">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411722277"/>
+<dc:description xml:lang="de">Negativform Detail Volutenherz und Blattwerk. Das Objekt setzt sich aus 2 Elementen zusammen: Das Untere besteht aus einem Herz, welches an den unteren Ende nach oben zeigende Voluten und am oberen Ende nach unten zeigende Voluten aufweist. In der Mitte des Herzens verläuft eine gerade Linie. Aus dem Herzen erwächst eine Blume mit jeweils einem Akanthusblatt links und rechts und einer krönenden Blüte.</dc:description>
+<dc:rights xml:lang="de">CC0 1.0 Universell - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Schaubetrieb Ofenkachelmanufaktur Erndt</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Negativformen"</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.noemuseen.at/objekt-detail/catalog/negativform-detail-volutenherz-und-blattwerk-10878/">
+<edm:aggregatedCHO rdf:resource="SE539"/>
+<edm:dataProvider>Schaubetrieb Ofenkachelmanufaktur Erndt</edm:dataProvider>
+<edm:intermediateProvider>Museumsmanagement Niederösterreich – Stadt-, Stifts- und Regionalmuseen</edm:intermediateProvider>
+<edm:hasView rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/1266/01-Grundinventar.dip/_thumbnails/SE539_002_jpg_sr_1280x1280.jpg"/>
+<edm:isShownAt rdf:resource="https://www.noemuseen.at/objekt-detail/catalog/negativform-detail-volutenherz-und-blattwerk-10878/"/>
+<edm:isShownBy rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/1266/01-Grundinventar.dip/_thumbnails/SE539_001_jpg_sr_1280x1280.jpg"/>
+<edm:object rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/1266/01-Grundinventar.dip/_thumbnails/SE539_001_jpg_sr_1280x1280.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="VO_120121_ab">
+<dc:date xml:lang="de">vor 1925</dc:date>
+<dc:date xml:lang="en">before 1925</dc:date>
+<dc:description xml:lang="de">Im 21. Jahrhundert trägt ein Sufi durchaus Alltagskleidung und unterscheidet sich in seinem Äußeren nicht von seiner Umgebung. Einst zog sich jemand, der das entsagungsvolle Leben eines Mystikers führen wollte, ein Gewand aus grober Wolle über und wurde als Sufi, abgeleitet vom arabischen Wort für Wolle, ṣūf, bezeichnet. Die Aufnahme in eine Bruderschaft erfolgte über eine besondere Zeremonie, an deren Ende der Novize mit dem Derwischgewand, hirqa, eingekleidet wurde und das sich in Farbe und Aufmachung von Bruderschaft zu Bruderschaft unterschied. Oft war es ausschließlich aus unzähligen Flicken zusammengenäht. Und es heißt auch, dass derartige Flickengewänder bevorzugt aus Fetzen, die sich Sufis in Ekstase aus den Gewändern gerissen hatten, genäht wurden. Die Lumpengewänder der Sufis drücken Armut aus. Irgendwie erinnern sie aber auch an das bunte Kostüm des Harlekins mit seinen bunten Rautenstreifen. Es scheint, als wäre der umherwandernde Narr Gottes in der Commedia dell’arte in die Rolle des halb clownesken, halb dämonischen Schelmen geschlüpft, um weiterhin, Spott und Verachtung auf sich ziehend, die Strukturen und Mechanismen der Gesellschaft zu entlarven. Spiritualität und Humor schließen sich wechselseitig nicht aus. Beide lassen sich als wirkungsvoller Versuch verstehen, die komplexen und paradoxen Situationen, von denen das wirkliche Leben so voll ist, aufzuzeigen. </dc:description>
+<dc:identifier>VO_120121_ab</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="de">Irak</dc:subject>
+<dc:subject xml:lang="en">Iraq</dc:subject>
+<dc:title xml:lang="de">Flickengewand eines Derwischs mit Mütze</dc:title>
+<dc:title xml:lang="en">Rag costume of a dervish with cap</dc:title>
+<dc:type xml:lang="de">Flickengewand eines Derwischs mit Mütze</dc:type>
+<dc:type xml:lang="en">Rag costume of a dervish with cap</dc:type>
+<dcterms:created xml:lang="de">vor 1925</dcterms:created>
+<dcterms:created xml:lang="en">before 1925</dcterms:created>
+<dcterms:extent xml:lang="de">Kleid: a) H. 127 cm x B. (Spannweite) 140,5 cm&amp;#x0D;
+Kappe: b) H. 16,</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Nordafrika, Vorder- und Zentralasien, Sibirien</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Baumwolle</dcterms:medium>
+<dcterms:medium xml:lang="en">Cotton</dcterms:medium>
+<dcterms:spatial xml:lang="de">Westasien/Vorderer Orient/Irak</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#21475353454"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475353454">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=21475353454"/>
+<dc:description xml:lang="de">Im 21. Jahrhundert trägt ein Sufi durchaus Alltagskleidung und unterscheidet sich in seinem Äußeren nicht von seiner Umgebung. Einst zog sich jemand, der das entsagungsvolle Leben eines Mystikers führen wollte, ein Gewand aus grober Wolle über und wurde als Sufi, abgeleitet vom arabischen Wort für Wolle, ṣūf, bezeichnet. Die Aufnahme in eine Bruderschaft erfolgte über eine besondere Zeremonie, an deren Ende der Novize mit dem Derwischgewand, hirqa, eingekleidet wurde und das sich in Farbe und Aufmachung von Bruderschaft zu Bruderschaft unterschied. Oft war es ausschließlich aus unzähligen Flicken zusammengenäht. Und es heißt auch, dass derartige Flickengewänder bevorzugt aus Fetzen, die sich Sufis in Ekstase aus den Gewändern gerissen hatten, genäht wurden. Die Lumpengewänder der Sufis drücken Armut aus. Irgendwie erinnern sie aber auch an das bunte Kostüm des Harlekins mit seinen bunten Rautenstreifen. Es scheint, als wäre der umherwandernde Narr Gottes in der Commedia dell’arte in die Rolle des halb clownesken, halb dämonischen Schelmen geschlüpft, um weiterhin, Spott und Verachtung auf sich ziehend, die Strukturen und Mechanismen der Gesellschaft zu entlarven. Spiritualität und Humor schließen sich wechselseitig nicht aus. Beide lassen sich als wirkungsvoller Versuch verstehen, die komplexen und paradoxen Situationen, von denen das wirkliche Leben so voll ist, aufzuzeigen. </dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Nordafrika, Vorder- und Zentralasien, Sibirien</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:TimeSpan rdf:about="temporal#21475353454">
+<skos:prefLabel>1900-1925</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Weltmuseum Wien, Nordafrika, Vorder- und Zentralasien, Sibirien</dcterms:isPartOf>
+<edm:begin>1900</edm:begin>
+<edm:end>1925</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://www.weltmuseumwien.at/object/?detailID=644255/">
+<edm:aggregatedCHO rdf:resource="VO_120121_ab"/>
+<edm:dataProvider>Weltmuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.weltmuseumwien.at/object/?detailID=644255/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/644255/VO_120121_ab_201610_01.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/644255/VO_120121_ab_201610_01.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

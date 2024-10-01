@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="311038">
+<dc:creator rdf:resource="#Hubert_von_Zwickle_K&#xFC;nstler"/>
+<dc:creator rdf:resource="#Wiener_Werkst&#xE4;tte_Verlag"/>
+<dc:date xml:lang="de">1908</dc:date>
+<dc:identifier>311038</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dc:rights xml:lang="de">Holder of image: Foto: TimTom/L.Hilzensauer, Wien Museum</dc:rights>
+<dc:subject xml:lang="de">Wiener Werkstätte</dc:subject>
+<dc:subject xml:lang="de">Bildende Kunst</dc:subject>
+<dc:subject xml:lang="de">Wien um 1900</dc:subject>
+<dc:subject xml:lang="de">Habsburger</dc:subject>
+<dc:subject xml:lang="de">Öffentliche Feste und Feierlichkeiten</dc:subject>
+<dc:type xml:lang="de">Postkarten</dc:type>
+<dc:title xml:lang="de">Postkarte der Wiener Werkstätte Nr. 182: Kaiser-Jubilaeums-Huldigungs-Festzug 1908</dc:title>
+<dc:type rdf:resource="https://iconclass.org/41D2423"/>
+<dcterms:created xml:lang="de">1908</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520020938">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520020938"/>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Hubert_von_Zwickle_K&#xFC;nstler">
+<skos:prefLabel>Hubert von Zwickle (Künstler)</skos:prefLabel>
+<dc:date>1908</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hubert von Zwickle</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Wiener_Werkst&#xE4;tte_Verlag">
+<skos:prefLabel>Wiener Werkstätte (Verlag)</skos:prefLabel>
+<dc:date>1908</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Wiener Werkstätte</foaf:name>
+<rdaGr2:professionOrOccupation>Verlag</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.wienmuseum.at/objekt/2216620">
+<edm:aggregatedCHO rdf:resource="311038"/>
+<edm:dataProvider>Wien Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.wienmuseum.at/objekt/2216620"/>
+<edm:isShownBy rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=2216620/2754537_default.jpg"/>
+<edm:object rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=2216620/2754537_preview.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

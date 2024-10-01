@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="WG580">
+<dc:description xml:lang="de">zylindrische Reliefmolette; rechts und links verjüngt weiter gearbeitete Fortsätze (Lagerzapfen); rechter Lagerzapfen würfelförmig länger gestaltet mit vier vertieften Punkten und einem durchreichenden Loch; an den Deckflächen jeweils ein Loch; Mantel der Molette mit erhabenem Raster aus unregelmäßig angeordneten verschieden großen Punkten</dc:description>
+<dc:description xml:lang="de">Vgl. Auftragsbuch unter Auftragsnr. (C.) 5065: Datum 04.06.1937; Landau &amp; Kathein; Wien; 1 färb Muster; Betrag 175; Lieferdatum 20.08.1937</dc:description>
+<dc:identifier>WG580</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dc:rights xml:lang="de">Holder of image:  Museumsmanagement Niederösterreich, Foto: Nina Harm</dc:rights>
+<dc:subject xml:lang="de">Arbeit/Gewerbe/Handwerk/Handel/Industrie</dc:subject>
+<dc:title xml:lang="de">Reliefmolette</dc:title>
+<dc:type xml:lang="de">Museumsobjekt</dc:type>
+<dcterms:extent xml:lang="de">B x H x T: 14.2cm x 0cm x 0cm , Durchmesser: 6cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Walzengravieranstalt Guntramsdorf</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Moletten"</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Stahl</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411997884">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411997884"/>
+<dc:description xml:lang="de">zylindrische Reliefmolette; rechts und links verjüngt weiter gearbeitete Fortsätze (Lagerzapfen); rechter Lagerzapfen würfelförmig länger gestaltet mit vier vertieften Punkten und einem durchreichenden Loch; an den Deckflächen jeweils ein Loch; Mantel der Molette mit erhabenem Raster aus unregelmäßig angeordneten verschieden großen Punkten</dc:description>
+<dc:description xml:lang="de">Vgl. Auftragsbuch unter Auftragsnr. (C.) 5065: Datum 04.06.1937; Landau &amp; Kathein; Wien; 1 färb Muster; Betrag 175; Lieferdatum 20.08.1937</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0 - Namensnennung - nicht kommerzielle Weitergabe und Änderung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Walzengravieranstalt Guntramsdorf</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Moletten"</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.noemuseen.at/objekt-detail/catalog/reliefmolette-2492/">
+<edm:aggregatedCHO rdf:resource="WG580"/>
+<edm:dataProvider>Walzengravieranstalt Guntramsdorf</edm:dataProvider>
+<edm:intermediateProvider>Museumsmanagement Niederösterreich – Stadt-, Stifts- und Regionalmuseen</edm:intermediateProvider>
+<edm:hasView rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0158/01-Grundinventar/_thumbnails/WG580_002_jpg_sr_1280x1280.jpg"/>
+<edm:isShownAt rdf:resource="https://www.noemuseen.at/objekt-detail/catalog/reliefmolette-2492/"/>
+<edm:isShownBy rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0158/01-Grundinventar/_thumbnails/WG580_001_jpg_sr_1280x1280.jpg"/>
+<edm:object rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0158/01-Grundinventar/_thumbnails/WG580_001_jpg_sr_1280x1280.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

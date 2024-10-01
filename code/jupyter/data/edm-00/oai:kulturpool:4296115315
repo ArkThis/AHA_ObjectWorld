@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FotoGLV2000/22049">
+<dc:coverage>Großbritannien; Schweiz</dc:coverage>
+<dc:creator rdf:resource="#William_England_K&#xFC;nstler_in"/>
+<dc:date>1860 oder später</dc:date>
+<dc:identifier>FotoGLV2000/22049</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:title xml:lang="de">Das 1860 errichtete neue Gebäudes des Hotels Bad Stachelberg bei Linthal im Glarnerland</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>1860 oder später</dcterms:created>
+<dcterms:extent xml:lang="de">Fotopapier (links): 7,5 × 7,6 cm (2 15/16 × 3 in.) Fotopapier (rechts): 7,5 × 7,6 cm (2 15/16 × 3 in.) Karton: 8,4 × 17,3 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Albuminpapier, auf Untersatzkarton / Stereoformat</dcterms:medium>
+<dcterms:provenance xml:lang="de">Dauerleihgabe der Höheren Graphischen Bundes-Lehr- und Versuchsanstalt</dcterms:provenance>
+<dcterms:spatial xml:lang="de">Großbritannien; Schweiz</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296115315">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296115315"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#William_England_K&#xFC;nstler_in">
+<skos:prefLabel>William England (Künstler_in)</skos:prefLabel>
+<dc:date>1860 oder später</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">William England</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Trowbridge 1830 - 1896 London</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/22049]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="FotoGLV2000/22049"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/22049]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_22049.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_22049.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

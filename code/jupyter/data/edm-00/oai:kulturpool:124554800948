@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:baa.onb.at:390822">
+<dc:date>1955</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>oai:baa.onb.at:390822</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+<dc:subject xml:lang="de">Freizeit</dc:subject>
+<dc:subject xml:lang="de">Tirol</dc:subject>
+<dc:subject xml:lang="de">Verkehr</dc:subject>
+<dc:subject xml:lang="de">Wirtschaft</dc:subject>
+<dc:subject xml:lang="en">Economy</dc:subject>
+<dc:subject xml:lang="en">Free time, leisure</dc:subject>
+<dc:subject xml:lang="en">Traffic, transport</dc:subject>
+<dc:title xml:lang="de">Schnee-bar in Lech - Apres-Ski im Hintergrund Autos der Marke Opel und BMW</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>1955</dcterms:created>
+<dcterms:spatial xml:lang="de">Lech</dcterms:spatial>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<dcterms:spatial xml:lang="de">Arlberg</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=124554800948">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=124554800948"/>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=390822">
+<edm:aggregatedCHO rdf:resource="oai:baa.onb.at:390822"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=390822"/>
+<edm:isShownBy rdf:resource="http://www.bildarchivaustria.at/Preview/390822.jpg"/>
+<edm:object rdf:resource="http://www.bildarchivaustria.at/Preview/390822.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

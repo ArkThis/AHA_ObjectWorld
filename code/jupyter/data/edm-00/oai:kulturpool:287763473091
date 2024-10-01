@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="PT_176">
+<dc:creator rdf:resource="http://d-nb.info/118581945"/>
+<dc:creator rdf:resource="#Giacomo_Meyerbeer_Komponist/in"/>
+<dc:date xml:lang="de">o.J.</dc:date>
+<dc:identifier>PT_176</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Der Prophet</dc:title>
+<dc:type xml:lang="de">Figuren</dc:type>
+<dcterms:created xml:lang="de">o.J.</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Papiertheater</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#287763473091"/>
+<edm:isRelatedTo>Papiertheater</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763473091">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763473091"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Papiertheater</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/118581945">
+<skos:prefLabel>Matthias Trentsensky (Verleger/in)</skos:prefLabel>
+<dc:date>o.J.</dc:date>
+<dc:identifier>http://d-nb.info/118581945</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Papiertheater</dcterms:isPartOf>
+<foaf:name xml:lang="de">Matthias Trentsensky</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1790 - 1868</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Verleger/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Giacomo_Meyerbeer_Komponist/in">
+<skos:prefLabel>Giacomo Meyerbeer (Komponist/in)</skos:prefLabel>
+<dc:date>o.J.</dc:date>
+<dcterms:isPartOf xml:lang="de">Papiertheater</dcterms:isPartOf>
+<foaf:name xml:lang="de">Giacomo Meyerbeer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1791 Tasdorf - 1864 Paris</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Komponist/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#287763473091">
+<dcterms:isPartOf xml:lang="de">Papiertheater</dcterms:isPartOf>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/974755/">
+<edm:aggregatedCHO rdf:resource="PT_176"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/974755/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/974755/PT_176.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/974755/PT_176.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="o:93843">
+<dc:creator rdf:resource="#Klapper_Helmut_Hersteller/in"/>
+<dc:creator rdf:resource="#Kirchschl&#xE4;ger_Rudolf_Beitragende/r"/>
+<dc:creator rdf:resource="#Mayer_Fritz_Beitragende/r"/>
+<dc:creator rdf:resource="#Sinowatz_Fred_Beitragende/r"/>
+<dc:creator rdf:resource="#Gasser_Siegfried_Beitragende/r"/>
+<dc:creator rdf:resource="#Purtscher_Martin_Beitragende/r"/>
+<dc:creator rdf:resource="#Fuchs_Albert_Beitragende/r"/>
+<dc:creator rdf:resource="#Wechner_Bruno_Beitragende/r"/>
+<dc:creator rdf:resource="#Kirchschl&#xE4;ger_Herma_Beitragende/r"/>
+<dc:creator rdf:resource="#Ke&#xDF;ler_Ingeborg_Beitragende/r"/>
+<dc:creator rdf:resource="#Wachter_Julius_Beitragende/r"/>
+<dc:creator rdf:resource="#R&#xFC;mmele_Elmar_Beitragende/r"/>
+<dc:creator rdf:resource="#Lauterer_Kassian_Beitragende/r"/>
+<dc:date xml:lang="de">1977</dc:date>
+<dc:description xml:lang="de">http://pid.volare.vorarlberg.at/o:89061: am Rednerpult: Albert Fuchs, http://pid.volare.vorarlberg.at/o:89062: am Rednerpult: Fred Sinowatz, http://pid.volare.vorarlberg.at/o:89064: am Rednerpult: Rudolf Kirchschläger, http://pid.volare.vorarlberg.at/o:89080: v.l.n.r.: Ingeborg Keßler, Rudold Kirchschläger, Herbert Keßler, Herma Kirchschläger, unbekannt, unbekannt, unbekannt, http://pid.volare.vorarlberg.at/o:89140: am Rednerpult: Fritz Mayer, http://pid.volare.vorarlberg.at/o:89143: v.l.n.r.: Julius Wachter, Fritz Mayer</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>o:93843</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Foto: Helmut Klapper, Vorarlberger Landesbibliothek</dc:rights>
+<dc:rights xml:lang="de">CC BY 4.0</dc:rights>
+<dc:subject xml:lang="en">Photography</dc:subject>
+<dc:title xml:lang="de">Kirchschläger Besuch, Festspieleröffnung / Helmut Klapper</dc:title>
+<dc:type xml:lang="de">Diapositiv</dc:type>
+<dcterms:created xml:lang="de">1977</dcterms:created>
+<dcterms:extent xml:lang="de">24 x 36 mm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Negative farbig</dcterms:medium>
+<edm:isRelatedTo xml:lang="de">Bregenzer Festspiele 1977</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Eröffnung</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">historical photo department</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=188978569850">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=188978569850"/>
+<dc:description xml:lang="de">http://pid.volare.vorarlberg.at/o:89061: am Rednerpult: Albert Fuchs, http://pid.volare.vorarlberg.at/o:89062: am Rednerpult: Fred Sinowatz, http://pid.volare.vorarlberg.at/o:89064: am Rednerpult: Rudolf Kirchschläger, http://pid.volare.vorarlberg.at/o:89080: v.l.n.r.: Ingeborg Keßler, Rudold Kirchschläger, Herbert Keßler, Herma Kirchschläger, unbekannt, unbekannt, unbekannt, http://pid.volare.vorarlberg.at/o:89140: am Rednerpult: Fritz Mayer, http://pid.volare.vorarlberg.at/o:89143: v.l.n.r.: Julius Wachter, Fritz Mayer</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Foto: Helmut Klapper, Vorarlberger Landesbibliothek</dc:rights>
+<dc:rights xml:lang="de">CC BY 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Klapper_Helmut_Hersteller/in">
+<skos:prefLabel>Klapper, Helmut (Hersteller/in)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Klapper, Helmut</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kirchschl&#xE4;ger_Rudolf_Beitragende/r">
+<skos:prefLabel>Kirchschläger, Rudolf (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Kirchschläger, Rudolf</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Mayer_Fritz_Beitragende/r">
+<skos:prefLabel>Mayer, Fritz (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Mayer, Fritz</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Sinowatz_Fred_Beitragende/r">
+<skos:prefLabel>Sinowatz, Fred (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Sinowatz, Fred</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Gasser_Siegfried_Beitragende/r">
+<skos:prefLabel>Gasser, Siegfried (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Gasser, Siegfried</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Purtscher_Martin_Beitragende/r">
+<skos:prefLabel>Purtscher, Martin (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Purtscher, Martin</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Fuchs_Albert_Beitragende/r">
+<skos:prefLabel>Fuchs, Albert (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Fuchs, Albert</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Wechner_Bruno_Beitragende/r">
+<skos:prefLabel>Wechner, Bruno (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Wechner, Bruno</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kirchschl&#xE4;ger_Herma_Beitragende/r">
+<skos:prefLabel>Kirchschläger, Herma (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Kirchschläger, Herma</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Ke&#xDF;ler_Ingeborg_Beitragende/r">
+<skos:prefLabel>Keßler, Ingeborg (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Keßler, Ingeborg</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Wachter_Julius_Beitragende/r">
+<skos:prefLabel>Wachter, Julius (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Wachter, Julius</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#R&#xFC;mmele_Elmar_Beitragende/r">
+<skos:prefLabel>Rümmele, Elmar (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Rümmele, Elmar</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Lauterer_Kassian_Beitragende/r">
+<skos:prefLabel>Lauterer, Kassian (Beitragende/r)</skos:prefLabel>
+<dc:date>1977</dc:date>
+<dcterms:isPartOf xml:lang="de">Landesbildstelle, Helmut Klapper</dcterms:isPartOf>
+<foaf:name xml:lang="de">Lauterer, Kassian</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="http://pid.volare.vorarlberg.at/o:93843">
+<edm:aggregatedCHO rdf:resource="o:93843"/>
+<edm:dataProvider>Vorarlberger Landesbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://pid.volare.vorarlberg.at/o:93843"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/rest/export/1.0/proxy/vorarlberg/?id=o:93843"/>
+<edm:object rdf:resource="http://pid.volare.vorarlberg.at/o:93843/preview"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

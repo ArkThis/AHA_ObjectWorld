@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="EMK/4.814">
+<dc:creator rdf:resource="#Krpata_Margit_Z_Beitragende/r"/>
+<dc:creator rdf:resource="#Stefanou_Eirini_Hersteller/in"/>
+<dc:date xml:lang="de">Vor 1992</dc:date>
+<dc:description xml:lang="de"> Tuch // el-cy: mantili&amp;aacute;  Das durch K&amp;ouml;per- und Gerstenkornbindung streifen- und w&amp;uuml;rfelf&amp;ouml;rmig gemusterte, rohwei&amp;szlig;e Textil mit Baumwollkette und doppelt gefachtem Baumwollschuss ist handgewebt. Es hat nahe den Schmalseiten unterschiedlich breite Schussrips-Streifen aus Baumwolle in den Farben Dunkelrot, Dunkelblau, Gr&amp;uuml;n und Orange eingewebt. Die Kettf&amp;auml;den sind zu Fransen verknotet, in welche bunte Fadenb&amp;uuml;schel in den Farben der eingewebten Streifen eingearbeitet sind.  Das Textil wurde 1992 bei der Weberin Eirini Stefanou in Fyti erworben. Sie hatte auf Initiative des Cyprus Handicraft Service kurze Zeit davor wieder in dieser Technik zu weben begonnen. </dc:description>
+<dc:identifier>EMK/4.814</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Österreichisches Museum für Volkskunde</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dc:title xml:lang="de">Tuch</dc:title>
+<dc:type xml:lang="de">Tuch (M&amp;ouml;belschmuck)</dc:type>
+<dc:type xml:lang="de">Textiler Wandschmuck</dc:type>
+<dcterms:created xml:lang="de">Vor 1992</dcterms:created>
+<dcterms:extent xml:lang="de"> L mit Fransen: 51 cm  B: 40 cm </dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Krpata, Margit Z: Ethnografische Objekte aus Zypern</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Baumwolle / K&amp;ouml;perbindiges Gewebe, Gerstenkornbindiges Gewebe, Schussripsbindiges Gewebe, Handweberei, Franse, gekn&amp;uuml;pft</dcterms:medium>
+<dcterms:spatial xml:lang="de">Zypern</dcterms:spatial>
+<dcterms:spatial xml:lang="de">Fyti</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=592706685989">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=592706685989"/>
+<dc:description xml:lang="de"> Tuch // el-cy: mantili&amp;aacute;  Das durch K&amp;ouml;per- und Gerstenkornbindung streifen- und w&amp;uuml;rfelf&amp;ouml;rmig gemusterte, rohwei&amp;szlig;e Textil mit Baumwollkette und doppelt gefachtem Baumwollschuss ist handgewebt. Es hat nahe den Schmalseiten unterschiedlich breite Schussrips-Streifen aus Baumwolle in den Farben Dunkelrot, Dunkelblau, Gr&amp;uuml;n und Orange eingewebt. Die Kettf&amp;auml;den sind zu Fransen verknotet, in welche bunte Fadenb&amp;uuml;schel in den Farben der eingewebten Streifen eingearbeitet sind.  Das Textil wurde 1992 bei der Weberin Eirini Stefanou in Fyti erworben. Sie hatte auf Initiative des Cyprus Handicraft Service kurze Zeit davor wieder in dieser Technik zu weben begonnen. </dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dcterms:isPartOf xml:lang="de">Krpata, Margit Z: Ethnografische Objekte aus Zypern</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Krpata_Margit_Z_Beitragende/r">
+<skos:prefLabel>Krpata, Margit Z (Beitragende/r)</skos:prefLabel>
+<dc:date>Vor 1992</dc:date>
+<dcterms:isPartOf xml:lang="de">Krpata, Margit Z: Ethnografische Objekte aus Zypern</dcterms:isPartOf>
+<foaf:name xml:lang="de">Krpata, Margit Z</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Stefanou_Eirini_Hersteller/in">
+<skos:prefLabel>Stefanou, Eirini (Hersteller/in)</skos:prefLabel>
+<dc:date>Vor 1992</dc:date>
+<dcterms:isPartOf xml:lang="de">Krpata, Margit Z: Ethnografische Objekte aus Zypern</dcterms:isPartOf>
+<foaf:name xml:lang="de">Stefanou, Eirini</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.volkskundemuseum.at/onlinesammlungen/emk4814">
+<edm:aggregatedCHO rdf:resource="EMK/4.814"/>
+<edm:dataProvider>Österreichisches Museum für Volkskunde</edm:dataProvider>
+<edm:hasView rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/krpata/krpata_0_000_000_522.jpg"/>
+<edm:isShownAt rdf:resource="https://www.volkskundemuseum.at/onlinesammlungen/emk4814"/>
+<edm:isShownBy rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/krpata/krpata_0_000_000_381.jpg"/>
+<edm:object rdf:resource="https://www.volkskundemuseum.at/jart/prj3/volkskundemuseum/data/collection-exports/krpata/krpata_0_000_000_381.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

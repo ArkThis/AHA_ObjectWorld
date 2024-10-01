@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FotoGLV2000/8224">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Anonym_K&#xFC;nstler_in"/>
+<dc:date>1890 oder später</dc:date>
+<dc:description xml:lang="de">Beschriftung: Für GLV/8224: M.o. "9."; M.u. "Zeiss, Anastigmat-Weitwinkel; f = 12 cm; Gesichtsfeldwinkel über 100°. / (Übertreibung der Perspevtive in Folge sehr naher Aufstellung." (Feder in Schwarz)</dc:description>
+<dc:identifier>FotoGLV2000/8224</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:title xml:lang="de">Blick über den Volkgarten in Wien in Richtung Parlament und Justizpalast</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>1890 oder später</dcterms:created>
+<dcterms:extent xml:lang="de">Fotopapier: 16,7 x 22,3 cm (6 9/16 x 8 3/4 in.)</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Albuminpapier, auf Untersatzkarton</dcterms:medium>
+<dcterms:provenance xml:lang="de">Dauerleihgabe der Höheren Graphischen Bundes-Lehr- und Versuchsanstalt</dcterms:provenance>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296106534">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296106534"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_K&#xFC;nstler_in">
+<skos:prefLabel>Anonym (Künstler_in)</skos:prefLabel>
+<dc:date>1890 oder später</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/8224]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="FotoGLV2000/8224"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/8224]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_8224.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_8224.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

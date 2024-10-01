@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FotoGLV2000/19298">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Alois_Beer_ab_1883"/>
+<dc:date>nach 1875</dc:date>
+<dc:description xml:lang="de">Beschriftung: Untersatzkarton: recto: M.l. "TIROL." (schwarz gedruckt, vertikal, auf Etikett), M.r. "Nr. 2973. St. Anton, Compressoren." (schwarz gedruckt, vertikal, auf Etikett)</dc:description>
+<dc:identifier>FotoGLV2000/19298</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:title xml:lang="de">Tirol, St. Anton, Compressoren</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>nach 1875</dcterms:created>
+<dcterms:extent xml:lang="de">Fotopapier (links): 8,2 × 7,8 cm (3 1/4 × 3 1/16 in.) Fotopapier (rechts): 8,2 × 7,8 cm (3 1/4 × 3 1/16 in.) Karton: 8,9 × 17,7 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Albuminpapier, auf Untersatzkarton / Stereoformat</dcterms:medium>
+<dcterms:provenance xml:lang="de">Dauerleihgabe der Höheren Graphischen Bundes-Lehr- und Versuchsanstalt</dcterms:provenance>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296112241">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296112241"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Alois_Beer_ab_1883">
+<skos:prefLabel>Alois Beer (ab 1883)</skos:prefLabel>
+<dc:date>nach 1875</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Alois Beer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Budapest 1840 - 1916 Klagenfurt</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>ab 1883</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/19298]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="FotoGLV2000/19298"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/19298]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_19298.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_19298.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

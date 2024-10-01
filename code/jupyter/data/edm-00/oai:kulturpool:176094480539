@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="&#xD6;MV/63.479">
+<dc:creator rdf:resource="#Universit&#xE4;tsbibliothek_Graz_Beitragende/r"/>
+<dc:creator rdf:resource="#Unbekannt_Hersteller/in"/>
+<dc:date xml:lang="de">19. Jh.</dc:date>
+<dc:description xml:lang="de">Vermutlich Teil einer Haspel aus einem gedrechselten und reich profilierten Hartholzstab. Ein Ende mit Gewinde, das andere Ende mit gebohrtem Loch. Dunkelbraun gebeizt und mit mittelbraunen Tupfen verziert.
+
+Auf welchem Weg dieses Haspelfragment in die Sammlung gelangte, konnte aufgrund fehlender Hinweise nicht geklärt werden.
+Nach dem Tod Schuchardts 1927 kam es als Teil seines Nachlasses an die Universitätsbibliothek Graz und von dort 1959 als Schenkung an das Volkskundemuseum in Wien.</dc:description>
+<dc:identifier>ÖMV/63.479</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Österreichisches Museum für Volkskunde</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Fragment einer Haspel</dc:title>
+<dc:type xml:lang="de">Haspel, Teil</dc:type>
+<dcterms:created xml:lang="de">19. Jh.</dcterms:created>
+<dcterms:extent xml:lang="de">L: 20 cm D max.: 2 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Schuchardt, Hugo: Belegsammlung zur Sachwortforschung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Hartholz / gedrechselt (Holz), profiliert (Holz), gebohrt (Holz), gebeizt (Holz)</dcterms:medium>
+<dcterms:spatial xml:lang="de">Unbekannt</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=176094480539">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=176094480539"/>
+<dc:description xml:lang="de">Vermutlich Teil einer Haspel aus einem gedrechselten und reich profilierten Hartholzstab. Ein Ende mit Gewinde, das andere Ende mit gebohrtem Loch. Dunkelbraun gebeizt und mit mittelbraunen Tupfen verziert.
+
+Auf welchem Weg dieses Haspelfragment in die Sammlung gelangte, konnte aufgrund fehlender Hinweise nicht geklärt werden.
+Nach dem Tod Schuchardts 1927 kam es als Teil seines Nachlasses an die Universitätsbibliothek Graz und von dort 1959 als Schenkung an das Volkskundemuseum in Wien.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Schuchardt, Hugo: Belegsammlung zur Sachwortforschung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Universit&#xE4;tsbibliothek_Graz_Beitragende/r">
+<skos:prefLabel>Universitätsbibliothek Graz (Beitragende/r)</skos:prefLabel>
+<dc:date>19. Jh.</dc:date>
+<dcterms:isPartOf xml:lang="de">Schuchardt, Hugo: Belegsammlung zur Sachwortforschung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Universitätsbibliothek Graz</foaf:name>
+<rdaGr2:professionOrOccupation>Beitragende/r</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Unbekannt_Hersteller/in">
+<skos:prefLabel>Unbekannt (Hersteller/in)</skos:prefLabel>
+<dc:date>19. Jh.</dc:date>
+<dcterms:isPartOf xml:lang="de">Schuchardt, Hugo: Belegsammlung zur Sachwortforschung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Unbekannt</foaf:name>
+<rdaGr2:professionOrOccupation>Hersteller/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="http://www.volkskundemuseum.at/onlinesammlungen/oemv63479">
+<edm:aggregatedCHO rdf:resource="&#xD6;MV/63.479"/>
+<edm:dataProvider>Österreichisches Museum für Volkskunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.volkskundemuseum.at/onlinesammlungen/oemv63479"/>
+<edm:isShownBy rdf:resource="http://kulturpool.at/images/volkskundemuseum/0_000_000_127.jpg"/>
+<edm:object rdf:resource="http://kulturpool.at/images/volkskundemuseum/0_000_000_127.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

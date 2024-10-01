@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="MA28">
+<dc:description xml:lang="de">gebrannter Ziegel, beige Färbung; drei vertiefte Kartuschen, geschwungen und mit abgeschrägten Ecken, in jeder Kartusche je ein Buchstabe und die Zahl 28</dc:description>
+<dc:identifier>MA28</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell - freie Weiternutzung</dc:rights>
+<dc:rights xml:lang="de">Holder of image: Museumsmanagement Foto: Nina Harm</dc:rights>
+<dc:subject xml:lang="de">Arbeit/Gewerbe/Handwerk/Handel/Industrie</dc:subject>
+<dc:title xml:lang="de">Ziegel "M 28 S"</dc:title>
+<dc:type xml:lang="de">Museumsobjekt</dc:type>
+<dcterms:extent xml:lang="de">B x H x T: 25cm x 6.5cm x 12cm , Durchmesser: 0cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Museum für Dorfkultur Großengersdorf</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Maurer"</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Lehm</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411721955">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=588411721955"/>
+<dc:description xml:lang="de">gebrannter Ziegel, beige Färbung; drei vertiefte Kartuschen, geschwungen und mit abgeschrägten Ecken, in jeder Kartusche je ein Buchstabe und die Zahl 28</dc:description>
+<dc:rights xml:lang="de">CC0 1.0 Universell - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Museum für Dorfkultur Großengersdorf</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Teilsammlung "Maurer"</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://www.noemuseen.at/objekt-detail/catalog/ziegel-m-28-s-54620/">
+<edm:aggregatedCHO rdf:resource="MA28"/>
+<edm:dataProvider>Museum für Dorfkultur Großengersdorf</edm:dataProvider>
+<edm:intermediateProvider>Museumsmanagement Niederösterreich – Stadt-, Stifts- und Regionalmuseen</edm:intermediateProvider>
+<edm:hasView rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0509/01-Grundinventar.dip/_thumbnails/MA28_002_JPG_sr_1280x1280.jpg"/>
+<edm:isShownAt rdf:resource="https://www.noemuseen.at/objekt-detail/catalog/ziegel-m-28-s-54620/"/>
+<edm:isShownBy rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0509/01-Grundinventar.dip/_thumbnails/MA28_001_JPG_sr_1280x1280.jpg"/>
+<edm:object rdf:resource="https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0509/01-Grundinventar.dip/_thumbnails/MA28_001_JPG_sr_1280x1280.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

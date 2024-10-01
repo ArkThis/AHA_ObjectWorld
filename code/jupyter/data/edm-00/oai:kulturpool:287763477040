@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FS_PSE267194">
+<dc:creator rdf:resource="http://d-nb.info/120740265"/>
+<dc:creator rdf:resource="#Jean-Paul_Sartre_Autor/in"/>
+<dc:creator rdf:resource="#Conny_Hannes_Meyer_Bezug/Person"/>
+<dc:creator rdf:resource="#Gerhard_Jax_Bezug/Person"/>
+<dc:creator rdf:resource="#Die_Kom&#xF6;dianten_Bezug/Institution"/>
+<dc:date xml:lang="de">17.06.1980</dc:date>
+<dc:description xml:lang="de">Abbildung/Person: Sylvia Eisenberger</dc:description>
+<dc:description xml:lang="de">Abbildung/Person: Beatrice Fago</dc:description>
+<dc:identifier>FS_PSE267194</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Geschlossene Gesellschaft</dc:title>
+<dc:type xml:lang="de">Szenenfoto</dc:type>
+<dcterms:created xml:lang="de">17.06.1980</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#287763477040"/>
+<edm:isRelatedTo>Foto</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763477040">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=287763477040"/>
+<dc:description xml:lang="de">Abbildung/Person: Sylvia Eisenberger</dc:description>
+<dc:description xml:lang="de">Abbildung/Person: Beatrice Fago</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/120740265">
+<skos:prefLabel>Victor Mory, Wien (Fotograf/Urheber/in)</skos:prefLabel>
+<dc:date>17.06.1980</dc:date>
+<dc:identifier>http://d-nb.info/120740265</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Victor Mory, Wien</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1905 - 1980</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Fotograf/Urheber/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Jean-Paul_Sartre_Autor/in">
+<skos:prefLabel>Jean-Paul Sartre (Autor/in)</skos:prefLabel>
+<dc:date>17.06.1980</dc:date>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Jean-Paul Sartre</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">geb. 1931</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Autor/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Conny_Hannes_Meyer_Bezug/Person">
+<skos:prefLabel>Conny Hannes Meyer (Bezug/Person)</skos:prefLabel>
+<dc:date>17.06.1980</dc:date>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Conny Hannes Meyer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1944 Wien - 1990 Wien</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Bezug/Person</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Gerhard_Jax_Bezug/Person">
+<skos:prefLabel>Gerhard Jax (Bezug/Person)</skos:prefLabel>
+<dc:date>17.06.1980</dc:date>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Gerhard Jax</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1958 - 1985</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Bezug/Person</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Die_Kom&#xF6;dianten_Bezug/Institution">
+<skos:prefLabel>Die Komödianten (Bezug/Institution)</skos:prefLabel>
+<dc:date>17.06.1980</dc:date>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<foaf:name xml:lang="de">Die Komödianten</foaf:name>
+<rdaGr2:professionOrOccupation>Bezug/Institution</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#287763477040">
+<skos:prefLabel>1980</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Foto</dcterms:isPartOf>
+<edm:begin>1980</edm:begin>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/993038/">
+<edm:aggregatedCHO rdf:resource="FS_PSE267194"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/993038/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/993038/FS_PSE267194.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/993038/FS_PSE267194.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

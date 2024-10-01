@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="211548">
+<dc:creator rdf:resource="#Martin_Gerlach_jun._Fotograf"/>
+<dc:creator rdf:resource="#Eugen_Kastner_Architekt"/>
+<dc:creator rdf:resource="#Fritz_Waage_Architekt"/>
+<dc:date xml:lang="de">1933</dc:date>
+<dc:identifier>211548</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dc:subject xml:lang="de">Architektur</dc:subject>
+<dc:subject xml:lang="de">Handel</dc:subject>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dc:title xml:lang="de">Dorotheum Floridsdorf, 21., Pitkagasse 4, Versteigerungssaal</dc:title>
+<dcterms:created xml:lang="de">1933</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<dcterms:spatial xml:lang="de">21. Bezirk: Floridsdorf</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520036743">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520036743"/>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Martin_Gerlach_jun._Fotograf">
+<skos:prefLabel>Martin Gerlach jun. (Fotograf)</skos:prefLabel>
+<dc:date>1933</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Martin Gerlach jun.</foaf:name>
+<rdaGr2:professionOrOccupation>Fotograf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Eugen_Kastner_Architekt">
+<skos:prefLabel>Eugen Kastner (Architekt)</skos:prefLabel>
+<dc:date>1933</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Eugen Kastner</foaf:name>
+<rdaGr2:professionOrOccupation>Architekt</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Fritz_Waage_Architekt">
+<skos:prefLabel>Fritz Waage (Architekt)</skos:prefLabel>
+<dc:date>1933</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Fritz Waage</foaf:name>
+<rdaGr2:professionOrOccupation>Architekt</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.wienmuseum.at/objekt/26933">
+<edm:aggregatedCHO rdf:resource="211548"/>
+<edm:dataProvider>Wien Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.wienmuseum.at/objekt/26933"/>
+<edm:isShownBy rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=26933/2068971_default.jpg"/>
+<edm:object rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=26933/2068971_preview.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

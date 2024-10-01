@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="FotoGLV2000/10039">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Anton_Georg_Martin_Zugeschrieben_an"/>
+<dc:creator rdf:resource="#Peter_Friedrich_Wilhelm_Voigtl&#xE4;nder_K&#xFC;nstler_in"/>
+<dc:date>1842</dc:date>
+<dc:identifier>FotoGLV2000/10039</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Fotografie</dc:subject>
+<dc:subject xml:lang="en">photography</dc:subject>
+<dc:title xml:lang="de">Pfarrkirche St. Jakobus Major in Gaaden bei Mödling, Niederösterreich</dc:title>
+<dc:type xml:lang="de">Fotografie</dc:type>
+<dcterms:created>1842</dcterms:created>
+<dcterms:extent xml:lang="de">Rahmenaußenmaß: 14,2 × 11,4 cm Passepartoutausschnitt (achteckig): 8,7 × 7,6 cm Maße gesamt (bk): 11,4 × 14,4 × 0,6 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Daguerreotypie</dcterms:medium>
+<dcterms:provenance xml:lang="de">Dauerleihgabe der Höheren Graphischen Bundes-Lehr- und Versuchsanstalt</dcterms:provenance>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296192774">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4296192774"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anton_Georg_Martin_Zugeschrieben_an">
+<skos:prefLabel>Anton Georg Martin (Zugeschrieben an)</skos:prefLabel>
+<dc:date>1842</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Anton Georg Martin</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Österreich, 1812 - 1882</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Zugeschrieben an</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Peter_Friedrich_Wilhelm_Voigtl&#xE4;nder_K&#xFC;nstler_in">
+<skos:prefLabel>Peter Friedrich Wilhelm Voigtländer (Künstler_in)</skos:prefLabel>
+<dc:date>1842</dc:date>
+<dcterms:isPartOf xml:lang="de">Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Peter Friedrich Wilhelm Voigtländer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien 1812 - 1878 Braunschweig</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/10039]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="FotoGLV2000/10039"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_10039v.jpg&amp;cache=yes"/>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[FotoGLV2000/10039]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_10039.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/FotoGLV2000_10039.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

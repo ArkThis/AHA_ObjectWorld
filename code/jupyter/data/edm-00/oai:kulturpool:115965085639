@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 14037-8">
+<dc:contributor rdf:resource="#Trost_Alois_Autor"/>
+<dc:contributor rdf:resource="#Kaiserlich-K&#xF6;nigliche_Hof-_und_Staatsdruckerei_&lt;Wien&gt;_Druckerei"/>
+<dc:contributor rdf:resource="#Canaletto_Ausf&#xFC;hrung_des_abgebildeten_Werks"/>
+<dc:description xml:lang="de">Mappenwerk über Canalettos Wiener Ansichten mit Text von Alois Trost. Die Abbildungen im Text sowie 12 Heliogravüren stellen Werke Canalettos dar.</dc:description>
+<dc:identifier>KI 14037-8</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Der Lobkowitzplatz (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300189216"/>
+<dcterms:extent>Höhe: 42 cm</dcterms:extent>
+<dcterms:extent>Breite: 56.5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Heliogravüre</dcterms:medium>
+<dcterms:medium xml:lang="en">photogravure</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1975)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1975)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#115965085639"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965085639">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965085639"/>
+<dc:description xml:lang="de">Mappenwerk über Canalettos Wiener Ansichten mit Text von Alois Trost. Die Abbildungen im Text sowie 12 Heliogravüren stellen Werke Canalettos dar.</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Trost_Alois_Autor">
+<skos:prefLabel xml:lang="de">Trost, Alois (Autor) (Wien, 1902)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Trost, Alois</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1902</edm:begin>
+<edm:end>1902</edm:end>
+<foaf:name xml:lang="de">Trost, Alois</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1902</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1902</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Autor</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kaiserlich-K&#xF6;nigliche_Hof-_und_Staatsdruckerei_&lt;Wien&gt;_Druckerei">
+<skos:prefLabel xml:lang="de">Kaiserlich-Königliche Hof- und Staatsdruckerei &lt;Wien&gt; (Druckerei) (Wien, 1902)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Kaiserlich-Königliche Hof- und Staatsdruckerei &lt;Wien&gt;</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1902</edm:begin>
+<edm:end>1902</edm:end>
+<foaf:name xml:lang="de">Kaiserlich-Königliche Hof- und Staatsdruckerei &lt;Wien&gt;</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1902</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1902</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Druckerei</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Canaletto_Ausf&#xFC;hrung_des_abgebildeten_Werks">
+<skos:prefLabel xml:lang="de">Canaletto (Ausführung des abgebildeten Werks) (Wien, 1902)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Canaletto</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1758</edm:begin>
+<edm:end>1761</edm:end>
+<foaf:name xml:lang="de">Canaletto</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, 1902</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, 1902</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung des abgebildeten Werks</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#115965085639">
+<skos:prefLabel>1758-1902</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Vorbildersammlung (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">exemplary sample collection (Collection)</dcterms:isPartOf>
+<edm:begin>1758</edm:begin>
+<edm:end>1902</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-280211">
+<edm:aggregatedCHO rdf:resource="KI 14037-8"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-280211"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-14037-8_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-14037-8_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

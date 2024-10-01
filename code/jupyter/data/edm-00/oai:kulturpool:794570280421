@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-StiAWilten/Urkunden/003_H">
+<dc:date>1432-10-21</dc:date>
+<dc:description xml:lang="de">Bischof Ulrich von Brixen weiht die den Heiligen Laurentius und Stephanus geweihte Klosterkirche von Wilten nach dem großen Brand wieder ein und verleiht Ablässe an alle Christgläubigen, die ihre Sünden wahrhaft bereuen und beichten, und zu Weihnachten, Neujahr ("Circumcisio"), Epiphanie, am Palmsonntag, Karsamstag, Ostersonntag, Himmelfahrt, Pfingsten, Dreifaltigkeitssonntag und Fronleichnam wie auch an den Festtagen der glorreichen Gottesmutter Maria Verkündigung, Geburt, Aufnahme in den Himmel und Lichtmeß sowie Geburt Johannes des Täufers, der Apostel Petrus und Paulus, Andreas und aller Apostel und Evangelisten, der hl. Märtyrer Laurentius, Stephanus, Georg, Christophorus und Sebastian, der hl. Bekenner und Bischöfe Nikolaus, Martin, Ingenuin, Albuin, Udalrich, Augustin, Gregor, Hieronymus und Benedikt, der heiligen Jungfrauen und Märtyrerinnen Maria Magdalena, Agatha, Lucia, Cecilia, Agnes, Katharina, Margarethe, Dorothea und Barbara, ferner am Feste des hl. Erzengels Michael und Allerheiligen sowie Allerseelen, am Weihetag und Patroziniumfeste und in der Oktav der genannten Feste wie auch an einzelnen Sonntagen die genannte Kirche aufsuchen oder an hl. Messen, Predigten, Matutinen, Vespern oder anderen Gottesdiensten teilnehmen, oder vor dem Hochaltar der genannten Basilika im Angesicht der seligen Gottesmutter Maria knieend siebenmal den englischen Gruß andächtig sprechen oder im Umgang des Klosters für alle verstorbenen Seelen beten, oder in ihren Testamenten für die Werkstatt der genannten Basilika und deren Bedürfnisse Hilfsmittel bereitstellen; ihnen verleiht er im Vertrauen auf die Barmherzigkeit des allmächtigen Gottes, die Verdienste und Fürsprache seiner glorreichen Mutter Maria sowie der Patrone Ingenuin und Albuin für immer 40 Tage Ablass auf die verbundenen Sündenstrafen. Außerdem bestätigt er, soweit es das Recht erlaubt, alle Ablässe, die von katholischen Würdenträgern der Basilika und den angeschlossenen Kapellen der vorgenannten Pfarrkirche verliehen wurden, und legt das jährliche Fest des Weihetages auf den Sankt Agnethentag am 21. Jänner. Aussteller: Ulrich, Bischof von Brixen</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-StiAWilten/Urkunden/003_H</dc:identifier>
+<dc:language>Latein</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: Urkunden 003 H</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1432-10-21</dcterms:created>
+<dcterms:extent>Plika</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stiftsarchiv Wilten</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=794570280421">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=794570280421"/>
+<dc:description xml:lang="de">Bischof Ulrich von Brixen weiht die den Heiligen Laurentius und Stephanus geweihte Klosterkirche von Wilten nach dem großen Brand wieder ein und verleiht Ablässe an alle Christgläubigen, die ihre Sünden wahrhaft bereuen und beichten, und zu Weihnachten, Neujahr ("Circumcisio"), Epiphanie, am Palmsonntag, Karsamstag, Ostersonntag, Himmelfahrt, Pfingsten, Dreifaltigkeitssonntag und Fronleichnam wie auch an den Festtagen der glorreichen Gottesmutter Maria Verkündigung, Geburt, Aufnahme in den Himmel und Lichtmeß sowie Geburt Johannes des Täufers, der Apostel Petrus und Paulus, Andreas und aller Apostel und Evangelisten, der hl. Märtyrer Laurentius, Stephanus, Georg, Christophorus und Sebastian, der hl. Bekenner und Bischöfe Nikolaus, Martin, Ingenuin, Albuin, Udalrich, Augustin, Gregor, Hieronymus und Benedikt, der heiligen Jungfrauen und Märtyrerinnen Maria Magdalena, Agatha, Lucia, Cecilia, Agnes, Katharina, Margarethe, Dorothea und Barbara, ferner am Feste des hl. Erzengels Michael und Allerheiligen sowie Allerseelen, am Weihetag und Patroziniumfeste und in der Oktav der genannten Feste wie auch an einzelnen Sonntagen die genannte Kirche aufsuchen oder an hl. Messen, Predigten, Matutinen, Vespern oder anderen Gottesdiensten teilnehmen, oder vor dem Hochaltar der genannten Basilika im Angesicht der seligen Gottesmutter Maria knieend siebenmal den englischen Gruß andächtig sprechen oder im Umgang des Klosters für alle verstorbenen Seelen beten, oder in ihren Testamenten für die Werkstatt der genannten Basilika und deren Bedürfnisse Hilfsmittel bereitstellen; ihnen verleiht er im Vertrauen auf die Barmherzigkeit des allmächtigen Gottes, die Verdienste und Fürsprache seiner glorreichen Mutter Maria sowie der Patrone Ingenuin und Albuin für immer 40 Tage Ablass auf die verbundenen Sündenstrafen. Außerdem bestätigt er, soweit es das Recht erlaubt, alle Ablässe, die von katholischen Würdenträgern der Basilika und den angeschlossenen Kapellen der vorgenannten Pfarrkirche verliehen wurden, und legt das jährliche Fest des Weihetages auf den Sankt Agnethentag am 21. Jänner. Aussteller: Ulrich, Bischof von Brixen</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:extent>Plika</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Stiftsarchiv Wilten</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-StiAWilten/Urkunden/003_H/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-StiAWilten/Urkunden/003_H"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-StiAWilten/Urkunden/003_H/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/img%2FAT-StiAWilt%2FUrkunden%2FStiAWilten_003-H_14321021_r.JPG/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/img%2FAT-StiAWilt%2FUrkunden%2FStiAWilten_003-H_14321021_r.JPG/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

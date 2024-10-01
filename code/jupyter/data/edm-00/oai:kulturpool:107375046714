@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="BI 17444-7-2">
+<dc:contributor rdf:resource="#Anonym_Ausf&#xFC;hrung"/>
+<dc:contributor rdf:resource="#Tsukioka_Yoshitoshi_&#x6708;&#x5CA1;&#x82B3;&#x5E74;_Entwurf"/>
+<dc:contributor rdf:resource="#Kuniyoshi_&#x56FD;&#x82B3;&#x6D3E;_(Schule)_Schule"/>
+<dc:contributor rdf:resource="#Yoshitoshi_&#x82B3;&#x5E74;&#x6D3E;_(Schule)_Schule"/>
+<dc:description xml:lang="de">Yoshitoshi 芳年 Album mit Blättern von Yoshitoshi, in denen auf humorvolle Art und Weise alte Erzählungen und Legenden aus Japan wiedergegeben werden. Das Bild zeigt Soga no Gorō Tokimune 曾我五郎時致, der zu seinem Bruder Soga no Jūrō 曽我十郎 eilt, um ihm beim Kampf zu Hilfe zu kommen. Diese Szene wurde im Kabuki-Stück “Yanone 矢の根” verarbeitet, worin er einen japanischen Rettich (daikon) als Peitsche benutzt und nicht wie hier einen Bambuszweig. Sein Weg führt zum Palast des Feindes, wo sein Bruder festgehalten wird. In diesem Bild aber reitet er (laut Titel) nach Ōiso 大磯, wo sich Jūrōs Geliebte Tora no Gozen 虎御前 aufhält. In “The age of Yoshitoshi” (vgl. Lit.) sind zwei Blätter abgebildet, auf denen je zwei solcher Bilder im chūban 中判-Format untereinander abgedruckt sind. Die Blätter selbst haben ein oban 大判-Format.</dc:description>
+<dc:identifier>BI 17444-7-2</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Soga Tokimune reitet ohne Sattel auf einem Pferd nach Ōiso (Soga Tokimune hadaka uma ni nori Ōiso ni kakeru 曽我時致裸馬乗而大磯驅)</dc:title>
+<dc:title xml:lang="en">Soga Tokimune riding on an unsaddled horse to Ōiso</dc:title>
+<dc:title xml:lang="ja">曽我時致裸馬乗而大磯驅</dc:title>
+<dc:title xml:lang="de">Skizzen von Yoshitoshi (Yoshitoshi ryakuga 芳年略画) (Serientitel)</dc:title>
+<dc:title xml:lang="en">Sketches by Yoshitoshi (Serientitel)</dc:title>
+<dc:title xml:lang="ja">芳年略画 (Serientitel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300106769"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300041412"/>
+<dcterms:extent>Höhe: 12.7 cm</dcterms:extent>
+<dcterms:extent>Breite: 18.9 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:provenance xml:lang="de">Legat (1922)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">legacy (1922)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4028495-5"/>
+<dcterms:temporal rdf:resource="temporal#107375046714"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375046714">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375046714"/>
+<dc:description xml:lang="de">Yoshitoshi 芳年 Album mit Blättern von Yoshitoshi, in denen auf humorvolle Art und Weise alte Erzählungen und Legenden aus Japan wiedergegeben werden. Das Bild zeigt Soga no Gorō Tokimune 曾我五郎時致, der zu seinem Bruder Soga no Jūrō 曽我十郎 eilt, um ihm beim Kampf zu Hilfe zu kommen. Diese Szene wurde im Kabuki-Stück “Yanone 矢の根” verarbeitet, worin er einen japanischen Rettich (daikon) als Peitsche benutzt und nicht wie hier einen Bambuszweig. Sein Weg führt zum Palast des Feindes, wo sein Bruder festgehalten wird. In diesem Bild aber reitet er (laut Titel) nach Ōiso 大磯, wo sich Jūrōs Geliebte Tora no Gozen 虎御前 aufhält. In “The age of Yoshitoshi” (vgl. Lit.) sind zwei Blätter abgebildet, auf denen je zwei solcher Bilder im chūban 中判-Format untereinander abgedruckt sind. Die Blätter selbst haben ein oban 大判-Format.</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Anonym (Ausführung) (Japan, um 1882)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<edm:begin>1872</edm:begin>
+<edm:end>1892</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1882</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1882</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Tsukioka_Yoshitoshi_&#x6708;&#x5CA1;&#x82B3;&#x5E74;_Entwurf">
+<skos:prefLabel xml:lang="de">Tsukioka Yoshitoshi 月岡芳年 (Entwurf) (Japan, um 1882)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Tsukioka Yoshitoshi 月岡芳年</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<edm:begin>1872</edm:begin>
+<edm:end>1892</edm:end>
+<foaf:name xml:lang="de">Tsukioka Yoshitoshi 月岡芳年</foaf:name>
+<foaf:name xml:lang="en">Tsukioka Yoshitoshi 月岡芳年</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1882</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1882</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kuniyoshi_&#x56FD;&#x82B3;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Kuniyoshi 国芳派 (Schule) (Schule) (Japan, um 1882)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Kuniyoshi 国芳派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<edm:begin>1872</edm:begin>
+<edm:end>1892</edm:end>
+<foaf:name xml:lang="de">Kuniyoshi 国芳派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Kuniyoshi 国芳派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1882</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1882</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Yoshitoshi_&#x82B3;&#x5E74;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Yoshitoshi 芳年派 (Schule) (Schule) (Japan, um 1882)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Yoshitoshi 芳年派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<edm:begin>1872</edm:begin>
+<edm:end>1892</edm:end>
+<foaf:name xml:lang="de">Yoshitoshi 芳年派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Yoshitoshi 芳年派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1882</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1882</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375046714">
+<skos:prefLabel>1872-1892</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Richard Lieben (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Richard Lieben collection (Collection)</dcterms:isPartOf>
+<edm:begin>1872</edm:begin>
+<edm:end>1892</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-198089">
+<edm:aggregatedCHO rdf:resource="BI 17444-7-2"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-198089"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-17444-7-2_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/bi-17444-7-2_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="hdl:11471/562.20.2">
+<dc:contributor xml:lang="en">Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:date>1320-11</dc:date>
+<dc:description xml:lang="de">Illurk-UrkundenartBischofsammelindulgenzBischofsammelindulgenz: Die Aussteller gewähren den Gläubigen, die in Andacht den Altar St. Barbara im Kloster Georgenberg vorFrankenberg an den Festtagen St. Barbara, Christi Geburt, Beschneidung, Epiphanias, Palmarum, Gründonnerstag, Karfreitag, Auferstehung, Himmelfahrt, Pfingsten, Kreuzfindung, Kreuzerhöhung, Fronleichnam, an den Festtagen der hl. Messe, Michael Archangelus, Johannes der Täufer, Stephan, Laurentius, Dyonisius, Georg, 10000 Märtyrer, Martin, Nicolaus, Antonius, Benedikt, Maria Magdalena, Katharina, Agnes Margarete, Lucia, Cecilie, 11000 Jungfrauen, Elisabeth, Anna, Allerheiligen, Allerseelen, in den Fasten vor Ostern, in der Adventszeit und an den Oktaven der genannten Feste besuchen, ihm etwas stiften, die beim Glockenläuten drei Ave Maria sagen, den Kirchhof des Klosters umschreiten und zum Seelenheil der Begrabenen ein Vaterunser mit dem Englischen Gruss sagen, zur Kirchenfabrik beisteuern und in der Messe beim Namen Jesu und Mariae ihre Häupter neigen und ihre Knie beugen, einen Ablass von 40 Tagen. Als Aussteller sind genannt: Erzbischof Esgerus von Lund (Londensis), Primas in Schweden (Suecie), Erzbischof Matthäus von Durrazo (Duracensis), Bischof Rudolf von Salona (Solanensis), Bischof Zacharias von Sas (Suaciensis) und Bischof Egidius von Adrianopel (Adrianopolensis) (nach HADIS).</dc:description>
+<dc:identifier>hdl:11471/562.20.2</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-NC 4.0 - Attribution-NonCommercial 4.0 International</dc:rights>
+<dc:title xml:lang="de">IlluminierteUrkunden 1320-11-99_Darmstadt</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300027621"/>
+<dc:type xml:lang="en">charter</dc:type>
+<dcterms:created>1320-11</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Urkunden als offene Forschungsdaten</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Charters Open Research Data</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+<owl:sameAs rdf:resource="http://gams.uni-graz.at/o:cord.0021e84b.8a96.3ac6.9e1a.258b0e09f26e">http://gams.uni-graz.at/o:cord.0021e84b.8a96.3ac6.9e1a.258b0e09f26e</owl:sameAs>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279174274552">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279174274552"/>
+<dc:description xml:lang="de">Illurk-UrkundenartBischofsammelindulgenzBischofsammelindulgenz: Die Aussteller gewähren den Gläubigen, die in Andacht den Altar St. Barbara im Kloster Georgenberg vorFrankenberg an den Festtagen St. Barbara, Christi Geburt, Beschneidung, Epiphanias, Palmarum, Gründonnerstag, Karfreitag, Auferstehung, Himmelfahrt, Pfingsten, Kreuzfindung, Kreuzerhöhung, Fronleichnam, an den Festtagen der hl. Messe, Michael Archangelus, Johannes der Täufer, Stephan, Laurentius, Dyonisius, Georg, 10000 Märtyrer, Martin, Nicolaus, Antonius, Benedikt, Maria Magdalena, Katharina, Agnes Margarete, Lucia, Cecilie, 11000 Jungfrauen, Elisabeth, Anna, Allerheiligen, Allerseelen, in den Fasten vor Ostern, in der Adventszeit und an den Oktaven der genannten Feste besuchen, ihm etwas stiften, die beim Glockenläuten drei Ave Maria sagen, den Kirchhof des Klosters umschreiten und zum Seelenheil der Begrabenen ein Vaterunser mit dem Englischen Gruss sagen, zur Kirchenfabrik beisteuern und in der Messe beim Namen Jesu und Mariae ihre Häupter neigen und ihre Knie beugen, einen Ablass von 40 Tagen. Als Aussteller sind genannt: Erzbischof Esgerus von Lund (Londensis), Primas in Schweden (Suecie), Erzbischof Matthäus von Durrazo (Duracensis), Bischof Rudolf von Salona (Solanensis), Bischof Zacharias von Sas (Suaciensis) und Bischof Egidius von Adrianopel (Adrianopolensis) (nach HADIS).</dc:description>
+<dc:rights xml:lang="de">CC BY-NC 4.0 - Attribution-NonCommercial 4.0 International</dc:rights>
+<dcterms:isPartOf xml:lang="de">Urkunden als offene Forschungsdaten</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Charters Open Research Data</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://gams.uni-graz.at/o:cord.0021e84b.8a96.3ac6.9e1a.258b0e09f26e">
+<edm:aggregatedCHO rdf:resource="hdl:11471/562.20.2"/>
+<edm:dataProvider>Karl-Franzens-Universität Graz</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://gams.uni-graz.at/o:cord.0021e84b.8a96.3ac6.9e1a.258b0e09f26e"/>
+<edm:isShownBy rdf:resource="http://gams.uni-graz.at/o:cord.0021e84b.8a96.3ac6.9e1a.258b0e09f26e"/>
+<edm:object rdf:resource="http://gams.uni-graz.at/o:cord.0021e84b.8a96.3ac6.9e1a.258b0e09f26e"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

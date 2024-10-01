@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="11353/10.104667">
+<dc:contributor rdf:resource="#Gargova_Fani_Other"/>
+<dc:contributor rdf:resource="#Leitner_Martina_Other"/>
+<dc:contributor rdf:resource="#DiFaB_Other"/>
+<dc:description xml:lang="de">Teil der südlichen Säule im Bema.  Die attische Basis und die Säule sind Spolien aus Preslav und Nikopolis ad Istrum.</dc:description>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>11353/10.104667</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:rights xml:lang="de">http://creativecommons.org/licenses/by-sa/2.0/at/</dc:rights>
+<dc:subject xml:lang="de">Kirche, Spolie, Basis, Säule, Steinboden, byzantinisch</dc:subject>
+<dc:subject xml:lang="de">ÖFOS 2002 -- GEISTESWISSENSCHAFTEN (6) -- Kunstwissenschaften (68) -- Kunstgeschichte (6808)</dc:subject>
+<dc:subject xml:lang="de">EuroVoc 4.2 -- WISSENSCHAFTEN (D36) -- Geisteswissenschaften (MT3611) -- Sozialwissenschaften (3956) -- Geschichtswissenschaft (1245) -- Geschichte des Mittelalters (5663)</dc:subject>
+<dc:subject xml:lang="de">Universität Wien -- Universität Wien (1552001) -- Historisch-Kulturwissenschaftliche Fakultät (1552170) -- Institut für Kunstgeschichte (1552171) -- Digitales Forschungsarchiv Byzanz (1552172) -- DiFab - Neue Fotografien (1552192)</dc:subject>
+<dc:subject xml:lang="de">European Projects -- Europeana Libraries (euprojects4)</dc:subject>
+<dc:subject xml:lang="de">Getty Thesaurus of Geographic Names, Veliko T?rnovo</dc:subject>
+<dc:subject xml:lang="de">Getty Art &amp; Architecture Thesaurus, churches</dc:subject>
+<dc:subject xml:lang="de">Getty Art &amp; Architecture Thesaurus, spolia</dc:subject>
+<dc:subject xml:lang="de">Getty Art &amp; Architecture Thesaurus, columns</dc:subject>
+<dc:subject xml:lang="en">ÖFOS 2002 -- HUMANITIES (6) -- Arts (68) -- Art history (6808)</dc:subject>
+<dc:subject xml:lang="en">EuroVoc 4.2 -- SCIENCE (D36) -- humanities (MT3611) -- social sciences (3956) -- history (1245) -- medieval history (5663)</dc:subject>
+<dc:subject xml:lang="en">University of Vienna -- University of Vienna (1552001) -- Historisch-Kulturwissenschaftliche Fakultät (1552170) -- Institut für Kunstgeschichte (1552171) -- Digital Research Archive for Byzantium (1552172) -- DiFab - New Photographs (1552192)</dc:subject>
+<dc:title xml:lang="bg">Свети Петър и Павел</dc:title>
+<dc:title xml:lang="de">Veliko Tarnovo, Kirche Sveti Petar i Pavel</dc:title>
+<dc:title xml:lang="de">Kirche der Heiligen Petrus und Paulus</dc:title>
+<dcterms:extent>28.74 MB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=532577066388">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=532577066388"/>
+<dc:description xml:lang="de">Teil der südlichen Säule im Bema.  Die attische Basis und die Säule sind Spolien aus Preslav und Nikopolis ad Istrum.</dc:description>
+<dc:format>image/tiff</dc:format>
+<dc:rights xml:lang="de">http://creativecommons.org/licenses/by-sa/2.0/at/</dc:rights>
+<dcterms:extent>28.74 MB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/at/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Gargova_Fani_Other">
+<skos:prefLabel>Gargova, Fani (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<foaf:name xml:lang="de">Gargova, Fani</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Leitner_Martina_Other">
+<skos:prefLabel>Leitner, Martina (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<foaf:name xml:lang="de">Leitner, Martina</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#DiFaB_Other">
+<skos:prefLabel>DiFaB (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">DiFaB, DIgitales ForschungsArchiv Byzanz</dcterms:isPartOf>
+<foaf:name xml:lang="de">DiFaB</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://phaidra.univie.ac.at/o:104667">
+<edm:aggregatedCHO rdf:resource="11353/10.104667"/>
+<edm:dataProvider>Universitätsbibliothek Wien - Phaidra</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://phaidra.univie.ac.at/o:104667"/>
+<edm:isShownBy rdf:resource="https://fedora.phaidra.univie.ac.at/fedora/objects/o:104667/methods/bdef:Content/download"/>
+<edm:object rdf:resource="https://phaidra.univie.ac.at/preview/o:104667"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/at/"/>
+</ore:Aggregation>
+</rdf:RDF>

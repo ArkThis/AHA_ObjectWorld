@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="DG2014/16/18">
+<dc:coverage>Österreich (Steiermark)</dc:coverage>
+<dc:creator rdf:resource="#Meister_der_Wunder_von_Mariazell_K&#xFC;nstler_in"/>
+<dc:creator rdf:resource="#Meister_der_Brucker_Martinstafel_Vormals_zugeschrieben_an"/>
+<dc:creator rdf:resource="#Wolfgang_Huber_Vormals_zugeschrieben_an"/>
+<dc:creator rdf:resource="#S&#xE4;chsischer_Meister_Vormals_zugeschrieben_an"/>
+<dc:creator rdf:resource="#Meister_der_Legendenszenen_Vormals_zugeschrieben_an"/>
+<dc:date>um 1520</dc:date>
+<dc:identifier>DG2014/16/18</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:title xml:lang="de">Die Wunder von Mariazell: Heilung eines jungen Knechts aus Znaim, der seit einem Schlagfluss gelähmt war</dc:title>
+<dc:type xml:lang="de">Druckgraphik</dc:type>
+<dcterms:created>um 1520</dcterms:created>
+<dcterms:extent xml:lang="de">Blatt: 23,1 x 16,3 cm Darstellung: ca. 19,3 x 14,4 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holzschnitt</dcterms:medium>
+<dcterms:spatial xml:lang="de">Österreich (Steiermark)</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295204470">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295204470"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Meister_der_Wunder_von_Mariazell_K&#xFC;nstler_in">
+<skos:prefLabel>Meister der Wunder von Mariazell (Künstler_in)</skos:prefLabel>
+<dc:date>um 1520</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Meister der Wunder von Mariazell</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">tätig im ersten Viertel des 16. Jahrhunderts in der Steiermark (?)</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Meister_der_Brucker_Martinstafel_Vormals_zugeschrieben_an">
+<skos:prefLabel>Meister der Brucker Martinstafel (Vormals zugeschrieben an)</skos:prefLabel>
+<dc:date>um 1520</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Meister der Brucker Martinstafel</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">tätig im ersten Viertel des 16. Jahrhunderts in der Steiermark</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Vormals zugeschrieben an</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Wolfgang_Huber_Vormals_zugeschrieben_an">
+<skos:prefLabel>Wolfgang Huber (Vormals zugeschrieben an)</skos:prefLabel>
+<dc:date>um 1520</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Wolfgang Huber</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1480 - 1553</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Vormals zugeschrieben an</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#S&#xE4;chsischer_Meister_Vormals_zugeschrieben_an">
+<skos:prefLabel>Sächsischer Meister (Vormals zugeschrieben an)</skos:prefLabel>
+<dc:date>um 1520</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Sächsischer Meister</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Deutschland</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Vormals zugeschrieben an</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Meister_der_Legendenszenen_Vormals_zugeschrieben_an">
+<skos:prefLabel>Meister der Legendenszenen (Vormals zugeschrieben an)</skos:prefLabel>
+<dc:date>um 1520</dc:date>
+<dcterms:isPartOf xml:lang="de">Graphische Sammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Meister der Legendenszenen</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">tätig im ersten Viertel des 16. Jahrhunderts in Wien</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Vormals zugeschrieben an</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG2014/16/18]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="DG2014/16/18"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[DG2014/16/18]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG2014_16_18.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/DG2014_16_18.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

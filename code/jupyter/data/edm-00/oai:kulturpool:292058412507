@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="GS_GPM3933">
+<dc:creator rdf:resource="http://d-nb.info/119547791"/>
+<dc:creator rdf:resource="#Emanuel_Schikaneder_Autor/in"/>
+<dc:creator rdf:resource="#Jakob_Haibel_Komponist/in"/>
+<dc:date xml:lang="de">o. Dat. [um 1815]</dc:date>
+<dc:description xml:lang="de">Abbildung/Person: Carl Friedrich Clemens Weinmüller</dc:description>
+<dc:identifier>GS_GPM3933</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="en">print</dc:subject>
+<dc:subject xml:lang="de">Druck</dc:subject>
+<dc:title xml:lang="de">Carl Friedrich Clemens Weinmüller</dc:title>
+<dc:title xml:lang="de">Verweis auf Stücktitel: Der Tiroler Wastl</dc:title>
+<dc:title xml:lang="de">Name der  Zeitschrift: Münchner Theater-Journal</dc:title>
+<dc:type xml:lang="de">Rollenporträt</dc:type>
+<dcterms:created xml:lang="de">o. Dat. [um 1815]</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#292058412507"/>
+<edm:isRelatedTo>Druckgrafik</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=292058412507">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=292058412507"/>
+<dc:description xml:lang="de">Abbildung/Person: Carl Friedrich Clemens Weinmüller</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/119547791">
+<skos:prefLabel>Johann Nepomuk Muxel (Künstler/in)</skos:prefLabel>
+<dc:date>o. Dat. [um 1815]</dc:date>
+<dc:identifier>http://d-nb.info/119547791</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Johann Nepomuk Muxel</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1790 - 1870</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Emanuel_Schikaneder_Autor/in">
+<skos:prefLabel>Emanuel Schikaneder (Autor/in)</skos:prefLabel>
+<dc:date>o. Dat. [um 1815]</dc:date>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Emanuel Schikaneder</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1751 - 1812</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Autor/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Jakob_Haibel_Komponist/in">
+<skos:prefLabel>Jakob Haibel (Komponist/in)</skos:prefLabel>
+<dc:date>o. Dat. [um 1815]</dc:date>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<foaf:name xml:lang="de">Jakob Haibel</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1762 - 1826</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Komponist/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#292058412507">
+<skos:prefLabel>1815</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Druckgrafik</dcterms:isPartOf>
+<edm:begin>1815</edm:begin>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/1289548/">
+<edm:aggregatedCHO rdf:resource="GS_GPM3933"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/1289548/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/1289548/GS_GPM3933.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/1289548/GS_GPM3933.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

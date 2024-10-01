@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="000971">
+<dc:coverage>1490-1500</dc:coverage>
+<dc:date>1490-1500</dc:date>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:identifier>000971</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Hl. Maria mit Kind</dc:subject>
+<dc:title xml:lang="de">Hl. Maria mit Kind</dc:title>
+<dc:title xml:lang="en">Virgin Mary with the Christ Child</dc:title>
+<dcterms:created>1490-1500</dcterms:created>
+<dcterms:extent xml:lang="de">166,9x32,7 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Temperamalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/tempera painting</dcterms:medium>
+<edm:currentLocation xml:lang="de">Filialkirche St. Martin - St. Michael im Lungau - Salzburg - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Gewandschließe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">nackt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Besatz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tasselmantel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krone</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Maria</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Jesusknabe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kugel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Punzierung</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885194678">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885194678"/>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=000971">
+<edm:aggregatedCHO rdf:resource="000971"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=000971"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7002890"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7002890"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

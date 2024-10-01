@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="11353/10.288475">
+<dc:contributor rdf:resource="#Zeichnung_und_Lithographie__Dauthage&#10;Druck__Hofelich_Johann_Other"/>
+<dc:description xml:lang="de">
+http://scopeq.cc.univie.ac.at/Query/detail.aspx?id=62571</dc:description>
+<dc:identifier>11353/10.288475</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:rights xml:lang="de">All rights reserved</dc:rights>
+<dc:title xml:lang="de">Jager, Albert (08.12.1801-10.12.1891; osterr. Geschichte); 1854</dc:title>
+<dcterms:extent>257.80 kB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Archiv der Universität Wien, Bildersammlung</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=223339325007">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=223339325007"/>
+<dc:description xml:lang="de">
+http://scopeq.cc.univie.ac.at/Query/detail.aspx?id=62571</dc:description>
+<dc:rights xml:lang="de">All rights reserved</dc:rights>
+<dcterms:extent>257.80 kB</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Archiv der Universität Wien, Bildersammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Zeichnung_und_Lithographie__Dauthage&#10;Druck__Hofelich_Johann_Other">
+<skos:prefLabel>Zeichnung und Lithographie: Dauthage
+Druck: Hofelich, Johann (Other)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Archiv der Universität Wien, Bildersammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Zeichnung und Lithographie: Dauthage
+Druck: Hofelich, Johann</foaf:name>
+<rdaGr2:professionOrOccupation>Other</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://phaidra.univie.ac.at/o:288475">
+<edm:aggregatedCHO rdf:resource="11353/10.288475"/>
+<edm:dataProvider>Universitätsbibliothek Wien - Phaidra</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://phaidra.univie.ac.at/o:288475"/>
+<edm:isShownBy rdf:resource="https://services.phaidra.univie.ac.at/api/imageserver?CVT=jpeg&amp;FIF=o:288475.tif"/>
+<edm:object rdf:resource="https://phaidra.univie.ac.at/preview/o:288475"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="012114">
+<dc:coverage>1445-1455</dc:coverage>
+<dc:creator rdf:resource="#Meister_des_Altars_von_Matejovce_K&#xFC;nstler/in"/>
+<dc:date>1445-1455</dc:date>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:identifier>012114</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Schmerzensmann mit Arma Christi</dc:subject>
+<dc:title xml:lang="de">Schmerzensmann mit Arma Christi</dc:title>
+<dc:title xml:lang="en">Man of Sorrows with Arma Christi</dc:title>
+<dcterms:created>1445-1455</dcterms:created>
+<dcterms:extent xml:lang="de">96x71 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Temperamalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/tempera painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Matejovce</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Pfarrkirche St. Stephan - Matejovce - Slowakei</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Spottgestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">nackt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Judenhut</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schapel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Lendentuch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dornenkrone</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Pileus cornutus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Obergewand</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Christus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Petrus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Jude</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Leiter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Nagel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stab</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Säule</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Salbgefäß</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kelch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zange</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stäupe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bohrer</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Würfel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hintergrund</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hand</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuzestitulus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Geißel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Seil</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rute</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Blut</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Boden</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hahn</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Haarbüschel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Würfelauge</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885349240">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885349240"/>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Meister_des_Altars_von_Matejovce_K&#xFC;nstler/in">
+<skos:prefLabel>Meister des Altars von Matejovce (Künstler/in)</skos:prefLabel>
+<dc:date>1445-1455</dc:date>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<foaf:name xml:lang="de">Meister des Altars von Matejovce</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=012114">
+<edm:aggregatedCHO rdf:resource="012114"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=012114"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7012773"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7012773"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

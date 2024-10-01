@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="012368">
+<dc:coverage>1495-1505</dc:coverage>
+<dc:date>1495-1505</dc:date>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:identifier>012368</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Christus vor Kaiphas</dc:subject>
+<dc:title xml:lang="de">Christus vor Kaiphas</dc:title>
+<dc:title xml:lang="en">Christ before Caiphas</dc:title>
+<dcterms:created>1495-1505</dcterms:created>
+<dcterms:extent xml:lang="de">123x78 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Temperamalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/tempera painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Presov</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Kirche St. Nikolaus - Presov - Slowakei</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Spieß</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Zeigegestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Haare reißend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Arme gekreuzt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Arm erhoben</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Faust geballt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">gefesselt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Borte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gürtel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Brustteil</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Turban</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stulpenstiefel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hut</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Leerärmel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Brustharnisch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beinling</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Knopfleiste</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Heuke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krempe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hemd</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stulpe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tallis</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kragen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Ärmel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Handschuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Helm</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schlüpfschuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Christus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kaiphas</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gerüsteter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Priester jüdisch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Richter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gefangener</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Scherge</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Anagramm</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Armfessel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Butzenscheibe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Thronwange</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fenster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Thron</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rundbogenportal</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Helmbarte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Baldachin</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Thronstufe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Haarschopf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Granatapfelmuster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Strick</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Himmel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">prisoner</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885349510">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885349510"/>
+<dc:description xml:lang="de">Flügelaltar/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=012368">
+<edm:aggregatedCHO rdf:resource="012368"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=012368"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7013105"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7013105"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

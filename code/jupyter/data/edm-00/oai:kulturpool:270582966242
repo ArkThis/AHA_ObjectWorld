@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="AE_INV_339">
+<dc:date>7.-6. Jh. v. Chr.</dc:date>
+<dc:identifier>AE_INV_339</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Kunsthistorisches Museum Wien, Ägyptisch - Orientalische Sammlung</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Widderköpfiger Gott Chnum</dc:title>
+<dc:type xml:lang="de">Statuette</dc:type>
+<dc:type xml:lang="de">Rundplastik</dc:type>
+<dcterms:created>7.-6. Jh. v. Chr.</dcterms:created>
+<dcterms:extent xml:lang="de">H 14,1 cm, B 6 cm, T 4,2 cm inkl. Basis|</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Ägyptische Sammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Bronze, Vollguß</dcterms:medium>
+<dcterms:spatial xml:lang="de">Ägyptisch</dcterms:spatial>
+<dcterms:temporal rdf:resource="#Sp&#xE4;tzeit"/>
+<edm:isRelatedTo xml:lang="de">Rundplastik</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270582966242">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270582966242"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Ägyptische Sammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:TimeSpan rdf:about="#Sp&#xE4;tzeit">
+<skos:prefLabel>Spätzeit</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Ägyptische Sammlung</dcterms:isPartOf>
+<edm:begin>-700</edm:begin>
+<edm:end>-500</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.khm.at/de/objektdb/detail/317824/">
+<edm:aggregatedCHO rdf:resource="AE_INV_339"/>
+<edm:dataProvider>Kunsthistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.khm.at/de/objektdb/detail/317824/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/317824/AE_INV_339_1.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/317824/AE_INV_339_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="OR 3925-7917">
+<dc:contributor rdf:resource="#Anonym_Ausf&#xFC;hrung"/>
+<dc:description xml:lang="de">Untergrund gefärbt (jizomari 地染), Hintergrundteil (keshigata 消型). Passermarken (hoshi 星).</dc:description>
+<dc:identifier>OR 3925-7917</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Teil eines Sets (hazure 菊), Chrysanthemen (Einzelblatt)</dc:title>
+<dc:title xml:lang="en">Part of a set. Chrysanthemums</dc:title>
+<dc:title xml:lang="ja">はずれ、菊</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/7685117-5"/>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">imprägniertes Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">astringent paper</dcterms:medium>
+<dcterms:medium xml:lang="ja">shibugami 渋紙</dcterms:medium>
+<dcterms:medium xml:lang="de">geschnitten</dcterms:medium>
+<dcterms:medium xml:lang="en">push carving</dcterms:medium>
+<dcterms:medium xml:lang="ja">tsukibori 突彫</dcterms:medium>
+<dcterms:provenance xml:lang="de">Übernahme (1907)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">assumption (1907)</dcterms:provenance>
+<dcterms:provenance xml:lang="ja">引継 (1907)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4819423-2"/>
+<dcterms:temporal rdf:resource="temporal#111670061569"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=111670061569">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=111670061569"/>
+<dc:description xml:lang="de">Untergrund gefärbt (jizomari 地染), Hintergrundteil (keshigata 消型). Passermarken (hoshi 星).</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Anonym (Ausführung) (Mie, 1801-1900)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:begin>1801</edm:begin>
+<edm:end>1900</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Mie, 1801-1900</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Mie, 1801-1900</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#111670061569">
+<skos:prefLabel>1801-1900</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Asien (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:begin>1801</edm:begin>
+<edm:end>1900</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-318656">
+<edm:aggregatedCHO rdf:resource="OR 3925-7917"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-318656"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/or-3925-7917_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/or-3925-7917_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

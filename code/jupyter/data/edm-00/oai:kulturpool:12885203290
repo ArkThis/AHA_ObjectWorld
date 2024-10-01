@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="004080">
+<dc:coverage>1349-1351</dc:coverage>
+<dc:date>1349-1351</dc:date>
+<dc:description xml:lang="de">Illustrationszyklus Typologie/Miniatur</dc:description>
+<dc:identifier>004080</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Tod des Hl. Dominikus</dc:subject>
+<dc:title xml:lang="de">Tod des Hl. Dominikus</dc:title>
+<dc:title xml:lang="en">Death of St. Dominicus</dc:title>
+<dcterms:created>1349-1351</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Federzeichnung koloriert</dcterms:medium>
+<dcterms:medium xml:lang="en">pen drawing coloured</dcterms:medium>
+<dcterms:spatial xml:lang="de">Lilienfeld</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Stiftsbibliothek - Lilienfeld - Niederösterreich - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Zeigegestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Arme ausgestreckt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">liegend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Finger verschränkt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Arme erhoben</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">darreichend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">betend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kopf in Hand gestützt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">haltend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Trauergestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">sterbend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kapuze</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Heuke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tasselmantel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Birett</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Knopf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Innenfutter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krone</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kutte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Flocke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Dominikus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">David</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Jesaja</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Dominikaner</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">König</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Mönch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Prophet</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Umschrift</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Leintuch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Boden</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Buch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Inschrift</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Agraffe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bett</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Polster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">Dominican</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885203290">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885203290"/>
+<dc:description xml:lang="de">Illustrationszyklus Typologie/Miniatur</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=004080">
+<edm:aggregatedCHO rdf:resource="004080"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=004080"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7004983"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7004983"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

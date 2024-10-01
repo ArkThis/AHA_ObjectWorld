@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="010949">
+<dc:coverage>1400-1410</dc:coverage>
+<dc:date>1400-1410</dc:date>
+<dc:description xml:lang="de">Wandmalerei-Zyklus/sakral</dc:description>
+<dc:identifier>010949</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Kreuztragung Christi</dc:subject>
+<dc:title xml:lang="de">Kreuztragung Christi</dc:title>
+<dc:title xml:lang="en">Carrying of the cross</dc:title>
+<dcterms:created>1400-1410</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Freskomalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">fresco painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Selo v Prekmurju</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Filialkirche St. Nikolaus - Selo v Prekmurju - Slowenien</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">haltend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Trauergestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">kreuztragend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kettenhemd</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">nackt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hut</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beinling</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schapel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Heuke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">barfuß</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hose</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kittel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Beckenhaube</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Obergewand</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stiefel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Christus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Simon von Zyrene</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schächer</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Scherge</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wiesenpflanze</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Halsfessel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuz</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885347095">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885347095"/>
+<dc:description xml:lang="de">Wandmalerei-Zyklus/sakral</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=010949">
+<edm:aggregatedCHO rdf:resource="010949"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=010949"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7011280"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7011280"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

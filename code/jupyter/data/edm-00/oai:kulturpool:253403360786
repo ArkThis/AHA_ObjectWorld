@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="7180e">
+<dc:creator rdf:resource="#Martin_von_Molitor_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">undatiert</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>7180e</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dc:subject xml:lang="en">prints</dc:subject>
+<dc:title xml:lang="de">Landschaft</dc:title>
+<dc:type xml:lang="de">Druck</dc:type>
+<dcterms:created xml:lang="de">undatiert</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Barock</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Baroque</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Radierung</dcterms:medium>
+<dcterms:provenance xml:lang="de">1984 Ankauf Sotheby's, München</dcterms:provenance>
+<dcterms:temporal>Spätbarock</dcterms:temporal>
+<edm:isRelatedTo xml:lang="de">Landschaften in der gemäßigten Zone :+:</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">(kleiner) Hügel, Erdwall, Hügelsaum</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403360786">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=253403360786"/>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">Österreichische Galerie Belvedere</dc:rights>
+<dc:rights xml:lang="de">CC BY-SA 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">Barock</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Baroque</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</edm:WebResource>
+<edm:WebResource rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/9081/full/full/0/default.jpg">
+<svcs:has_service rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/9081"/>
+<dcterms:isReferencedBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-10662/manifest/"/>
+</edm:WebResource>
+<svcs:Service rdf:about="https://sammlung.belvedere.at/apis/iiif/image/v2/9081">
+<dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/>
+<doap:implements rdf:resource="http://iiif.io/api/image/2/level2.json"/>
+</svcs:Service>
+<edm:Agent rdf:about="#Martin_von_Molitor_K&#xFC;nstler/in">
+<skos:prefLabel>Martin von Molitor (Künstler/in)</skos:prefLabel>
+<dc:date>undatiert</dc:date>
+<dcterms:isPartOf xml:lang="de">Barock</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Baroque</dcterms:isPartOf>
+<foaf:name xml:lang="de">Martin von Molitor</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.belvedere.at/objects/10662/landschaft">
+<edm:aggregatedCHO rdf:resource="7180e"/>
+<edm:dataProvider>Österreichische Galerie Belvedere</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.belvedere.at/objects/10662/landschaft"/>
+<edm:isShownBy rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/9081/full/full/0/default.jpg"/>
+<edm:object rdf:resource="https://sammlung.belvedere.at/apis/iiif/image/v2/9081/full/200%2C/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

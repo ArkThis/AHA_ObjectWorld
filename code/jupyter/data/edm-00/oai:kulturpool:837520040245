@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="231320">
+<dc:creator rdf:resource="#Unbekannt_Zeichner"/>
+<dc:creator rdf:resource="#Postkarten-Industrie_AG_Wien_(POSTIAG)_Verlag"/>
+<dc:date xml:lang="de">1930</dc:date>
+<dc:identifier>231320</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dc:subject xml:lang="de">Karlsplatz</dc:subject>
+<dc:subject xml:lang="de">Sehenswürdigkeiten</dc:subject>
+<dc:subject xml:lang="de">Park</dc:subject>
+<dc:subject xml:lang="de">Universitäten</dc:subject>
+<dc:subject xml:lang="de">Bildung und Ausbildung</dc:subject>
+<dc:type xml:lang="de">Postkarten</dc:type>
+<dc:type xml:lang="de">illustriert</dc:type>
+<dc:type xml:lang="de">ohne Mitteilung</dc:type>
+<dc:type xml:lang="de">nicht gelaufen</dc:type>
+<dc:title xml:lang="de">"Wien, Technik und Karlskirche, Resselpark."</dc:title>
+<dc:title xml:lang="de">4., Karlsplatz - Schrägansicht der Technischen Universität, im Hintergrund Karlskirche, Ansichtskarte</dc:title>
+<dc:type rdf:resource="https://iconclass.org/11Q712"/>
+<dc:type rdf:resource="https://iconclass.org/25I13"/>
+<dc:type rdf:resource="https://iconclass.org/61F"/>
+<dc:type rdf:resource="https://iconclass.org/61F"/>
+<dcterms:created xml:lang="de">1930</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<dcterms:spatial xml:lang="de">4. Bezirk: Wieden</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520040245">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=837520040245"/>
+<dc:rights xml:lang="de">CC0 1.0 Universell
+                                - freie Weiternutzung</dc:rights>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Unbekannt_Zeichner">
+<skos:prefLabel>Unbekannt (Zeichner)</skos:prefLabel>
+<dc:date>1930</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Unbekannt</foaf:name>
+<rdaGr2:professionOrOccupation>Zeichner</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Postkarten-Industrie_AG_Wien_(POSTIAG)_Verlag">
+<skos:prefLabel>Postkarten-Industrie AG, Wien (POSTIAG) (Verlag)</skos:prefLabel>
+<dc:date>1930</dc:date>
+<dcterms:isPartOf xml:lang="de">Grafik- und Fotosammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Postkarten-Industrie AG, Wien (POSTIAG)</foaf:name>
+<rdaGr2:professionOrOccupation>Verlag</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlung.wienmuseum.at/objekt/617834">
+<edm:aggregatedCHO rdf:resource="231320"/>
+<edm:dataProvider>Wien Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.wienmuseum.at/objekt/617834"/>
+<edm:isShownBy rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=617834/1288727_default.jpg"/>
+<edm:object rdf:resource="http://www.kulturpool.at/rest/export/1.0/proxy/wienmuseum/?id=617834/1288727_preview.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

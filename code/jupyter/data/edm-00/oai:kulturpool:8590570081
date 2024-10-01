@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="&#10;&#9;&#9;&#9;&#9;&#9;1390CA23-135-001BE-00000FB0-138FE4B8&#10;&#9;&#9;&#9;&#9;">
+<dc:date>31.05.2006</dc:date>
+<dc:description xml:lang="de">Bruno bzw. JJ1. Der Braunbär der keine Scheu vor Siedlungen und den Menschen hat wird zum Problem. Ö1-Morgenjournal. Der Braunbär wird nach dreiwöchigen, erfolglosen Fangversuchen - trotz aufkommender Proteste - zum Abschuss freigegeben, und in Bayern am 26. Juni 2006 erlegt. Der ausgestopfte Bär ist seit März 2008 im Museum Mensch und Natur (Schloss Nymphenburg, München) ausgestellt.</dc:description>
+<dc:format>, Mp3-Audiodatei</dc:format>
+<dc:identifier>
+					1390CA23-135-001BE-00000FB0-138FE4B8
+				</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Wien : Österreichische Mediathek</dc:publisher>
+<dc:rights xml:lang="de">Rights Reserved - Free Access</dc:rights>
+<dc:source xml:lang="de">Wien : Österreichische Mediathek, e51-0605310600_b02</dc:source>
+<dc:title xml:lang="de">Bruno - ein Problembär? [Ausschnitt]</dc:title>
+<dcterms:alternative>Gesellschaft</dcterms:alternative>
+<dcterms:alternative>Natur</dcterms:alternative>
+<dcterms:alternative>Radiosendung-Mitschnitt</dcterms:alternative>
+<dcterms:created>31.05.2006</dcterms:created>
+<edm:type>SOUND</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=8590570081">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=8590570081"/>
+<dc:description xml:lang="de">Bruno bzw. JJ1. Der Braunbär der keine Scheu vor Siedlungen und den Menschen hat wird zum Problem. Ö1-Morgenjournal. Der Braunbär wird nach dreiwöchigen, erfolglosen Fangversuchen - trotz aufkommender Proteste - zum Abschuss freigegeben, und in Bayern am 26. Juni 2006 erlegt. Der ausgestopfte Bär ist seit März 2008 im Museum Mensch und Natur (Schloss Nymphenburg, München) ausgestellt.</dc:description>
+<dc:format>, Mp3-Audiodatei</dc:format>
+<dc:rights xml:lang="de">Rights Reserved - Free Access</dc:rights>
+<dc:source xml:lang="de">Wien : Österreichische Mediathek, e51-0605310600_b02</dc:source>
+</edm:WebResource>
+<ore:Aggregation>
+<edm:aggregatedCHO rdf:resource="&#10;&#9;&#9;&#9;&#9;&#9;1390CA23-135-001BE-00000FB0-138FE4B8&#10;&#9;&#9;&#9;&#9;"/>
+<edm:dataProvider>Österreichische Mediathek</edm:dataProvider>
+<edm:isShownBy rdf:resource="http://www.mediathek.at/atom/1390CA23-135-001BE-00000FB0-138FE4B8"/>
+<edm:object rdf:resource="http://www.mediathek.at/type/apiimage/atom/1390CA23-135-001BE-00000FB0-138FE4B8"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="WI 1252">
+<dc:contributor rdf:resource="#Johnov&#xE1;_Helena_Entwurf"/>
+<dc:contributor rdf:resource="#Keramische_Werkgenossenschaft_Manufaktur"/>
+<dc:description xml:lang="de">kleine Topfvase mit gewellter Wandung, Keramik, weißer Ton, getöpfert, mit grauer und weißer Engobe in Linien begossen und verwischt („Marmoriereindruck“), transparent glänzend glasiert</dc:description>
+<dc:identifier>WI 1252</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Vase</dc:title>
+<dc:title xml:lang="en">vase</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300132254"/>
+<dcterms:extent>Durchmesser: 10.4 cm</dcterms:extent>
+<dcterms:extent>Höhe: 8.8 cm</dcterms:extent>
+<dcterms:extent>Gewicht: 314 g</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Keramik</dcterms:medium>
+<dcterms:medium xml:lang="en">ceramic</dcterms:medium>
+<dcterms:medium xml:lang="de">Engobe</dcterms:medium>
+<dcterms:medium xml:lang="en">engobe</dcterms:medium>
+<dcterms:medium xml:lang="de">Glasur</dcterms:medium>
+<dcterms:medium xml:lang="en">glaze</dcterms:medium>
+<dcterms:medium xml:lang="de">getöpfert</dcterms:medium>
+<dcterms:medium xml:lang="en">formed pottery</dcterms:medium>
+<dcterms:medium xml:lang="de">engobiert</dcterms:medium>
+<dcterms:medium xml:lang="en">engobed</dcterms:medium>
+<dcterms:medium xml:lang="de">Schlickermalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">slip trailing</dcterms:medium>
+<dcterms:medium xml:lang="de">glasiert</dcterms:medium>
+<dcterms:medium xml:lang="en">glazed</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1914-01-07)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1914-01-07)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#107375065745"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375065745">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375065745"/>
+<dc:description xml:lang="de">kleine Topfvase mit gewellter Wandung, Keramik, weißer Ton, getöpfert, mit grauer und weißer Engobe in Linien begossen und verwischt („Marmoriereindruck“), transparent glänzend glasiert</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Johnov&#xE1;_Helena_Entwurf">
+<skos:prefLabel xml:lang="de">Johnová, Helena (Entwurf) (Wien, um 1913)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Johnová, Helena</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1923</edm:end>
+<foaf:name xml:lang="de">Johnová, Helena</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, um 1913</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, about 1913</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Keramische_Werkgenossenschaft_Manufaktur">
+<skos:prefLabel xml:lang="de">Keramische Werkgenossenschaft (Manufaktur) (Wien, um 1913)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Keramische Werkgenossenschaft</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1923</edm:end>
+<foaf:name xml:lang="de">Keramische Werkgenossenschaft</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, um 1913</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, about 1913</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Manufaktur</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375065745">
+<skos:prefLabel>1903-1923</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+<edm:end>1923</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-17264">
+<edm:aggregatedCHO rdf:resource="WI 1252"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/wi-1252_2.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-17264"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/wi-1252_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/wi-1252_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

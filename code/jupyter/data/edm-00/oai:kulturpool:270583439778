@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="MK_R&#xD6;_29957">
+<dc:creator rdf:resource="#Arcadius_(383&#x2013;408)_Pr&#xE4;geherr"/>
+<dc:date>393–395 n. Chr.</dc:date>
+<dc:description xml:lang="de">Beschriftung: Vorderseite : D N ARCADI - VS P F AVG
+Büste des Arcadius nach rechts mit Perlendiadem und Paludament über Cüraß (PDiad2PCv)</dc:description>
+<dc:description xml:lang="de">Beschriftung: Rückseite : VICTOR - IA AVGGG I
+Kaiser nach rechts stehend, hält Standarte und Victoriola auf Globus, tritt auf einen Gefangenen</dc:description>
+<dc:identifier>MK_RÖ_29957</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Kunsthistorisches Museum Wien, Münzkabinett</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Arcadius</dc:title>
+<dc:type xml:lang="de">Münze</dc:type>
+<dc:type xml:lang="de">Solidus</dc:type>
+<dcterms:created>393–395 n. Chr.</dcterms:created>
+<dcterms:extent xml:lang="de">Münze: Gewicht: 4,34 g, Stempelstellung: 12 Uhr, Durchmesser: 20,1 mm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Gold</dcterms:medium>
+<dcterms:spatial xml:lang="de">Sir</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#270583439778"/>
+<edm:isRelatedTo xml:lang="de">Solidus</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270583439778">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270583439778"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Arcadius_(383&#x2013;408)_Pr&#xE4;geherr">
+<skos:prefLabel>Arcadius (383–408) (Prägeherr)</skos:prefLabel>
+<dc:date>393–395 n. Chr.</dc:date>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<foaf:name xml:lang="de">Arcadius (383–408)</foaf:name>
+<rdaGr2:professionOrOccupation>Prägeherr</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#270583439778">
+<skos:prefLabel>393-395</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<edm:begin>393</edm:begin>
+<edm:end>395</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.khm.at/de/objektdb/detail/1146240/">
+<edm:aggregatedCHO rdf:resource="MK_R&#xD6;_29957"/>
+<edm:dataProvider>Kunsthistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.khm.at/de/objektdb/detail/1146240/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/1146240/MK_RO_029957_1.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/1146240/MK_RO_029957_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

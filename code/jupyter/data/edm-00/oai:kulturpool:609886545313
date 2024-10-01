@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="PA-198">
+<dc:contributor rdf:resource="#Josef_Dabernig_K&#xFC;nstler/in"/>
+<dc:date xml:lang="de">1998</dc:date>
+<dc:description xml:lang="de">Die laut Ausschreibung für die künstlerische Gestaltung vorgesehene Eingangshalle ist von stark raumgreifenden Akzenten, wie einer elliptischen Andachtskapelle, einer Getränke- und Snackbar, diversen Sitz- bzw. Tischmöblierungen und einer in Geschoßhöhe den Raum durchstoßenden Metallbrücke geprägt. Dem Rechnung tragend regten Auslober und Architekt die einzig leer verbliebene doppel-geschossige Wandfläche rechts nach dem Betreten der Halle als Ort der künstlerischen Intervention an. Diese Fläche wurde von mir mit einem 275 cm breiten und 414 cm hohen computergenerierten Großbild bestückt. Das bei Dunkelheit von hinten beleuchtete Bild zeigt ? technologiebedingt überhöht ? die Erdgeschoßebene des Pensionistenheimes als Architektenplan. Damit sieht sich der Besucher oder Bewohner des Hauses eingangs mit der Abstraktion der gesamten Anlage konfrontiert; seinem sinnlichen Erfahren wird gleichsam ein codiertes unterschoben. Parallel dazu ist die Großbilddarstellung des Planes als Bewußtseinskatalysator der Bildrezeption zu lesen: Handelt es sich bei der Darstellung um Information? Handelt es sich um Transformation? Reproduzierte Zeichen stehen - als Metapher der Realitäts- bzw. Abstraktionsfrage - gleichermaßen in größtmöglicher Distanz wie in ursächlicher Bindung zum Ort als Erfahrungsraum. (Josef Dabernig) Architekt: Heinrich Strixner http://128.130.108.39/Daberni…</dc:description>
+<dc:identifier>PA-198</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dc:subject xml:lang="de">Kunst im öffentlichen Raum</dc:subject>
+<dc:title xml:lang="de">Projekt im Landespensionisten und Pflegeheim Vösendorf</dc:title>
+<dcterms:created xml:lang="de">1998</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Kunst im öffentlichen Raum – Kunst am Bau</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Druck auf LKW-Plane</dcterms:medium>
+<dcterms:medium xml:lang="de">3 CAD Grafiken</dcterms:medium>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886545313">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=609886545313"/>
+<dc:description xml:lang="de">Die laut Ausschreibung für die künstlerische Gestaltung vorgesehene Eingangshalle ist von stark raumgreifenden Akzenten, wie einer elliptischen Andachtskapelle, einer Getränke- und Snackbar, diversen Sitz- bzw. Tischmöblierungen und einer in Geschoßhöhe den Raum durchstoßenden Metallbrücke geprägt. Dem Rechnung tragend regten Auslober und Architekt die einzig leer verbliebene doppel-geschossige Wandfläche rechts nach dem Betreten der Halle als Ort der künstlerischen Intervention an. Diese Fläche wurde von mir mit einem 275 cm breiten und 414 cm hohen computergenerierten Großbild bestückt. Das bei Dunkelheit von hinten beleuchtete Bild zeigt ? technologiebedingt überhöht ? die Erdgeschoßebene des Pensionistenheimes als Architektenplan. Damit sieht sich der Besucher oder Bewohner des Hauses eingangs mit der Abstraktion der gesamten Anlage konfrontiert; seinem sinnlichen Erfahren wird gleichsam ein codiertes unterschoben. Parallel dazu ist die Großbilddarstellung des Planes als Bewußtseinskatalysator der Bildrezeption zu lesen: Handelt es sich bei der Darstellung um Information? Handelt es sich um Transformation? Reproduzierte Zeichen stehen - als Metapher der Realitäts- bzw. Abstraktionsfrage - gleichermaßen in größtmöglicher Distanz wie in ursächlicher Bindung zum Ort als Erfahrungsraum. (Josef Dabernig) Architekt: Heinrich Strixner http://128.130.108.39/Daberni…</dc:description>
+<dc:rights xml:lang="de">InC-EDU 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Kunst im öffentlichen Raum – Kunst am Bau</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Josef_Dabernig_K&#xFC;nstler/in">
+<skos:prefLabel>Josef Dabernig (Künstler/in)</skos:prefLabel>
+<dc:date>1998</dc:date>
+<dcterms:isPartOf xml:lang="de">Kunst im öffentlichen Raum – Kunst am Bau</dcterms:isPartOf>
+<foaf:name xml:lang="de">Josef Dabernig</foaf:name>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://www.online.landessammlungen-noe.at/objects/1040405/projekt-im-landespensionisten-und-pflegeheim-vosendorf">
+<edm:aggregatedCHO rdf:resource="PA-198"/>
+<edm:dataProvider>Landessammlungen Niederösterreich</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://www.online.landessammlungen-noe.at/objects/1040405/projekt-im-landespensionisten-und-pflegeheim-vosendorf"/>
+<edm:isShownBy rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/91305"/>
+<edm:object rdf:resource="https://www.online.landessammlungen-noe.at/internal/media/dispatcher/91305"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC-EDU/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

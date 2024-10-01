@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 7604-45">
+<dc:contributor rdf:resource="#Anonym_Ausf&#xFC;hrung"/>
+<dc:contributor rdf:resource="#Kikugawa_Eizan_&#x83CA;&#x5DDD;&#x82F1;&#x5C71;_Entwurf"/>
+<dc:contributor rdf:resource="#Katsushika_&#x845B;&#x98FE;&#x6D3E;_(Schule)_Schule"/>
+<dc:contributor rdf:resource="#Kikugawa_&#x83CA;&#x5DDD;&#x6D3E;_(Schule)_Schule"/>
+<dc:description xml:lang="de">Kikugawa Eizanhitsu 菊川英山筆 Kurtisane mit Katze im Arm. Über dem Kimono trägt sie eine lange Jacke. Titelkartusche wird von Päonien umrankt. Utamaro 歌麿 hat mehrere Bilder mit diesem oder einem ähnlichen Titel gezeichnet. Dabei hat er stets verschiedene Frauentypen bzw. -gruppen zum Thema gemacht Der Titel des Bildes könnte sich aber auch auf den Titel einer Haikai 俳諧-Sammlung aus dem Jahr 1731 beziehen. Das Werk stammt von fünf Dichtern und wurde vom Verleger Tokuraya Kihei herausgegeben.</dc:description>
+<dc:identifier>KI 7604-45</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Fünf Abstufungen von Tusche (Goshikizumi 五色墨)</dc:title>
+<dc:title xml:lang="en">Five shades of ink</dc:title>
+<dc:title xml:lang="ja">五色墨</dc:title>
+<dc:title xml:lang="de">Sammlung modischer Schönheiten (Fūryū bijin soroi 風流美人揃) (Serientitel)</dc:title>
+<dc:title xml:lang="en">Collection of modern beauties (Serientitel)</dc:title>
+<dc:title xml:lang="ja">風流美人揃 (Serientitel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300106769"/>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300041412"/>
+<dcterms:extent>Höhe: 39 cm</dcterms:extent>
+<dcterms:extent>Breite: 26.2 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1905)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1905)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4028495-5"/>
+<dcterms:temporal rdf:resource="temporal#107375063983"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375063983">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=107375063983"/>
+<dc:description xml:lang="de">Kikugawa Eizanhitsu 菊川英山筆 Kurtisane mit Katze im Arm. Über dem Kimono trägt sie eine lange Jacke. Titelkartusche wird von Päonien umrankt. Utamaro 歌麿 hat mehrere Bilder mit diesem oder einem ähnlichen Titel gezeichnet. Dabei hat er stets verschiedene Frauentypen bzw. -gruppen zum Thema gemacht Der Titel des Bildes könnte sich aber auch auf den Titel einer Haikai 俳諧-Sammlung aus dem Jahr 1731 beziehen. Das Werk stammt von fünf Dichtern und wurde vom Verleger Tokuraya Kihei herausgegeben.</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Anonym_Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Anonym (Ausführung) (Japan, um 1810)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1804</edm:begin>
+<edm:end>1818</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1810</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1810</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kikugawa_Eizan_&#x83CA;&#x5DDD;&#x82F1;&#x5C71;_Entwurf">
+<skos:prefLabel xml:lang="de">Kikugawa Eizan 菊川英山 (Entwurf) (Japan, um 1810)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Kikugawa Eizan 菊川英山</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1804</edm:begin>
+<edm:end>1818</edm:end>
+<foaf:name xml:lang="de">Kikugawa Eizan 菊川英山</foaf:name>
+<foaf:name xml:lang="en">Kikugawa Eizan 菊川英山</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1810</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1810</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Katsushika_&#x845B;&#x98FE;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Katsushika 葛飾派 (Schule) (Schule) (Japan, um 1810)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Katsushika 葛飾派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1804</edm:begin>
+<edm:end>1818</edm:end>
+<foaf:name xml:lang="de">Katsushika 葛飾派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Katsushika 葛飾派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1810</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1810</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kikugawa_&#x83CA;&#x5DDD;&#x6D3E;_(Schule)_Schule">
+<skos:prefLabel xml:lang="de">Kikugawa 菊川派 (Schule) (Schule) (Japan, um 1810)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Kikugawa 菊川派 (Schule)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1804</edm:begin>
+<edm:end>1818</edm:end>
+<foaf:name xml:lang="de">Kikugawa 菊川派 (Schule)</foaf:name>
+<foaf:name xml:lang="en">Kikugawa 菊川派 (school)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Japan, um 1810</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Japan, about 1810</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Schule</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#107375063983">
+<skos:prefLabel>1804-1818</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Asien (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Asia Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">アジアコレクション (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ukiyo-e (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Ukiyo-e collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Sammlung Heinrich Siebold (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Heinrich Siebold collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">ハインリッヒ・シーボルドコレクション (Sammlung)</dcterms:isPartOf>
+<edm:begin>1804</edm:begin>
+<edm:end>1818</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-195001">
+<edm:aggregatedCHO rdf:resource="KI 7604-45"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-195001"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-7604-45_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-7604-45_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

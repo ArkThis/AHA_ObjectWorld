@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 12271-24">
+<dc:contributor rdf:resource="#Wiener_Werkst&#xE4;tte_Produktion"/>
+<dc:contributor rdf:resource="#Leisching_Marianne_Entwurf_Dekor"/>
+<dc:contributor rdf:resource="#Bechst&#xE4;dt-Hirsch_Leopoldine_Entwurf_Form"/>
+<dc:identifier>KI 12271-24</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>iv</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">"Emailschale" Aschenschale (Originaltitel)</dc:title>
+<dc:title xml:lang="iv"> (Originaltitel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300102051"/>
+<dcterms:extent>Höhe: 16.5 cm</dcterms:extent>
+<dcterms:extent>Breite: 20 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Archiv der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Entwurfszeichnungen der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design sketches from the Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Bleistift</dcterms:medium>
+<dcterms:medium xml:lang="en">graphite pencil</dcterms:medium>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Gouache</dcterms:medium>
+<dcterms:medium xml:lang="en">gouache</dcterms:medium>
+<dcterms:provenance xml:lang="de">Schenkung / Donation (1955)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">donation (1955)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#111670073125"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=111670073125">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=111670073125"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Archiv der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Entwurfszeichnungen der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design sketches from the Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Wiener_Werkst&#xE4;tte_Produktion">
+<skos:prefLabel xml:lang="de">Wiener Werkstätte (Produktion) (Wien, vor 1926)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Archiv der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Entwurfszeichnungen der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design sketches from the Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<edm:begin>1925</edm:begin>
+<edm:end>1926-10-28</edm:end>
+<foaf:name xml:lang="de">Wiener Werkstätte</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, vor 1926</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Produktion</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Leisching_Marianne_Entwurf_Dekor">
+<skos:prefLabel xml:lang="de">Leisching, Marianne (Entwurf Dekor) (Wien, vor 1926)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Leisching, Marianne</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Archiv der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Entwurfszeichnungen der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design sketches from the Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<edm:begin>1925</edm:begin>
+<edm:end>1926-10-28</edm:end>
+<foaf:name xml:lang="de">Leisching, Marianne</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, vor 1926</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, before 1926</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf Dekor</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Bechst&#xE4;dt-Hirsch_Leopoldine_Entwurf_Form">
+<skos:prefLabel xml:lang="de">Bechstädt-Hirsch, Leopoldine (Entwurf Form) (Wien, vor 1926)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Archiv der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Entwurfszeichnungen der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design sketches from the Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<edm:begin>1925</edm:begin>
+<edm:end>1926-10-28</edm:end>
+<foaf:name xml:lang="de">Bechstädt-Hirsch, Leopoldine</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, vor 1926</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf Form</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#111670073125">
+<skos:prefLabel>1925-1926</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Archiv der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Entwurfszeichnungen der Wiener Werkstätte (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">design sketches from the Wiener Werkstätte archive (Collection)</dcterms:isPartOf>
+<edm:begin>1925</edm:begin>
+<edm:end>1926</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-234086">
+<edm:aggregatedCHO rdf:resource="KI 12271-24"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-234086"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-12271-24_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-12271-24_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="T 13527-111">
+<dc:contributor rdf:resource="#Rottmann_Alexander_&amp;_Co._Ausf&#xFC;hrung"/>
+<dc:identifier>T 13527-111</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Drawing Rooms, Sitting Rooms, Bed Rooms (Originaltitel)</dc:title>
+<dc:title xml:lang="en">Tendrils with large leaves and flowers, light shades of blue, light blue background, small yellow flowers (Originaltitel)</dc:title>
+<dc:title xml:lang="de">Ranken mit großen Blättern und Blüten, helle Blautöne auf hellblauem Grund mit kleinen gelben Blüten (deskriptiver Titel)</dc:title>
+<dc:title xml:lang="en">Tendrils with large leaves and flowers, light shades of blue on light blue background with small yellow flowers (deskriptiver Titel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4184454-3"/>
+<dcterms:extent>Höhe: 107 cm</dcterms:extent>
+<dcterms:extent>Breite: 55 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Textiles and Carpets Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">textiles and carpets collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">bedruckt</dcterms:medium>
+<dcterms:medium xml:lang="en">printed</dcterms:medium>
+<dcterms:provenance xml:lang="de">Übernahme (1908)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">assumption (1908)</dcterms:provenance>
+<dcterms:provenance xml:lang="ja">引継 (1908)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4074335-4"/>
+<dcterms:temporal rdf:resource="temporal#115965077121"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965077121">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=115965077121"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Textiles and Carpets Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">textiles and carpets collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Rottmann_Alexander_&amp;_Co._Ausf&#xFC;hrung">
+<skos:prefLabel xml:lang="de">Rottmann, Alexander &amp; Co. (Ausführung) (London, 1893)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Rottmann, Alexander &amp; Co.</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Textiles and Carpets Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">textiles and carpets collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:begin>1893</edm:begin>
+<edm:end>1893</edm:end>
+<foaf:name xml:lang="de">Rottmann, Alexander &amp; Co.</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">London, 1893</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">London, 1893</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Ausführung</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#115965077121">
+<skos:prefLabel>1893-1893</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Textiles and Carpets Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Textilien und Teppiche (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">textiles and carpets collection (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Handelsmuseum (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Handelsmuseum (Collection)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja">商業博物館 (Sammlung)</dcterms:isPartOf>
+<edm:begin>1893</edm:begin>
+<edm:end>1893</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-124322">
+<edm:aggregatedCHO rdf:resource="T 13527-111"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-124322"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/t-13527-111_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/t-13527-111_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

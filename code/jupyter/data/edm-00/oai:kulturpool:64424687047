@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 2205-3">
+<dc:creator rdf:resource="#Schmutzer_Adam_Entwurf"/>
+<dc:identifier>KI 2205-3</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright (InC)</dc:rights>
+<dc:title xml:lang="de">Die Arche Noah, Vignette aus: Augustini de Natura et origine Animae epistola secunda. Viennae Austriae</dc:title>
+<dc:type xml:lang="de">Ornamentstich</dc:type>
+<dcterms:extent xml:lang="de">4 cm x 13,4 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier / Radierung</dcterms:medium>
+<dcterms:provenance xml:lang="de">Schenkung / Donation 1871</dcterms:provenance>
+<dcterms:temporal rdf:resource="temporal#64424687047"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=64424687047">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=64424687047"/>
+<dc:rights xml:lang="de">In Copyright (InC)</dc:rights>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/page/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Schmutzer_Adam_Entwurf">
+<skos:prefLabel>Schmutzer, Adam (Entwurf)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Schmutzer, Adam</foaf:name>
+<rdaGr2:professionOrOccupation>Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#64424687047">
+<skos:prefLabel>1701-1800</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Ornamentstichsammlung</dcterms:isPartOf>
+<edm:begin>1701</edm:begin>
+<edm:end>1800</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://sammlung.mak.at/sammlung_online?object_number=KI 2205-3">
+<edm:aggregatedCHO rdf:resource="KI 2205-3"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://sammlung.mak.at/sammlung_online?object_number=KI 2205-3"/>
+<edm:isShownBy rdf:resource="http://sammlung.mak.at/img/800x800/publikationsbilder/ki-2205-3_1.jpg"/>
+<edm:object rdf:resource="http://sammlung.mak.at/img/800x800/publikationsbilder/ki-2205-3_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/page/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

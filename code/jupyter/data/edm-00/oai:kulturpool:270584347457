@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="MK_GR_26459">
+<dc:creator rdf:resource="#Tiberius_(14&#x2013;37)_Pr&#xE4;geherr"/>
+<dc:date>27–28 n. Chr.</dc:date>
+<dc:description xml:lang="de">Beschriftung: Vorderseite : TI CAESAR DIVI AVG F AVGVST IMP VIII
+Büste des Tiberius nach links</dc:description>
+<dc:description xml:lang="de">Beschriftung: Rückseite :  	C VIB MARSO PR COS NE CAE Q PR A M GEMELLVS F C; D - D / P - P
+Livia, mit Schleier, sitzt nach rechts, hält Patera und langes Szepter</dc:description>
+<dc:identifier>MK_GR_26459</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Kunsthistorisches Museum Wien, Münzkabinett</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Utica: Tiberius</dc:title>
+<dc:type xml:lang="de">Münze</dc:type>
+<dc:type xml:lang="de">(nicht vergeben)</dc:type>
+<dcterms:created>27–28 n. Chr.</dcterms:created>
+<dcterms:extent xml:lang="de">Münze: Gewicht: 11,97 g, Stempelstellung: 9 Uhr, Durchmesser: 30,3 mm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Buntmetall</dcterms:medium>
+<dcterms:spatial xml:lang="de">Utica</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#270584347457"/>
+<edm:isRelatedTo xml:lang="de">(nicht vergeben)</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270584347457">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270584347457"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Tiberius_(14&#x2013;37)_Pr&#xE4;geherr">
+<skos:prefLabel>Tiberius (14–37) (Prägeherr)</skos:prefLabel>
+<dc:date>27–28 n. Chr.</dc:date>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<foaf:name xml:lang="de">Tiberius (14–37)</foaf:name>
+<rdaGr2:professionOrOccupation>Prägeherr</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#270584347457">
+<skos:prefLabel>27-28</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Münzkabinett</dcterms:isPartOf>
+<edm:begin>27</edm:begin>
+<edm:end>28</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.khm.at/de/objektdb/detail/1437975/">
+<edm:aggregatedCHO rdf:resource="MK_GR_26459"/>
+<edm:dataProvider>Kunsthistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.khm.at/de/objektdb/detail/1437975/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/1437975/MK_GR_026459_1.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/1437975/MK_GR_026459_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

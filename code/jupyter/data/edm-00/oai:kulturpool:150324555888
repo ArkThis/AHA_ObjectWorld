@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:baa.onb.at:14280976">
+<dc:date>1915-06-24</dc:date>
+<dc:description xml:lang="de">Verordnung 1: Polizeiliche Regelung von Gast- und Schankgewerbe – Zeitliche Einschränkung – Verbot des Ausschanks an einzelne Personengruppen – Örtliche Bestimmungen – Ausnahme zu Heilzwecken – Anschlagen der Verordnung – Übertretungen werden bestraft – K. k. Landespräsident in Salzburg vom 24. Juni 1915, Präs. Zl. 7240 – Für den k. k. Landespräsidenten: Rambousek
+Verordnung 2: Öffnungszeitenregelung – Verbot des Ausschanks an gewisse Personengruppen – k. k. Bezirkshauptmannschaft Salzburg vom 25. Juni 1915 - K. k. Bezirkshauptmannschaft – Zl. 21.086/4397</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>oai:baa.onb.at:14280976</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+<dc:subject xml:lang="de">Alkohol</dc:subject>
+<dc:subject xml:lang="de">Erster Weltkrieg</dc:subject>
+<dc:subject xml:lang="de">Europeana Collections 1914 - 1918</dc:subject>
+<dc:subject xml:lang="de">Gewerbe</dc:subject>
+<dc:subject xml:lang="de">Kriegssammlung</dc:subject>
+<dc:subject xml:lang="de">Medizin</dc:subject>
+<dc:subject xml:lang="de">Polizei</dc:subject>
+<dc:subject xml:lang="de">Textplakat</dc:subject>
+<dc:subject xml:lang="de">Verwaltung</dc:subject>
+<dc:subject xml:lang="en">Administration</dc:subject>
+<dc:subject xml:lang="en">First World War</dc:subject>
+<dc:subject xml:lang="en">Medicine</dc:subject>
+<dc:subject xml:lang="en">Police</dc:subject>
+<dc:subject xml:lang="en">Trade</dc:subject>
+<dc:title xml:lang="de">Verbot Alkoholmissbrauch – Verordnung – Salzburg</dc:title>
+<dc:type xml:lang="de">Plakat</dc:type>
+<dcterms:created>1915-06-24</dcterms:created>
+<dcterms:spatial xml:lang="de">Salzburg</dcterms:spatial>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=150324555888">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=150324555888"/>
+<dc:description xml:lang="de">Verordnung 1: Polizeiliche Regelung von Gast- und Schankgewerbe – Zeitliche Einschränkung – Verbot des Ausschanks an einzelne Personengruppen – Örtliche Bestimmungen – Ausnahme zu Heilzwecken – Anschlagen der Verordnung – Übertretungen werden bestraft – K. k. Landespräsident in Salzburg vom 24. Juni 1915, Präs. Zl. 7240 – Für den k. k. Landespräsidenten: Rambousek
+Verordnung 2: Öffnungszeitenregelung – Verbot des Ausschanks an gewisse Personengruppen – k. k. Bezirkshauptmannschaft Salzburg vom 25. Juni 1915 - K. k. Bezirkshauptmannschaft – Zl. 21.086/4397</dc:description>
+<dc:format>image/jpeg</dc:format>
+<dc:rights xml:lang="de">ÖNB</dc:rights>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=14280976">
+<edm:aggregatedCHO rdf:resource="oai:baa.onb.at:14280976"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.bildarchivaustria.at/TELRequest.aspx?p_ImageID=14280976"/>
+<edm:isShownBy rdf:resource="http://www.bildarchivaustria.at/Preview/14280976.jpg"/>
+<edm:object rdf:resource="http://www.bildarchivaustria.at/Preview/14280976.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

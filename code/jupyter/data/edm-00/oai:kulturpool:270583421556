@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="GG_943a">
+<dc:creator rdf:resource="http://d-nb.info/118580647"/>
+<dc:date>um 1485/1490</dc:date>
+<dc:identifier>GG_943a</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Kunsthistorisches Museum Wien, Gemäldegalerie</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:subject xml:lang="en">painting</dc:subject>
+<dc:subject xml:lang="de">Gemälde</dc:subject>
+<dc:title xml:lang="de">Innenflügel des Johannesaltärchen: Johannes der Täufer</dc:title>
+<dc:type xml:lang="de">Gemälde</dc:type>
+<dcterms:created>um 1485/1490</dcterms:created>
+<dcterms:extent xml:lang="de">69,5 cm × 24,3 cm</dcterms:extent>
+<dcterms:extent xml:lang="de">Rahmenmaße: 79,5 cm × 28 cm × 7,5 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Gemäldegalerie</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Eichenholz</dcterms:medium>
+<dcterms:spatial xml:lang="de">Altniederländisch</dcterms:spatial>
+<dcterms:temporal rdf:resource="temporal#270583421556"/>
+<edm:isRelatedTo xml:lang="de">Gemälde</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270583421556">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=270583421556"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Gemäldegalerie</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="http://d-nb.info/118580647">
+<skos:prefLabel>Hans Memling (Künstler/in)</skos:prefLabel>
+<dc:date>um 1485/1490</dc:date>
+<dc:identifier>http://d-nb.info/118580647</dc:identifier>
+<dcterms:isPartOf xml:lang="de">Gemäldegalerie</dcterms:isPartOf>
+<foaf:name xml:lang="de">Hans Memling</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">um 1435 Seligenstadt am Main - 1494 Brügge</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler/in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#270583421556">
+<skos:prefLabel>1485-1490</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Gemäldegalerie</dcterms:isPartOf>
+<edm:begin>1485</edm:begin>
+<edm:end>1490</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.khm.at/de/objektdb/detail/2650/">
+<edm:aggregatedCHO rdf:resource="GG_943a"/>
+<edm:dataProvider>Kunsthistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.khm.at/de/objektdb/detail/2650/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/2650/GG_943a.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/2650/GG_943a.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

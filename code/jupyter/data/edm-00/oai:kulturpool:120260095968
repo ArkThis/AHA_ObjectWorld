@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="BI 21482-6">
+<dc:contributor rdf:resource="#Groh_Jakob_Illustrator"/>
+<dc:contributor rdf:resource="#Kunstgewerbeschule_des_K.K._&#xD6;sterreichischen_Museums_f&#xFC;r_Kunst_und_Industrie_(1868-1918)_Auftraggeber"/>
+<dc:identifier>BI 21482-6</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Vignette (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:title xml:lang="de">Seite aus der Festschrift des k. k. Österreichischen Museums (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="https://d-nb.info/gnd/4123412-1"/>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Buchdruck</dcterms:medium>
+<dcterms:medium xml:lang="en">letterpress print</dcterms:medium>
+<dcterms:medium xml:lang="de">Federzeichnung</dcterms:medium>
+<dcterms:medium xml:lang="en">pen and ink drawing</dcterms:medium>
+<dcterms:provenance xml:lang="de">Tausch (1937)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">exchange (1937)</dcterms:provenance>
+<dcterms:temporal rdf:resource="temporal#120260095968"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260095968">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260095968"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Groh_Jakob_Illustrator">
+<skos:prefLabel xml:lang="de">Groh, Jakob (Illustrator) (1889)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1889</edm:begin>
+<edm:end>1889</edm:end>
+<foaf:name xml:lang="de">Groh, Jakob</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1889</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Illustrator</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Kunstgewerbeschule_des_K.K._&#xD6;sterreichischen_Museums_f&#xFC;r_Kunst_und_Industrie_(1868-1918)_Auftraggeber">
+<skos:prefLabel xml:lang="de">Kunstgewerbeschule des K.K. Österreichischen Museums für Kunst und Industrie (1868-1918) (Auftraggeber) (1889)</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1889</edm:begin>
+<edm:end>1889</edm:end>
+<foaf:name xml:lang="de">Kunstgewerbeschule des K.K. Österreichischen Museums für Kunst und Industrie (1868-1918)</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1889</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Auftraggeber</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260095968">
+<skos:prefLabel>1889-1889</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Ausstattungs- / Künstlerbücher (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">artists' books (Collection)</dcterms:isPartOf>
+<edm:begin>1889</edm:begin>
+<edm:end>1889</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-226100">
+<edm:aggregatedCHO rdf:resource="BI 21482-6"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-226100"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/bi-21482-6_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/bi-21482-6_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

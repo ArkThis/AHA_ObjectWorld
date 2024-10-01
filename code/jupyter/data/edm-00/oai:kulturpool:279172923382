@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="hdl:11471/562.20.339">
+<dc:contributor xml:lang="en">Centre for Information Modelling - Austrian Centre for Digital Humanities, University of Graz</dc:contributor>
+<dc:contributor xml:lang="de">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</dc:contributor>
+<dc:date>1475-04-28</dc:date>
+<dc:description xml:lang="de">Galeazzo Maria Sforza erteilt den Brüdern Bartolomeo und Damiano de Roncadellis die Erlaubnis Wein auszuschenken.</dc:description>
+<dc:identifier>hdl:11471/562.20.339</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-NC 4.0 - Attribution-NonCommercial 4.0 International</dc:rights>
+<dc:subject xml:lang="de">N1: historisiert</dc:subject>
+<dc:subject xml:lang="en">N1: historiated</dc:subject>
+<dc:subject xml:lang="de">N1: Initiale</dc:subject>
+<dc:subject xml:lang="en">N1: Initials</dc:subject>
+<dc:subject xml:lang="de">N1: mit zusätzlichen Farben</dc:subject>
+<dc:subject xml:lang="en">N1: with Additional Colours</dc:subject>
+<dc:subject xml:lang="de">N1: gemalt</dc:subject>
+<dc:subject xml:lang="en">N1: painted</dc:subject>
+<dc:subject xml:lang="de">N1: Randdekor</dc:subject>
+<dc:subject xml:lang="en">N1: Borders</dc:subject>
+<dc:subject xml:lang="de">N1: Wappen</dc:subject>
+<dc:subject xml:lang="en">N1: Coat of arms</dc:subject>
+<dc:title xml:lang="de">IlluminierteUrkunden 1475-04-28_Mailand</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300027621"/>
+<dc:type xml:lang="en">charter</dc:type>
+<dcterms:created>1475-04-28</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Urkunden als offene Forschungsdaten</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Charters Open Research Data</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+<owl:sameAs rdf:resource="http://gams.uni-graz.at/o:cord.232e73ec.00b4.31eb.9492.a9669604a34f">http://gams.uni-graz.at/o:cord.232e73ec.00b4.31eb.9492.a9669604a34f</owl:sameAs>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279172923382">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=279172923382"/>
+<dc:description xml:lang="de">Galeazzo Maria Sforza erteilt den Brüdern Bartolomeo und Damiano de Roncadellis die Erlaubnis Wein auszuschenken.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC 4.0 - Attribution-NonCommercial 4.0 International</dc:rights>
+<dcterms:isPartOf xml:lang="de">Urkunden als offene Forschungsdaten</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Charters Open Research Data</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://gams.uni-graz.at/o:cord.232e73ec.00b4.31eb.9492.a9669604a34f">
+<edm:aggregatedCHO rdf:resource="hdl:11471/562.20.339"/>
+<edm:dataProvider>Karl-Franzens-Universität Graz</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://gams.uni-graz.at/o:cord.232e73ec.00b4.31eb.9492.a9669604a34f"/>
+<edm:isShownBy rdf:resource="http://gams.uni-graz.at/o:cord.232e73ec.00b4.31eb.9492.a9669604a34f"/>
+<edm:object rdf:resource="http://gams.uni-graz.at/o:cord.232e73ec.00b4.31eb.9492.a9669604a34f"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

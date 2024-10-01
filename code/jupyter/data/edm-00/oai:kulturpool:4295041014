@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="CHA389">
+<dc:coverage>Österreich</dc:coverage>
+<dc:creator rdf:resource="#Gottfried_Semper_K&#xFC;nstler_in"/>
+<dc:creator rdf:resource="#Carl_von_Hasenauer_K&#xFC;nstler_in"/>
+<dc:date>1.7.1873</dc:date>
+<dc:description xml:lang="de">Beschriftung: "Projekt für das neu zu erbauende k. k. Hofschauspielhaus./ Vordere Ansicht gegen die Ringstrasse."</dc:description>
+<dc:description xml:lang="de">Beschriftung: "Gottfried Semper Carl Hasenauer/ 1/ 7 1873"</dc:description>
+<dc:identifier>CHA389</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Albertina, Wien, Österreich</dc:publisher>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dc:subject xml:lang="de">Zeichnung</dc:subject>
+<dc:subject xml:lang="en">drawing</dc:subject>
+<dc:title xml:lang="de">Wien I, Burgtheater, Fassade zum Ring, Aufriß</dc:title>
+<dc:type xml:lang="de">Architektur</dc:type>
+<dcterms:created>1.7.1873</dcterms:created>
+<dcterms:extent xml:lang="de">Blatt: 76,3 × 170,3 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Architektursammlung</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Feder</dcterms:medium>
+<dcterms:spatial xml:lang="de">Österreich</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295041014">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=4295041014"/>
+<dc:rights xml:lang="de">Public Domain Mark 1.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Architektursammlung</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Gottfried_Semper_K&#xFC;nstler_in">
+<skos:prefLabel>Gottfried Semper (Künstler_in)</skos:prefLabel>
+<dc:date>1.7.1873</dc:date>
+<dcterms:isPartOf xml:lang="de">Architektursammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Gottfried Semper</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Hamburg 1803 - 1879 Rom</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Carl_von_Hasenauer_K&#xFC;nstler_in">
+<skos:prefLabel>Carl von Hasenauer (Künstler_in)</skos:prefLabel>
+<dc:date>1.7.1873</dc:date>
+<dcterms:isPartOf xml:lang="de">Architektursammlung</dcterms:isPartOf>
+<foaf:name xml:lang="de">Carl von Hasenauer</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien 1833 - 1894 Wien</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Künstler_in</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<ore:Aggregation rdf:about="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[CHA389]&amp;showtype=record">
+<edm:aggregatedCHO rdf:resource="CHA389"/>
+<edm:dataProvider>Albertina</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlungenonline.albertina.at/?query=search=/record/objectnumbersearch=[CHA389]&amp;showtype=record"/>
+<edm:isShownBy rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/CHA389.jpg&amp;cache=yes"/>
+<edm:object rdf:resource="https://sammlungenonline.albertina.at/cc/imageproxy.ashx?server=localhost&amp;port=15001&amp;filename=images/CHA389.jpg&amp;cache=yes&amp;maxwidth=400"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="tag:www.monasterium.net,2011:/charter/AT-StiAM/MelkOSB/1316_V_03">
+<dc:date>1316-05-03</dc:date>
+<dc:description xml:lang="de">Ruger der Toppler von Weichselbach verkauft mit Zustimmung seiner Frau Gertraud und seines Sohnes Ruger sein Eigenlehen zu Kuffern in der Weitner Pfarre um 25 Pfund an Konrad den Perneker und dessen Frau Agnes zu fünf Pfennig Burgrechtsdienst zu Kolomanni. Zeugen: Marquard von Kuffern, Konrad von Kuffern, Heinrich der Weizperger, Egolf von *Eibansdorf.</dc:description>
+<dc:identifier>tag:www.monasterium.net,2011:/charter/AT-StiAM/MelkOSB/1316_V_03</dc:identifier>
+<dc:language>Deutsch</dc:language>
+<dc:publisher xml:lang="de">Monasterium.net</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dc:subject xml:lang="en">Medieval Charter</dc:subject>
+<dc:title xml:lang="de">Charter: MelkOSB 1316 V 03</dc:title>
+<dc:type xml:lang="de">Charter</dc:type>
+<dcterms:created>1316-05-03</dcterms:created>
+<dcterms:extent>32x18 Plica</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">
+                    Stiftsarchiv Melk
+                </dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=322123653209">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=322123653209"/>
+<dc:description xml:lang="de">Ruger der Toppler von Weichselbach verkauft mit Zustimmung seiner Frau Gertraud und seines Sohnes Ruger sein Eigenlehen zu Kuffern in der Weitner Pfarre um 25 Pfund an Konrad den Perneker und dessen Frau Agnes zu fünf Pfennig Burgrechtsdienst zu Kolomanni. Zeugen: Marquard von Kuffern, Konrad von Kuffern, Heinrich der Weizperger, Egolf von *Eibansdorf.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC
+                    3.0</dc:rights>
+<dcterms:extent>32x18 Plica</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">
+                    Stiftsarchiv Melk
+                </dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://monasterium.net/mom/AT-StiAM/MelkOSB/1316_V_03/charter">
+<edm:aggregatedCHO rdf:resource="tag:www.monasterium.net,2011:/charter/AT-StiAM/MelkOSB/1316_V_03"/>
+<edm:dataProvider>Monasterium</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://monasterium.net/mom/AT-StiAM/MelkOSB/1316_V_03/charter"/>
+<edm:isShownBy rdf:resource="http://images.icar-us.eu/iiif/2/img%2FAT-StiAM%2FMelkOSB%2FAT-StiAM_MelkOSB_13160503.jpg/full/full/0/default.jpg"/>
+<edm:object rdf:resource="http://images.icar-us.eu/iiif/2/img%2FAT-StiAM%2FMelkOSB%2FAT-StiAM_MelkOSB_13160503.jpg/full/400,/0/default.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

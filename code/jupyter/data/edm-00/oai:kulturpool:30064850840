@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="w_18890030188">
+<dc:creator xml:lang="de">Schimper,G.H.W. Iter abyssinicum Sectio secunda 660</dc:creator>
+<dc:date>1840-02-12</dc:date>
+<dc:description xml:lang="de">Syntypus for Lobelia schimperi Hochst. ex A. Rich.: Tent. fl. abyss. 2 (= Voyage 5): 6 (1850)</dc:description>
+<dc:identifier>w_18890030188</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>Naturhistorisches Museum - Wien</dc:publisher>
+<dc:title xml:lang="de">Lobelia schimperi Hochst. ex A. Rich.</dc:title>
+<dc:type xml:lang="de">Herbarium Beleg</dc:type>
+<dcterms:created>1840-02-12</dcterms:created>
+<dcterms:isPartOf>Herbarium Reichenbach</dcterms:isPartOf>
+<dcterms:spatial xml:lang="de">Ethiopia - Ad rupes madidas circa ruvulos in regione media montis Silke.</dcterms:spatial>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=30064850840">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=30064850840"/>
+<dc:description xml:lang="de">Syntypus for Lobelia schimperi Hochst. ex A. Rich.: Tent. fl. abyss. 2 (= Voyage 5): 6 (1850)</dc:description>
+<dcterms:isPartOf>Herbarium Reichenbach</dcterms:isPartOf>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://herbarium.univie.ac.at/database/detail.php?ID=67114">
+<edm:aggregatedCHO rdf:resource="w_18890030188"/>
+<edm:dataProvider>Naturhistorisches Museum</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://herbarium.univie.ac.at/database/detail.php?ID=67114"/>
+<edm:isShownBy rdf:resource="http://herbarium.univie.ac.at/database/image.php?filename=w_18890030188&amp;method=resized"/>
+<edm:object rdf:resource="http://herbarium.univie.ac.at/database/image.php?filename=w_18890030188&amp;method=resized"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

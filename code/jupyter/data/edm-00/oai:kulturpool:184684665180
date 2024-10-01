@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KI 3828-8">
+<dc:contributor rdf:resource="#Krainer_J._Entwurf"/>
+<dc:contributor rdf:resource="#Anonym_Kopie_nach"/>
+<dc:identifier>KI 3828-8</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Kopie von zwei in den Haller Edelsteinkronen eingesetzten Damenschmuckstücken mit vier bzw. einer Perle von J. Krainer (vom Bearbeiter vergebener Titel)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300015640"/>
+<dcterms:extent>Höhe: 32.5 cm</dcterms:extent>
+<dcterms:extent>Breite: 49.9 cm</dcterms:extent>
+<dcterms:extent>Höhe (Untersatzkarton): 19.7 cm</dcterms:extent>
+<dcterms:extent>Breite (Untersatzkarton): 14.2 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Stilkopie (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">stylistic copies collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Untersatzkarton</dcterms:medium>
+<dcterms:medium xml:lang="en">secondary support cardboard</dcterms:medium>
+<dcterms:medium xml:lang="de">Papier</dcterms:medium>
+<dcterms:medium xml:lang="en">paper</dcterms:medium>
+<dcterms:medium xml:lang="de">Gouache</dcterms:medium>
+<dcterms:medium xml:lang="en">gouache</dcterms:medium>
+<dcterms:medium xml:lang="de">Weißhöhung</dcterms:medium>
+<dcterms:medium xml:lang="en">highlighting</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4304888-2"/>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4304888-2"/>
+<dcterms:temporal rdf:resource="temporal#184684665180"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=184684665180">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=184684665180"/>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Stilkopie (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">stylistic copies collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Krainer_J._Entwurf">
+<skos:prefLabel xml:lang="de">Krainer, J. (Entwurf) (Nový Bor / Haida, 1881)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Krainer, J.</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Stilkopie (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">stylistic copies collection (Collection)</dcterms:isPartOf>
+<edm:begin>1881</edm:begin>
+<edm:end>1881</edm:end>
+<foaf:name xml:lang="de">Krainer, J.</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Nový Bor / Haida, 1881</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Nový Bor, 1881</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Entwurf</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:Agent rdf:about="#Anonym_Kopie_nach">
+<skos:prefLabel xml:lang="de">Anonym (Kopie nach) (Hall in Tirol, 1881)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anonym</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Stilkopie (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">stylistic copies collection (Collection)</dcterms:isPartOf>
+<edm:begin>1657</edm:begin>
+<edm:end>1657</edm:end>
+<foaf:name xml:lang="de">Anonym</foaf:name>
+<foaf:name xml:lang="en">anonymous</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Hall in Tirol, 1881</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Kopie nach</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#184684665180">
+<skos:prefLabel>1657-1881</skos:prefLabel>
+<dcterms:isPartOf xml:lang="en">Library and Works on Paper Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Bibliothek und Kunstblättersammlung (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="ja"> (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Stilkopie (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">stylistic copies collection (Collection)</dcterms:isPartOf>
+<edm:begin>1657</edm:begin>
+<edm:end>1881</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-323501">
+<edm:aggregatedCHO rdf:resource="KI 3828-8"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:hasView rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3828-8_2.jpg"/>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-323501"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3828-8_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ki-3828-8_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="oai:fue.onb.at:eTravel:9ffe5e93-ed4c-45cb-ad60-15fe576c5037">
+<dc:date>1900-04-20</dc:date>
+<dc:description xml:lang="de">Zeitung zu den Themen Reise, Tourismus, Fremdenverkehr</dc:description>
+<dc:description xml:lang="en">Journal on the theme of travel tourism</dc:description>
+<dc:identifier>oai:fue.onb.at:eTravel:9ffe5e93-ed4c-45cb-ad60-15fe576c5037</dc:identifier>
+<dc:language>de</dc:language>
+<dc:language>en</dc:language>
+<dc:publisher xml:lang="de">Dillinger</dc:publisher>
+<dc:subject xml:lang="de">Reise</dc:subject>
+<dc:subject xml:lang="de">Tourimus</dc:subject>
+<dc:subject xml:lang="de">Fremdenverkehr</dc:subject>
+<dc:subject xml:lang="en">travel</dc:subject>
+<dc:subject xml:lang="en">tourism</dc:subject>
+<dc:title xml:lang="de">Dillingers Reise- und Fremden-Zeitung : unabhängiges Organ für internationalen Reise und Fremdenverkehr, 1900-04-20</dc:title>
+<dc:type xml:lang="de">Text</dc:type>
+<dcterms:created>1900-04-20</dcterms:created>
+<dcterms:isPartOf>Anno</dcterms:isPartOf>
+<dcterms:temporal>Wien ; Berlin; Wien [1895-1896,Nov.] 6.1895 - 11.1900 ; erscheint 3x monatlich</dcterms:temporal>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=81604426152">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=81604426152"/>
+<dc:description xml:lang="de">Zeitung zu den Themen Reise, Tourismus, Fremdenverkehr</dc:description>
+<dc:description xml:lang="en">Journal on the theme of travel tourism</dc:description>
+<dcterms:isPartOf>Anno</dcterms:isPartOf>
+</edm:WebResource>
+<ore:Aggregation rdf:about="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=dil&amp;datum=19000420">
+<edm:aggregatedCHO rdf:resource="oai:fue.onb.at:eTravel:9ffe5e93-ed4c-45cb-ad60-15fe576c5037"/>
+<edm:dataProvider>Österreichische Nationalbibliothek</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=dil&amp;datum=19000420"/>
+<edm:isShownBy rdf:resource="http://anno.onb.ac.at/preview/dil/1900/19000420/00000001.png"/>
+<edm:object rdf:resource="http://anno.onb.ac.at/preview/dil/1900/19000420/00000001.png"/>
+<edm:provider>Kulturpool</edm:provider>
+</ore:Aggregation>
+</rdf:RDF>

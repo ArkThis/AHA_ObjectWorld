@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="VM-11">
+<dc:contributor xml:lang="de">Vorarlberger Landtag</dc:contributor>
+<dc:date xml:lang="de">1860</dc:date>
+<dc:description xml:lang="de">Die Wahlurne in Form eines Pokals mit Deckel aus Eisenblech mit Messingverzierungen war von 1861 bis 1939 für schriftliche Abstimmungen im Vorarlberger Landtag in Verwendung. Ein Einwurfschlitz ist nicht vorhanden.</dc:description>
+<dc:identifier>VM-11</dc:identifier>
+<dc:language>de</dc:language>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dc:title xml:lang="de">Wahlurne des Vorarlberger Landtages</dc:title>
+<dc:type xml:lang="de">Herrschaft/Verwaltung</dc:type>
+<dcterms:created xml:lang="de">1860</dcterms:created>
+<dcterms:extent xml:lang="de">Höhe: 48,5 cm, Durchmesser Boden: 14 cm, Rand: 14 cm, Bauch: 21 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">vorarlberg museum</dcterms:isPartOf>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=614180353316">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=614180353316"/>
+<dc:description xml:lang="de">Die Wahlurne in Form eines Pokals mit Deckel aus Eisenblech mit Messingverzierungen war von 1861 bis 1939 für schriftliche Abstimmungen im Vorarlberger Landtag in Verwendung. Ein Einwurfschlitz ist nicht vorhanden.</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-SA</dc:rights>
+<dcterms:isPartOf xml:lang="de">vorarlberg museum</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://apps.m-box.at/panoptikum/archives/v5_vb03/mitems/6309dda4-85b8-11e0-894f-3e9e657c5b7c">
+<edm:aggregatedCHO rdf:resource="VM-11"/>
+<edm:dataProvider>Museen in Vorarlberg</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://apps.m-box.at/panoptikum/archives/v5_vb03/mitems/6309dda4-85b8-11e0-894f-3e9e657c5b7c"/>
+<edm:isShownBy rdf:resource="https://apps.m-box.at/panoptikum/archives/v5_vb03/mitems/6309dda4-85b8-11e0-894f-3e9e657c5b7c/media/41ff6314-8bd3-45fd-b634-d50ebd8bfc3f/content"/>
+<edm:object rdf:resource="https://apps.m-box.at/panoptikum/archives/v5_vb03/mitems/6309dda4-85b8-11e0-894f-3e9e657c5b7c/media/41ff6314-8bd3-45fd-b634-d50ebd8bfc3f/content"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

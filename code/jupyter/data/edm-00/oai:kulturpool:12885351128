@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="013535">
+<dc:coverage>1505-1505</dc:coverage>
+<dc:date>1505-1505</dc:date>
+<dc:description xml:lang="de">Tafelbild (Einrichtung/Innenausstattung)</dc:description>
+<dc:identifier>013535</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Hl. Johannes der Täufer</dc:subject>
+<dc:title xml:lang="de">Hl. Johannes der Täufer</dc:title>
+<dc:title xml:lang="en">St. John the Baptist</dc:title>
+<dcterms:created>1505-1505</dcterms:created>
+<dcterms:extent xml:lang="de">17x71 cm</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Holz/Temperamalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">wood/tempera painting</dcterms:medium>
+<dcterms:spatial xml:lang="de">Jak</dcterms:spatial>
+<edm:currentLocation xml:lang="de">Martinskirche - Jak - Ungarn</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Zeigegestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Borte</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Besatz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Heuke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">barfuß</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schärpe</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fellkittel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hl. Johannes der Täufer</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bucheinband</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Lamm</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Buch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kreuzstab</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fahne</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hintergrund</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Buckel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wiese</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885351128">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885351128"/>
+<dc:description xml:lang="de">Tafelbild (Einrichtung/Innenausstattung)</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=013535">
+<edm:aggregatedCHO rdf:resource="013535"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=013535"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7014484"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7014484"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

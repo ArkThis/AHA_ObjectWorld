@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="PA_RaraG486">
+<dc:creator rdf:resource="#Isadora_Duncan_Bezug/Person"/>
+<dc:date xml:lang="de">27.3.1903</dc:date>
+<dc:identifier>PA_RaraG486</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher>KHM-Museumsverband</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dc:title xml:lang="de">Gastspiel Miss Isadora Duncan</dc:title>
+<dc:type xml:lang="de">Theaterzettel</dc:type>
+<dcterms:created xml:lang="de">27.3.1903</dcterms:created>
+<dcterms:isPartOf xml:lang="de">Programmarchiv</dcterms:isPartOf>
+<dcterms:temporal rdf:resource="temporal#283468657654"/>
+<edm:isRelatedTo>Programmarchiv</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=283468657654">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=283468657654"/>
+<dc:rights xml:lang="de">CC BY-NC-SA 4.0</dc:rights>
+<dcterms:isPartOf xml:lang="de">Programmarchiv</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Isadora_Duncan_Bezug/Person">
+<skos:prefLabel>Isadora Duncan (Bezug/Person)</skos:prefLabel>
+<dc:date>27.3.1903</dc:date>
+<dcterms:isPartOf xml:lang="de">Programmarchiv</dcterms:isPartOf>
+<foaf:name xml:lang="de">Isadora Duncan</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">1877 San Francisco - 1927 Nizza</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation>Bezug/Person</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#283468657654">
+<skos:prefLabel>1903</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Programmarchiv</dcterms:isPartOf>
+<edm:begin>1903</edm:begin>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="http://www.theatermuseum.at/online-sammlung/detail/572021/">
+<edm:aggregatedCHO rdf:resource="PA_RaraG486"/>
+<edm:dataProvider>Theatermuseum Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="http://www.theatermuseum.at/online-sammlung/detail/572021/"/>
+<edm:isShownBy rdf:resource="http://imageapi.khm.at/images/572021/PA_RARAG486.jpg"/>
+<edm:object rdf:resource="http://imageapi.khm.at/images/572021/PA_RARAG486.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

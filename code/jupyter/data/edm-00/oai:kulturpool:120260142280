@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="KE 7906">
+<dc:contributor rdf:resource="#Du_Paquier_Claudius_Innocentius_Manufaktur"/>
+<dc:description xml:lang="de">flache Form mit leicht gewelltem Rand. Auf der Fahne vier lange Felder in Unterglasurblau mit Goldranken zu Seiten einer roten Mittelblume sowie vier kleine Reserven mit violetter Palmette auf eisenrotem Gitterwerk. Der mit einer eisenroten Bogenbordüre gerahmte Spiegel zeigt ein dreilappiges Blatt mit Blütenzweigen. Das Blatt ist bemalt mit Miniaturdarstellungen von chinesischen Gefäßen und einem exotischen Vogel</dc:description>
+<dc:identifier>KE 7906</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">MAK – Museum für angewandte Kunst, Wien</dc:publisher>
+<dc:publisher xml:lang="en">MAK – Museum of Applied Arts, Vienna</dc:publisher>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dc:title xml:lang="de">Teller</dc:title>
+<dc:title xml:lang="en">plate (dish)</dc:title>
+<dc:type rdf:resource="http://vocab.getty.edu/aat/300042991"/>
+<dcterms:extent>Durchmesser: 30.5 cm</dcterms:extent>
+<dcterms:extent>Höhe: 3.5 cm</dcterms:extent>
+<dcterms:extent>Gewicht: 784 g</dcterms:extent>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Porzellan</dcterms:medium>
+<dcterms:medium xml:lang="en">porcelain</dcterms:medium>
+<dcterms:medium xml:lang="de">Unterglasurmalerei</dcterms:medium>
+<dcterms:medium xml:lang="en">underglazing</dcterms:medium>
+<dcterms:medium xml:lang="de">bemalt</dcterms:medium>
+<dcterms:medium xml:lang="en">painted</dcterms:medium>
+<dcterms:medium xml:lang="de">glasiert</dcterms:medium>
+<dcterms:medium xml:lang="en">glazed</dcterms:medium>
+<dcterms:medium xml:lang="de">Golddekor</dcterms:medium>
+<dcterms:medium xml:lang="en">gold decoration</dcterms:medium>
+<dcterms:provenance xml:lang="de">Ankauf (1942-12-11)</dcterms:provenance>
+<dcterms:provenance xml:lang="en">purchase (1942-12-11)</dcterms:provenance>
+<dcterms:spatial rdf:resource="https://d-nb.info/gnd/4066009-6"/>
+<dcterms:temporal rdf:resource="temporal#120260142280"/>
+<edm:currentLocation rdf:resource="https://sws.geonames.org/2761369/"/>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260142280">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=120260142280"/>
+<dc:description xml:lang="de">flache Form mit leicht gewelltem Rand. Auf der Fahne vier lange Felder in Unterglasurblau mit Goldranken zu Seiten einer roten Mittelblume sowie vier kleine Reserven mit violetter Palmette auf eisenrotem Gitterwerk. Der mit einer eisenroten Bogenbordüre gerahmte Spiegel zeigt ein dreilappiges Blatt mit Blütenzweigen. Das Blatt ist bemalt mit Miniaturdarstellungen von chinesischen Gefäßen und einem exotischen Vogel</dc:description>
+<dc:rights xml:lang="de">In Copyright</dc:rights>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</edm:WebResource>
+<edm:Agent rdf:about="#Du_Paquier_Claudius_Innocentius_Manufaktur">
+<skos:prefLabel xml:lang="de">Du Paquier, Claudius Innocentius (Manufaktur) (Wien, um 1735)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Du Paquier, Claudius Innocentius</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:begin>1725</edm:begin>
+<edm:end>1745</edm:end>
+<foaf:name xml:lang="de">Du Paquier, Claudius Innocentius</foaf:name>
+<rdaGr2:biographicalInformation xml:lang="de">Wien, um 1735</rdaGr2:biographicalInformation>
+<rdaGr2:biographicalInformation xml:lang="en">Vienna, about 1735</rdaGr2:biographicalInformation>
+<rdaGr2:professionOrOccupation xml:lang="de">Manufaktur</rdaGr2:professionOrOccupation>
+</edm:Agent>
+<edm:TimeSpan rdf:about="temporal#120260142280">
+<skos:prefLabel>1725-1745</skos:prefLabel>
+<dcterms:isPartOf xml:lang="de">Glas und Keramik (Abteilung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">Glass and Ceramics Collection (Department)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="de">Keramik (Sammlung)</dcterms:isPartOf>
+<dcterms:isPartOf xml:lang="en">ceramics collection (Collection)</dcterms:isPartOf>
+<edm:begin>1725</edm:begin>
+<edm:end>1745</edm:end>
+</edm:TimeSpan>
+<ore:Aggregation rdf:about="https://sammlung.mak.at/sammlung_online?id=collect-5602">
+<edm:aggregatedCHO rdf:resource="KE 7906"/>
+<edm:dataProvider>MAK – Museum für angewandte Kunst, Wien</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://sammlung.mak.at/sammlung_online?id=collect-5602"/>
+<edm:isShownBy rdf:resource="https://sammlung.mak.at/img/1200x1200/publikationsbilder/ke-7906_1.jpg"/>
+<edm:object rdf:resource="https://sammlung.mak.at/img/300x300/publikationsbilder/ke-7906_1.jpg"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+</ore:Aggregation>
+</rdf:RDF>

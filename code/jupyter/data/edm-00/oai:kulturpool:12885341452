@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:cc="https://creativecommons.org/ns#" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.uma.at/ns/melvil/transcoder/content">
+<edm:ProvidedCHO rdf:about="006807">
+<dc:coverage>1475-1475</dc:coverage>
+<dc:date>1475-1475</dc:date>
+<dc:description xml:lang="de">Illustrationszyklus Medizin/Miniatur</dc:description>
+<dc:identifier>006807</dc:identifier>
+<dc:language>de</dc:language>
+<dc:publisher xml:lang="de">Institut für Realienkunde - Universität Salzburg</dc:publisher>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dc:subject xml:lang="de">Sterbeszene</dc:subject>
+<dc:title xml:lang="de">Sterbeszene</dc:title>
+<dc:title xml:lang="en">Man dying</dc:title>
+<dcterms:created>1475-1475</dcterms:created>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<dcterms:medium xml:lang="de">Federzeichnung koloriert</dcterms:medium>
+<dcterms:medium xml:lang="en">pen drawing coloured</dcterms:medium>
+<edm:currentLocation xml:lang="de">Österreichische Nationalbibliothek - Wien - Wien - Österreich</edm:currentLocation>
+<edm:isRelatedTo xml:lang="de">Redegestus</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">sitzend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">betend</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">nackt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gürtel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Rock</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Birett</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Knopf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Gebende</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kragen</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schuh</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kranker</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Arzt</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bader</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Hund</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fliese</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Griff</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Leintuch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kerzenteller</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schwanz</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Becher</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Innenfutter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Nachttopf</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bettdecke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Wand</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Schlappohr</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kerzenleuchter</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Quaste</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tisch</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Kerze</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Stoffmuster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Deckel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Tischdecke</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Krug</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Bett</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Henkel</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Fliesenboden</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="de">Polster</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">physician</edm:isRelatedTo>
+<edm:isRelatedTo xml:lang="en">barber surgeon</edm:isRelatedTo>
+<edm:type>IMAGE</edm:type>
+</edm:ProvidedCHO>
+<edm:WebResource rdf:about="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885341452">
+<dcterms:isReferencedBy rdf:resource="http://www.kulturpool.at/plugins/kulturpool/showitem.action?kupoContext=default&amp;itemId=12885341452"/>
+<dc:description xml:lang="de">Illustrationszyklus Medizin/Miniatur</dc:description>
+<dc:rights xml:lang="de">CC BY-NC-ND 4.0 </dc:rights>
+<dcterms:isPartOf xml:lang="de">REALonline</dcterms:isPartOf>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</edm:WebResource>
+<ore:Aggregation rdf:about="https://realonline.imareal.sbg.ac.at/detail/?archivnr=006807">
+<edm:aggregatedCHO rdf:resource="006807"/>
+<edm:dataProvider>Institut für Realienkunde</edm:dataProvider>
+<edm:isShownAt rdf:resource="https://realonline.imareal.sbg.ac.at/detail/?archivnr=006807"/>
+<edm:isShownBy rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7008638"/>
+<edm:object rdf:resource="https://realonline.imareal.sbg.ac.at/imageservice/kupo/7008638"/>
+<edm:provider>Kulturpool</edm:provider>
+<edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+</ore:Aggregation>
+</rdf:RDF>
