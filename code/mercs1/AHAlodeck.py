@@ -79,13 +79,24 @@ class AHAlodeck():
 
     def writeMetadata(self, metadata):
         filename = self.objects[0]  # TODO: currently it can only do 1.
+        xattrs = self.xattrs
+
+        #TODO: Write all changes atomically? meaning: delete everything
+        #first, then write again from 'metadata' variable?
+        print("Removing all existing attributes first...")
+        #xattrs.clear()
+
         print("Storing metadata with '{}':".format(filename))
+        count = 0
         for key, value in metadata:
-            print("  '{} = {}'".format(key, value))
-            #TODO: actually write the xattrs.
-            #TODO: Write all changes atomically? meaning: delete everything
-            #first, then write again from 'metadata' variable?
-        print("done.")
+            #print("  '{} = {}'".format(key, value))
+
+            # Actually write the xattr pair:
+            # set() expects value to be a byte sequence (not string).
+            xattrs.set(key, value.encode(self.encoding))
+            count += 1
+
+        print("done saving {} attributes.".format(count))
 
 
     ##
