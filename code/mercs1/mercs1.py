@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # This Python file uses the following encoding: utf-8
 
-# MERCS = Metadata? Right-Click-Edit: Save.
+# MERCS = Metadata Edit? Right-Click: Save.
 
 import sys
 from os import path
