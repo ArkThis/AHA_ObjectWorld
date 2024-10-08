@@ -74,27 +74,6 @@ class AHAlodeck():
         #pprint(kv_list) # DEBUG DELME
         return kv_list
 
-    ##
-    # Defunct.
-    # written for pyxattr.
-    def readMetadata(self, filename):
-        metadata = xattr.get_all(filename)
-        return metadata
-
-    ##
-    # Reads all existing extended attributes and returns them as
-    # "list of (key/value) tuples".
-    #
-    def readMetadataAsList(self, xattrs):
-        as_list = []
-        for key in xattrs.list():
-            value = xattrs.get(key)
-            #print("pair: {} = {}".format(key, value))
-            as_tuple = (key, value)
-            as_list.append(as_tuple)
-        return as_list
-
-
     def setMetadata(self, metadata):
         self.metadata = metadata
 
@@ -127,7 +106,7 @@ class AHAlodeck():
 
         # Read xattr metadata:
         self.xattrs = xattr.xattr(self.args.file)
-        metadata = self.readMetadataAsList(self.xattrs)
+        metadata = self.xattrs.items()
 
         #metadata = self.readMetadata(self.args.file)
         self._metadata = metadata.copy()    # Keep a clone of the original data read from the filesystem.
