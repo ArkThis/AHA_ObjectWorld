@@ -102,7 +102,7 @@ class AHAlodeck():
     ##
     # Revert the metadata to its original state.
     #
-    def restoreMetadata(self):
+    def revertMetadata(self):
         self.metadata = self._metadata.copy()
 
 

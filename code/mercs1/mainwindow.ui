@@ -105,6 +105,32 @@
      <string>Save</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="btnReload">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>350</y>
+      <width>61</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Reload</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnRevert">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>350</y>
+      <width>61</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Revert</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">

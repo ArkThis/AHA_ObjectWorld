@@ -35,6 +35,8 @@ class Ui(QtWidgets.QMainWindow):
         self.btnAddEntry.clicked.connect(self.btnAddEntryClicked)
         self.btnDelEntry.clicked.connect(self.btnDelEntryClicked)
         self.btnSave.clicked.connect(self.btnSaveClicked)
+        self.btnReload.clicked.connect(self.btnReloadClicked)
+        self.btnRevert.clicked.connect(self.btnRevertClicked)
 
 
     def getContentLength(self):
@@ -63,6 +65,7 @@ class Ui(QtWidgets.QMainWindow):
 
 
     def initTableData(self, table, metadata):
+        print("init Table.")
         row = 0
         for key, value in metadata:
             #print("key: {}, value: {}".format(key, value))
@@ -99,6 +102,7 @@ class Ui(QtWidgets.QMainWindow):
         for i in delList:
             #print("deleting row {}".format(i))
             table.removeRow(i)
+            # TODO: Remove entry from metadata tuple-list, too.
 
 
     def btnSaveClicked(self):
@@ -107,6 +111,21 @@ class Ui(QtWidgets.QMainWindow):
         metadata = self.getMetadataFromTable()
         aha.setMetadata(metadata)
         aha.writeMetadata(aha.getMetadata())
+
+
+    def btnReloadClicked(self):
+        print("reload.")
+        metadata = self.aha.getMetadataText()
+        self.initTable(self.table)
+        self.initTableData(self.table, metadata)
+
+
+    def btnRevertClicked(self):
+        print("revert.")
+        aha = self.aha
+
+        aha.revertMetadata()
+        print(aha.getMetadata())
 
 
     def getMetadataFromTable(self):
