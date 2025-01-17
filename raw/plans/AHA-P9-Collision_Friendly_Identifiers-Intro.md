@@ -1,9 +1,5 @@
 # Collision Friendly Identifiers
 
-2024-02-24
-2025-01-17
- - Changed the format from `%s-%s-%s` to `%s/%s/%s`. For consistency.
-
 ## Abstract
 
 Reconsidering the "uniqueness" of a digital identifier to a point where a "pattern collision" limits the number of individual Objects that could theoretically co-exist at the same time. On purpose.
@@ -574,3 +570,11 @@ Put the meta with the data: In the filesystem.
 
 Not in the ID.
 Thank you. 😘️
+
+
+
+# Changelog
+
+  * 2024-02-24: Started
+  * 2025-01-17: Changed the format from `%s-%s-%s` to `%s/%s/%s`. For consistency. Added details.
+
