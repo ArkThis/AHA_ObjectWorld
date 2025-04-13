@@ -85,7 +85,7 @@ Simply moving as much metadata as possible (even binary headers) to the filesyst
 
 What are currently very different file formats in binary layout will become very similar (and therefore easier if not instantly supported) data formats. More complex formats may involve related objects (object graph).
 
-Or "mature" data objects (on such annotated-graph-like-filesystems) may include metadata like "a decoder": in any form, too.
+Later, maybe so called "mature" (or AIP? :P) data objects (on such annotated-graph-like-filesystems) may include metadata like "a decoder": in any form, too.
 For example, media files could "link" (key/value) to online information or tools how to decode/interpret itself.
 Or (if `max. attribute size` allows): Simply contain a codec (in run-able form).
 
