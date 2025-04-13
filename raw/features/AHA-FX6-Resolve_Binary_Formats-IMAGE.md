@@ -78,7 +78,7 @@ So any application opening "an image object", would probably care less about "wh
 
 # Summary
 
-I believe we've reached the point in computing, where we can re-question very fundamentally-basic paradigms we've grown up with and fond and tired of: Like complex-binary (container-)file-formats.
+I believe we've reached the point in computing, where we can re-question very fundamentally-basic paradigms we've grown up with and fond and maybe tired of: Like complex-binary (container-)file-formats.
 
 Simply moving as much metadata as possible (even binary headers) to the filesystem level will greatly change interoperability and feature-support between applications and any data "formats".
 
