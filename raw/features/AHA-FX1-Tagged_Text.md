@@ -12,11 +12,12 @@ This may be crazy, but one could actually tag each word of a written text,
 generate an object for each word or phrase - and then re-create that text by
 generating a new Object that refers to these "word objects" in the right order.
 
-Each word-Object would now be capable of not only receiving a referrable GPID,
+Each word-Object would now be capable of not only receiving a referrable ID (URI?),
 but also "machine readable" gets a complete new meaning. Because if a machine
 is able to use/understand this "hyper-AHA-structured text", these word-Objects
 could then be connected to any other digital data object (image, video, audio,
-document, etc).
+document, etc). And of course the word-objects would be annotated: dictionary 
+(reference) links (URL/URI), language tags, translation references, etc.
 
 In that way, any information depicted as Object can be referenced to a
 word-Object. The graphs which are dereby being created can then be used to
